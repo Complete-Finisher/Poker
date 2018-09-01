@@ -1,0 +1,49 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="ShopLayer" Type="Plist" ID="ad8e6bac-713a-48af-8a4c-11ec5bbd28b7" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ShopLayer/chip_red.png" />
+      <FilePathData Path="ShopLayer/chips_st.png" />
+      <FilePathData Path="ShopLayer/chips001@2x.png" />
+      <FilePathData Path="ShopLayer/chips002@2x.png" />
+      <FilePathData Path="ShopLayer/chips003@2x.png" />
+      <FilePathData Path="ShopLayer/chips004@2x.png" />
+      <FilePathData Path="ShopLayer/chips005@2x.png" />
+      <FilePathData Path="ShopLayer/chips006@2x.png" />
+      <FilePathData Path="ShopLayer/chips007@2x.png" />
+      <FilePathData Path="ShopLayer/diamond.png" />
+      <FilePathData Path="ShopLayer/dt-hlgcwxz.png" />
+      <FilePathData Path="ShopLayer/dt-hlgcxz.png" />
+      <FilePathData Path="ShopLayer/general_checkbox1.png" />
+      <FilePathData Path="ShopLayer/general_checkbox2.png" />
+      <FilePathData Path="ShopLayer/general_message_box_header.png" />
+      <FilePathData Path="General/global_button_close.png" />
+      <FilePathData Path="ShopLayer/guest_mbig.png" />
+      <FilePathData Path="ShopLayer/icon_info_chips.png" />
+      <FilePathData Path="ShopLayer/img_buy_diamond_1.png" />
+      <FilePathData Path="ShopLayer/img_buy_diamond_2.png" />
+      <FilePathData Path="ShopLayer/img_buy_diamond_3.png" />
+      <FilePathData Path="ShopLayer/img_buy_diamond_4.png" />
+      <FilePathData Path="ShopLayer/img_buy_diamond_5.png" />
+      <FilePathData Path="ShopLayer/img_buy_diamond_6.png" />
+      <FilePathData Path="ShopLayer/img_buy_diamond_7.png" />
+      <FilePathData Path="ShopLayer/img_buy_diamond_8.png" />
+      <FilePathData Path="ShopLayer/img_diamond.png" />
+      <FilePathData Path="ShopLayer/img_label_flag0.png" />
+      <FilePathData Path="ShopLayer/scr_iap_row_blue.png" />
+      <FilePathData Path="ShopLayer/scr_main_lobby_current_chips_container.png" />
+      <FilePathData Path="ShopLayer/img_label_flag0_en.png" />
+      <FilePathData Path="ShopLayer/img_label_flag1_en.png" />
+      <FilePathData Path="ShopLayer/store.png" />
+      <FilePathData Path="ShopLayer/store-sclogo.png" />
+      <FilePathData Path="ShopLayer/store-zcanwxz.png" />
+      <FilePathData Path="ShopLayer/store-zcanxz.png" />
+      <FilePathData Path="ShopLayer/tournment_chips.png" />
+      <FilePathData Path="ShopLayer/value_bg.png" />
+      <FilePathData Path="ShopLayer/verify_selected.png" />
+      <FilePathData Path="ShopLayer/yellow_tag.png" />
+      <FilePathData Path="ShopLayer/img_label_flag1.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

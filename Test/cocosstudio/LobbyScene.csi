@@ -1,0 +1,87 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="LobbyScene" Type="Plist" ID="ed7cfda1-5bd2-4ecb-87bb-cb163ebfedc9" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="LobbyScene/bg_buychips.png" />
+      <FilePathData Path="LobbyScene/btn_adv_free.png" />
+      <FilePathData Path="LobbyScene/btn_bet_plus.png" />
+      <FilePathData Path="LobbyScene/btn_buy.png" />
+      <FilePathData Path="LobbyScene/btn_f_connect.png" />
+      <FilePathData Path="LobbyScene/btn_head_bg.png" />
+      <FilePathData Path="LobbyScene/FreeSpins_available_4.png" />
+      <FilePathData Path="LobbyScene/freespins_chips_1.png" />
+      <FilePathData Path="LobbyScene/general_play_button_big.png" />
+      <FilePathData Path="LobbyScene/h_0001.png" />
+      <FilePathData Path="LobbyScene/h_0002.png" />
+      <FilePathData Path="LobbyScene/h_0003.png" />
+      <FilePathData Path="LobbyScene/h_0004.png" />
+      <FilePathData Path="LobbyScene/h_0005.png" />
+      <FilePathData Path="LobbyScene/h_0006.png" />
+      <FilePathData Path="LobbyScene/h_0007.png" />
+      <FilePathData Path="LobbyScene/h_0008.png" />
+      <FilePathData Path="LobbyScene/h_0009.png" />
+      <FilePathData Path="LobbyScene/h_0010.png" />
+      <FilePathData Path="LobbyScene/h_0011.png" />
+      <FilePathData Path="LobbyScene/h_0012.png" />
+      <FilePathData Path="LobbyScene/h_0013.png" />
+      <FilePathData Path="LobbyScene/h_0014.png" />
+      <FilePathData Path="LobbyScene/h_0015.png" />
+      <FilePathData Path="LobbyScene/h_0016.png" />
+      <FilePathData Path="LobbyScene/h_0017.png" />
+      <FilePathData Path="LobbyScene/h_0018.png" />
+      <FilePathData Path="LobbyScene/h_0019.png" />
+      <FilePathData Path="LobbyScene/h_0020.png" />
+      <FilePathData Path="LobbyScene/h_0021.png" />
+      <FilePathData Path="LobbyScene/h_0022.png" />
+      <FilePathData Path="LobbyScene/h_0023.png" />
+      <FilePathData Path="LobbyScene/h_0024.png" />
+      <FilePathData Path="LobbyScene/h_0025.png" />
+      <FilePathData Path="LobbyScene/h_0026.png" />
+      <FilePathData Path="LobbyScene/h_0027.png" />
+      <FilePathData Path="LobbyScene/h_0028.png" />
+      <FilePathData Path="LobbyScene/h_0029.png" />
+      <FilePathData Path="LobbyScene/h_0030.png" />
+      <FilePathData Path="LobbyScene/h_0031.png" />
+      <FilePathData Path="LobbyScene/h_0032.png" />
+      <FilePathData Path="LobbyScene/h_0033.png" />
+      <FilePathData Path="LobbyScene/h_0034.png" />
+      <FilePathData Path="LobbyScene/h_0035.png" />
+      <FilePathData Path="LobbyScene/h_0036.png" />
+      <FilePathData Path="LobbyScene/h_0037.png" />
+      <FilePathData Path="LobbyScene/h_0038.png" />
+      <FilePathData Path="LobbyScene/h_0039.png" />
+      <FilePathData Path="LobbyScene/h_0040.png" />
+      <FilePathData Path="LobbyScene/h_0041.png" />
+      <FilePathData Path="LobbyScene/h_0042.png" />
+      <FilePathData Path="LobbyScene/h_0043.png" />
+      <FilePathData Path="LobbyScene/h_0044.png" />
+      <FilePathData Path="LobbyScene/header_button_menu_press.png" />
+      <FilePathData Path="LobbyScene/icon_info_chips.png" />
+      <FilePathData Path="LobbyScene/mainlobby_footer_button_freespins_nopointer.png" />
+      <FilePathData Path="LobbyScene/mainlobby_footer_trim_bronze.png" />
+      <FilePathData Path="LobbyScene/mainlobby_footer_trim_gold.png" />
+      <FilePathData Path="LobbyScene/mainlobby_footer_trim_silver.png" />
+      <FilePathData Path="LobbyScene/mainlobby_header_trim_bronze.png" />
+      <FilePathData Path="LobbyScene/mainlobby_header_trim_gold.png" />
+      <FilePathData Path="LobbyScene/mainlobby_header_trim_silver.png" />
+      <FilePathData Path="LobbyScene/profile_experience_container.png" />
+      <FilePathData Path="LobbyScene/profile_experience_points_box.png" />
+      <FilePathData Path="LobbyScene/profile_experience_points_curve.png" />
+      <FilePathData Path="LobbyScene/scr_inbox_button_cta_small.png" />
+      <FilePathData Path="LobbyScene/scr_main_lobby_button_buy_chips.png" />
+      <FilePathData Path="LobbyScene/scr_main_lobby_button_leaderboards.png" />
+      <FilePathData Path="LobbyScene/scr_main_lobby_button_menu.png" />
+      <FilePathData Path="LobbyScene/star1.png" />
+      <FilePathData Path="LobbyScene/LobbyCard1.png" />
+      <FilePathData Path="LobbyScene/LobbyCard2.png" />
+      <FilePathData Path="LobbyScene/LobbyCard3.png" />
+      <FilePathData Path="LobbyScene/LobbyCard4.png" />
+      <FilePathData Path="LobbyScene/mainlobby_header_default.png" />
+      <FilePathData Path="LobbyScene/mainlobby_footer_default.png" />
+      <FilePathData Path="ShopLayer/chip_red.png" />
+      <FilePathData Path="LobbyScene/general_btn_lotty.png" />
+      <FilePathData Path="LobbyScene/middle_yellow_bg.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

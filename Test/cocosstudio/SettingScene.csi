@@ -1,0 +1,49 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="SettingScene" Type="Plist" ID="37863fbd-008f-4301-aad9-685ade8f5d74" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="SettingScene/China.png" />
+      <FilePathData Path="SettingScene/cnHallFAQBtn.png" />
+      <FilePathData Path="SettingScene/France.png" />
+      <FilePathData Path="SettingScene/general_message_box_header.png" />
+      <FilePathData Path="SettingScene/Germany.png" />
+      <FilePathData Path="SettingScene/global_button_close.png" />
+      <FilePathData Path="SettingScene/Italy.png" />
+      <FilePathData Path="SettingScene/Japan.png" />
+      <FilePathData Path="SettingScene/Malaysia.png" />
+      <FilePathData Path="SettingScene/Netherlands.png" />
+      <FilePathData Path="SettingScene/popup_privacy_title.png" />
+      <FilePathData Path="SettingScene/popup_terms_title.png" />
+      <FilePathData Path="SettingScene/Portugal.png" />
+      <FilePathData Path="SettingScene/Russia.png" />
+      <FilePathData Path="SettingScene/scr_settings_general_button.png" />
+      <FilePathData Path="SettingScene/scr_settings_icon_feedback.png" />
+      <FilePathData Path="SettingScene/scr_settings_icon_help.png" />
+      <FilePathData Path="SettingScene/scr_settings_icon_logout.png" />
+      <FilePathData Path="SettingScene/scr_settings_icon_terms.png" />
+      <FilePathData Path="SettingScene/scr_settings_language_border.png" />
+      <FilePathData Path="SettingScene/scr_settings_privacy_bk.png" />
+      <FilePathData Path="SettingScene/scr_settings_slider.png" />
+      <FilePathData Path="SettingScene/scr_settings_title.png" />
+      <FilePathData Path="SettingScene/scr_settings_toggle.png" />
+      <FilePathData Path="SettingScene/scr_settings_toggle_off.png" />
+      <FilePathData Path="SettingScene/scr_settings_toggle_on.png" />
+      <FilePathData Path="SettingScene/Scroll_BG.png" />
+      <FilePathData Path="SettingScene/Scroller.png" />
+      <FilePathData Path="SettingScene/seekbarthum.png" />
+      <FilePathData Path="SettingScene/setting_voice_add.png" />
+      <FilePathData Path="SettingScene/setting_voice_del.png" />
+      <FilePathData Path="SettingScene/SouthKorea.png" />
+      <FilePathData Path="SettingScene/Spain.png" />
+      <FilePathData Path="SettingScene/Thailand.png" />
+      <FilePathData Path="SettingScene/top_blue.png" />
+      <FilePathData Path="SettingScene/top_gray.png" />
+      <FilePathData Path="SettingScene/Turkey.png" />
+      <FilePathData Path="SettingScene/UnitedStates.png" />
+      <FilePathData Path="SettingScene/Vietnam.png" />
+      <FilePathData Path="SettingScene/white border.png" />
+      <FilePathData Path="SettingScene/scr_settings_general_button_gray.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

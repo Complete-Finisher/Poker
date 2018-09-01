@@ -1,0 +1,36 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="General" Type="Plist" ID="60e76dc5-c0df-47fc-b2f7-76bc111ce7ab" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="General/common_btn_green_bg2.png" />
+      <FilePathData Path="General/common_btn_white_bg.png" />
+      <FilePathData Path="General/common_check_protocal_agree.png" />
+      <FilePathData Path="General/common_check_protocal_disagree.png" />
+      <FilePathData Path="General/common_facebook_login.png" />
+      <FilePathData Path="General/common_google_login.png" />
+      <FilePathData Path="General/common_input_bg.png" />
+      <FilePathData Path="General/common_login_20M_flag.png" />
+      <FilePathData Path="General/common_login_btn_background.png" />
+      <FilePathData Path="General/common_login_btn_green_bg.png" />
+      <FilePathData Path="General/common_tourist_login.png" />
+      <FilePathData Path="General/common_twitter_login.png" />
+      <FilePathData Path="General/common_wechat_login.png" />
+      <FilePathData Path="General/global_button_close.png" />
+      <FilePathData Path="General/btn_tab_active.png" />
+      <FilePathData Path="General/btn_tab_disable.png" />
+      <FilePathData Path="General/common_border_1.png" />
+      <FilePathData Path="General/button_1_dark.png" />
+      <FilePathData Path="General/button_1_light.png" />
+      <FilePathData Path="General/button_2.png" />
+      <FilePathData Path="General/button_close_1.png" />
+      <FilePathData Path="General/checkbox_1_selected.png" />
+      <FilePathData Path="General/checkbox_1_unselected.png" />
+      <FilePathData Path="General/slider_1.png" />
+      <FilePathData Path="General/slider_button_plus.png" />
+      <FilePathData Path="General/slider_button_reduce.png" />
+      <FilePathData Path="General/slider_flag_bg.png" />
+      <FilePathData Path="General/slider_knob.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

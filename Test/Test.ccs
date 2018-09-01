@@ -1,0 +1,238 @@
+<Solution>
+  <PropertyGroup Name="Test" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Bg">
+          <Image Name="bg.jpg" />
+          <Image Name="bg_1.png" />
+          <Image Name="general_header_title_bg.jpg" />
+          <Image Name="general_main_popup_window_full.png" />
+          <Image Name="general_title_1048_132.png" />
+          <Image Name="generic_popup.png" />
+          <Image Name="login_bgp.jpg" />
+          <Image Name="person_info_bg.png" />
+          <Image Name="rank_window_bg.png" />
+        </Folder>
+        <Folder Name="Csb">
+          <Project Name="ChooseDesk.csd" Type="Layer" />
+          <Project Name="ChoseLanguage.csd" Type="Layer" />
+          <Project Name="NewLoginLayer.csd" Type="Layer" />
+          <Project Name="NewMenuLayer.csd" Type="Layer" />
+          <Project Name="NewSettingLayer.csd" Type="Layer" />
+          <Project Name="PlayerInfoNew.csd" Type="Layer" />
+          <Project Name="RankLayer.csd" Type="Layer" />
+          <Project Name="ShopLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="Font">
+          <TTF Name="ARIAL.ttf" />
+          <File Name="BebasNeue.otf" />
+          <TTF Name="ufonts-bold.ttf" />
+          <TTF Name="ufonts-light.ttf" />
+        </Folder>
+        <Folder Name="General">
+          <Image Name="btn_tab_active.png" />
+          <Image Name="btn_tab_disable.png" />
+          <Image Name="button_1_dark.png" />
+          <Image Name="button_1_light.png" />
+          <Image Name="button_2.png" />
+          <Image Name="button_close_1.png" />
+          <Image Name="checkbox_1_selected.png" />
+          <Image Name="checkbox_1_unselected.png" />
+          <Image Name="common_border_1.png" />
+          <Image Name="common_btn_green_bg2.png" />
+          <Image Name="common_btn_white_bg.png" />
+          <Image Name="common_check_protocal_agree.png" />
+          <Image Name="common_check_protocal_disagree.png" />
+          <Image Name="common_facebook_login.png" />
+          <Image Name="common_google_login.png" />
+          <Image Name="common_input_bg.png" />
+          <Image Name="common_login_20M_flag.png" />
+          <Image Name="common_login_btn_background.png" />
+          <Image Name="common_login_btn_green_bg.png" />
+          <Image Name="common_tourist_login.png" />
+          <Image Name="common_twitter_login.png" />
+          <Image Name="common_wechat_login.png" />
+          <Image Name="global_button_close.png" />
+          <Image Name="slider_1.png" />
+          <Image Name="slider_button_plus.png" />
+          <Image Name="slider_button_reduce.png" />
+          <Image Name="slider_flag_bg.png" />
+          <Image Name="slider_knob.png" />
+        </Folder>
+        <Folder Name="LobbyScene">
+          <Image Name="bg_buychips.png" />
+          <Image Name="btn_adv_free.png" />
+          <Image Name="btn_bet_plus.png" />
+          <Image Name="btn_buy.png" />
+          <Image Name="btn_f_connect.png" />
+          <Image Name="btn_head_bg.png" />
+          <Image Name="FreeSpins_available_4.png" />
+          <Image Name="freespins_chips_1.png" />
+          <Image Name="general_btn_lotty.png" />
+          <Image Name="general_play_button_big.png" />
+          <Image Name="h_0001.png" />
+          <Image Name="h_0002.png" />
+          <Image Name="h_0003.png" />
+          <Image Name="h_0004.png" />
+          <Image Name="h_0005.png" />
+          <Image Name="h_0006.png" />
+          <Image Name="h_0007.png" />
+          <Image Name="h_0008.png" />
+          <Image Name="h_0009.png" />
+          <Image Name="h_0010.png" />
+          <Image Name="h_0011.png" />
+          <Image Name="h_0012.png" />
+          <Image Name="h_0013.png" />
+          <Image Name="h_0014.png" />
+          <Image Name="h_0015.png" />
+          <Image Name="h_0016.png" />
+          <Image Name="h_0017.png" />
+          <Image Name="h_0018.png" />
+          <Image Name="h_0019.png" />
+          <Image Name="h_0020.png" />
+          <Image Name="h_0021.png" />
+          <Image Name="h_0022.png" />
+          <Image Name="h_0023.png" />
+          <Image Name="h_0024.png" />
+          <Image Name="h_0025.png" />
+          <Image Name="h_0026.png" />
+          <Image Name="h_0027.png" />
+          <Image Name="h_0028.png" />
+          <Image Name="h_0029.png" />
+          <Image Name="h_0030.png" />
+          <Image Name="h_0031.png" />
+          <Image Name="h_0032.png" />
+          <Image Name="h_0033.png" />
+          <Image Name="h_0034.png" />
+          <Image Name="h_0035.png" />
+          <Image Name="h_0036.png" />
+          <Image Name="h_0037.png" />
+          <Image Name="h_0038.png" />
+          <Image Name="h_0039.png" />
+          <Image Name="h_0040.png" />
+          <Image Name="h_0041.png" />
+          <Image Name="h_0042.png" />
+          <Image Name="h_0043.png" />
+          <Image Name="h_0044.png" />
+          <Image Name="header_button_menu_press.png" />
+          <Image Name="icon_info_chips.png" />
+          <Image Name="icon_play_chips.png" />
+          <Image Name="LobbyCard1.png" />
+          <Image Name="LobbyCard2.png" />
+          <Image Name="LobbyCard3.png" />
+          <Image Name="LobbyCard4.png" />
+          <Image Name="mainlobby_footer_button_freespins_nopointer.png" />
+          <Image Name="mainlobby_footer_default.png" />
+          <Image Name="mainlobby_footer_trim_bronze.png" />
+          <Image Name="mainlobby_footer_trim_gold.png" />
+          <Image Name="mainlobby_footer_trim_silver.png" />
+          <Image Name="mainlobby_header_default.png" />
+          <Image Name="mainlobby_header_trim_bronze.png" />
+          <Image Name="mainlobby_header_trim_gold.png" />
+          <Image Name="mainlobby_header_trim_silver.png" />
+          <Image Name="middle_yellow_bg.png" />
+          <Image Name="profile_experience_container.png" />
+          <Image Name="profile_experience_points_box.png" />
+          <Image Name="profile_experience_points_curve.png" />
+          <Image Name="scr_inbox_button_cta_small.png" />
+          <Image Name="scr_main_lobby_button_buy_chips.png" />
+          <Image Name="scr_main_lobby_button_leaderboards.png" />
+          <Image Name="scr_main_lobby_button_menu.png" />
+          <Image Name="star1.png" />
+        </Folder>
+        <Folder Name="SettingScene">
+          <Image Name="China.png" />
+          <Image Name="cnHallFAQBtn.png" />
+          <Image Name="France.png" />
+          <Image Name="general_message_box_header.png" />
+          <Image Name="Germany.png" />
+          <Image Name="global_button_close.png" />
+          <Image Name="Italy.png" />
+          <Image Name="Japan.png" />
+          <Image Name="Malaysia.png" />
+          <Image Name="Netherlands.png" />
+          <Image Name="popup_privacy_title.png" />
+          <Image Name="popup_terms_title.png" />
+          <Image Name="Portugal.png" />
+          <Image Name="Russia.png" />
+          <Image Name="scr_settings_general_button.png" />
+          <Image Name="scr_settings_general_button_gray.png" />
+          <Image Name="scr_settings_icon_feedback.png" />
+          <Image Name="scr_settings_icon_help.png" />
+          <Image Name="scr_settings_icon_logout.png" />
+          <Image Name="scr_settings_icon_terms.png" />
+          <Image Name="scr_settings_language_border.png" />
+          <Image Name="scr_settings_privacy_bk.png" />
+          <Image Name="scr_settings_slider.png" />
+          <Image Name="scr_settings_title.png" />
+          <Image Name="scr_settings_toggle.png" />
+          <Image Name="scr_settings_toggle_off.png" />
+          <Image Name="scr_settings_toggle_on.png" />
+          <Image Name="Scroll_BG.png" />
+          <Image Name="Scroller.png" />
+          <Image Name="seekbarthum.png" />
+          <Image Name="setting_voice_add.png" />
+          <Image Name="setting_voice_del.png" />
+          <Image Name="SouthKorea.png" />
+          <Image Name="Spain.png" />
+          <Image Name="Thailand.png" />
+          <Image Name="top_blue.png" />
+          <Image Name="top_gray.png" />
+          <Image Name="Turkey.png" />
+          <Image Name="UnitedStates.png" />
+          <Image Name="Vietnam.png" />
+          <Image Name="white border.png" />
+        </Folder>
+        <Folder Name="ShopLayer">
+          <Image Name="chip_red.png" />
+          <Image Name="chips_st.png" />
+          <Image Name="chips001@2x.png" />
+          <Image Name="chips002@2x.png" />
+          <Image Name="chips003@2x.png" />
+          <Image Name="chips004@2x.png" />
+          <Image Name="chips005@2x.png" />
+          <Image Name="chips006@2x.png" />
+          <Image Name="chips007@2x.png" />
+          <Image Name="diamond.png" />
+          <Image Name="dt-hlgcwxz.png" />
+          <Image Name="dt-hlgcxz.png" />
+          <Image Name="general_checkbox1.png" />
+          <Image Name="general_checkbox2.png" />
+          <Image Name="general_main_popup_window_full.png" />
+          <Image Name="general_message_box_header.png" />
+          <Image Name="guest_mbig.png" />
+          <Image Name="icon_info_chips.png" />
+          <Image Name="im.png" />
+          <Image Name="img_buy_diamond_1.png" />
+          <Image Name="img_buy_diamond_2.png" />
+          <Image Name="img_buy_diamond_3.png" />
+          <Image Name="img_buy_diamond_4.png" />
+          <Image Name="img_buy_diamond_5.png" />
+          <Image Name="img_buy_diamond_6.png" />
+          <Image Name="img_buy_diamond_7.png" />
+          <Image Name="img_buy_diamond_8.png" />
+          <Image Name="img_diamond.png" />
+          <Image Name="img_label_flag0.png" />
+          <Image Name="img_label_flag0_en.png" />
+          <Image Name="img_label_flag1.png" />
+          <Image Name="img_label_flag1_en.png" />
+          <Image Name="scr_iap_row_blue.png" />
+          <Image Name="scr_main_lobby_current_chips_container.png" />
+          <Image Name="store.png" />
+          <Image Name="store-sclogo.png" />
+          <Image Name="store-zcanwxz.png" />
+          <Image Name="store-zcanxz.png" />
+          <Image Name="tournment_chips.png" />
+          <Image Name="value_bg.png" />
+          <Image Name="verify_selected.png" />
+          <Image Name="yellow_tag.png" />
+        </Folder>
+        <PlistInfo Name="General.csi" Type="Plist" />
+        <PlistInfo Name="LobbyScene.csi" Type="Plist" />
+        <PlistInfo Name="SettingScene.csi" Type="Plist" />
+        <PlistInfo Name="ShopLayer.csi" Type="Plist" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
