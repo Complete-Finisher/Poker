@@ -6,11 +6,11 @@
       <ObjectData Name="Layer" Tag="23" ctype="GameLayerObjectData">
         <Size X="1366.0000" Y="768.0000" />
         <Children>
-          <AbstractNodeData Name="Bg" ActionTag="1156469188" Tag="24" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="52.4254" RightMargin="33.5746" TopMargin="22.0800" BottomMargin="25.9200" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Bg" ActionTag="1156469188" Tag="24" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="52.4250" RightMargin="33.5750" TopMargin="22.0801" BottomMargin="25.9199" ctype="SpriteObjectData">
             <Size X="1280.0000" Y="720.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="692.4254" Y="385.9200" />
-            <Scale ScaleX="1.2000" ScaleY="1.2000" />
+            <Position X="692.4250" Y="385.9199" />
+            <Scale ScaleX="1.2923" ScaleY="1.2923" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5069" Y="0.5025" />
             <PreSize X="0.9370" Y="0.9375" />
@@ -144,10 +144,10 @@
           <AbstractNodeData Name="Button_FaceBook" ActionTag="1557093323" Tag="38" IconVisible="False" LeftMargin="850.6870" RightMargin="129.3130" TopMargin="96.7235" BottomMargin="567.2765" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="356" Scale9Height="82" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="386.0000" Y="104.0000" />
             <Children>
-              <AbstractNodeData Name="Button_FaceBook_Flag" ActionTag="-1717182005" Tag="171" IconVisible="False" PositionPercentXEnabled="True" VerticalEdge="BothEdge" LeftMargin="301.0349" RightMargin="-5.0349" TopMargin="-8.0928" BottomMargin="22.0928" ctype="SpriteObjectData">
+              <AbstractNodeData Name="Button_FaceBook_Flag" ActionTag="-1717182005" Tag="171" IconVisible="False" PositionPercentXEnabled="True" VerticalEdge="BothEdge" LeftMargin="301.0180" RightMargin="-5.0180" TopMargin="-8.0912" BottomMargin="22.0912" ctype="SpriteObjectData">
                 <Size X="90.0000" Y="90.0000" />
                 <AnchorPoint ScaleX="1.0000" ScaleY="1.0000" />
-                <Position X="391.0349" Y="112.0928" />
+                <Position X="391.0180" Y="112.0912" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="1.0130" Y="1.0778" />
@@ -155,10 +155,10 @@
                 <FileData Type="MarkedSubImage" Path="General/common_login_20M_flag.png" Plist="General.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Button_FaceBook_Text" ActionTag="-1731180056" Tag="39" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="114.7695" RightMargin="127.2305" TopMargin="33.3233" BottomMargin="34.6767" FontSize="36" LabelText="FaceBook" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="Button_FaceBook_Text" ActionTag="-1731180056" Tag="39" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="114.7854" RightMargin="127.2146" TopMargin="33.3240" BottomMargin="34.6760" FontSize="36" LabelText="FaceBook" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="144.0000" Y="36.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="186.7695" Y="52.6767" />
+                <Position X="186.7854" Y="52.6760" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4839" Y="0.5065" />

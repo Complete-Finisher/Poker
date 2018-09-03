@@ -6,40 +6,27 @@
       <ObjectData Name="Layer" Tag="61" ctype="GameLayerObjectData">
         <Size X="1366.0000" Y="768.0000" />
         <Children>
-          <AbstractNodeData Name="general_main_popup_window_full_1" ActionTag="-1580632765" Tag="62" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="171.0001" RightMargin="171.0000" TopMargin="-128.0001" BottomMargin="-127.9999" ctype="SpriteObjectData">
+          <AbstractNodeData Name="general_main_popup_window_full_1" ActionTag="-1580632765" Tag="62" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="171.0000" RightMargin="171.0000" TopMargin="-127.9999" BottomMargin="-128.0001" ctype="SpriteObjectData">
             <Size X="1024.0000" Y="1024.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="683.0001" Y="384.0001" />
-            <Scale ScaleX="1.4865" ScaleY="1.4865" />
+            <Position X="683.0000" Y="383.9999" />
+            <Scale ScaleX="1.6202" ScaleY="1.6202" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.5000" />
             <PreSize X="0.7496" Y="1.3333" />
             <FileData Type="Normal" Path="Bg/general_main_popup_window_full.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="general_message_box_header_2" ActionTag="-1971797435" Tag="63" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="284.7104" RightMargin="281.2896" TopMargin="-30.6981" BottomMargin="718.6981" ctype="SpriteObjectData">
+          <AbstractNodeData Name="general_message_box_header_2" ActionTag="-1971797435" Tag="63" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="282.8215" RightMargin="283.1785" TopMargin="-30.7200" BottomMargin="718.7200" ctype="SpriteObjectData">
             <Size X="800.0000" Y="80.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-            <Position X="684.7104" Y="798.6981" />
-            <Scale ScaleX="1.9199" ScaleY="1.7142" />
+            <Position X="682.8215" Y="798.7200" />
+            <Scale ScaleX="2.0636" ScaleY="1.7142" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5013" Y="1.0400" />
+            <PrePosition X="0.4999" Y="1.0400" />
             <PreSize X="0.5857" Y="0.1042" />
             <FileData Type="MarkedSubImage" Path="SettingScene/general_message_box_header.png" Plist="SettingScene.plist" />
             <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Back" ActionTag="-1528851428" Tag="64" IconVisible="False" LeftMargin="1263.9114" RightMargin="26.0886" TopMargin="10.4573" BottomMargin="681.5427" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="46" Scale9Height="54" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="76.0000" Y="76.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="1301.9114" Y="719.5427" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.9531" Y="0.9369" />
-            <PreSize X="0.0556" Y="0.0990" />
-            <TextColor A="255" R="65" G="65" B="70" />
-            <NormalFileData Type="MarkedSubImage" Path="SettingScene/global_button_close.png" Plist="SettingScene.plist" />
-            <OutlineColor A="255" R="255" G="0" B="0" />
-            <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
           <AbstractNodeData Name="Title" ActionTag="-1858235603" Tag="68" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="627.5000" RightMargin="627.5000" TopMargin="35.0210" BottomMargin="691.9790" FontSize="36" LabelText="Setting" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="111.0000" Y="41.0000" />

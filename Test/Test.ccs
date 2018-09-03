@@ -17,6 +17,7 @@
         <Folder Name="Csb">
           <Project Name="ChooseDesk.csd" Type="Layer" />
           <Project Name="ChoseLanguage.csd" Type="Layer" />
+          <Project Name="InputFormLayer.csd" Type="Layer" />
           <Project Name="NewLoginLayer.csd" Type="Layer" />
           <Project Name="NewMenuLayer.csd" Type="Layer" />
           <Project Name="NewSettingLayer.csd" Type="Layer" />
@@ -37,10 +38,14 @@
           <Image Name="button_1_light.png" />
           <Image Name="button_2.png" />
           <Image Name="button_close_1.png" />
+          <Image Name="button_edit_name.png" />
           <Image Name="checkbox_1_selected.png" />
           <Image Name="checkbox_1_unselected.png" />
+          <Image Name="checkbox_2_selected.png" />
+          <Image Name="checkbox_2_unselected.png" />
           <Image Name="common_border_1.png" />
           <Image Name="common_btn_green_bg2.png" />
+          <Image Name="common_btn_green_bg3.png" />
           <Image Name="common_btn_white_bg.png" />
           <Image Name="common_check_protocal_agree.png" />
           <Image Name="common_check_protocal_disagree.png" />
@@ -54,6 +59,9 @@
           <Image Name="common_twitter_login.png" />
           <Image Name="common_wechat_login.png" />
           <Image Name="global_button_close.png" />
+          <Image Name="img_sex_0.png" />
+          <Image Name="img_sex_1.png" />
+          <Image Name="main_bg.jpg" />
           <Image Name="slider_1.png" />
           <Image Name="slider_button_plus.png" />
           <Image Name="slider_button_reduce.png" />

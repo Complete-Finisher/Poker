@@ -30,6 +30,11 @@
       <FilePathData Path="General/slider_button_reduce.png" />
       <FilePathData Path="General/slider_flag_bg.png" />
       <FilePathData Path="General/slider_knob.png" />
+      <FilePathData Path="General/checkbox_2_selected.png" />
+      <FilePathData Path="General/checkbox_2_unselected.png" />
+      <FilePathData Path="General/img_sex_1.png" />
+      <FilePathData Path="General/img_sex_0.png" />
+      <FilePathData Path="General/common_btn_green_bg3.png" />
     </ImageFiles>
     <MaxSize Width="1024" Height="1024" />
   </Content>

@@ -6,24 +6,24 @@
       <ObjectData Name="Layer" Tag="36" ctype="GameLayerObjectData">
         <Size X="1366.0000" Y="768.0000" />
         <Children>
-          <AbstractNodeData Name="bg" ActionTag="-123525496" Tag="37" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="43.0000" RightMargin="43.0000" TopMargin="-59.0831" BottomMargin="-132.9169" ctype="SpriteObjectData">
+          <AbstractNodeData Name="bg" ActionTag="-123525496" Tag="37" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="43.0050" RightMargin="42.9950" TopMargin="-59.0828" BottomMargin="-132.9172" ctype="SpriteObjectData">
             <Size X="1280.0000" Y="960.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="683.0000" Y="347.0831" />
-            <Scale ScaleX="1.1102" ScaleY="1.0576" />
+            <Position X="683.0050" Y="347.0828" />
+            <Scale ScaleX="1.3796" ScaleY="1.3143" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.4519" />
             <PreSize X="0.9370" Y="1.2500" />
             <FileData Type="Normal" Path="Bg/bg.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="bg_middle" ActionTag="-846211720" Tag="38" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.9124" RightMargin="41.0876" TopMargin="3.0720" BottomMargin="176.9280" ctype="SpriteObjectData">
+          <AbstractNodeData Name="bg_middle" ActionTag="-846211720" Tag="38" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="42.5483" RightMargin="43.4517" TopMargin="26.7122" BottomMargin="153.2878" ctype="SpriteObjectData">
             <Size X="1280.0000" Y="588.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-            <Position X="684.9124" Y="764.9280" />
+            <Position X="682.5483" Y="741.2878" />
             <Scale ScaleX="1.0608" ScaleY="1.0608" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5014" Y="0.9960" />
+            <PrePosition X="0.4997" Y="0.9652" />
             <PreSize X="0.9370" Y="0.7656" />
             <FileData Type="Normal" Path="Bg/bg_1.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
