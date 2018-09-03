@@ -6,15 +6,15 @@
       <ObjectData Name="Layer" Tag="261" ctype="GameLayerObjectData">
         <Size X="1366.0000" Y="768.0000" />
         <Children>
-          <AbstractNodeData Name="main_bg_1" ActionTag="1756771125" Tag="262" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="43.0000" RightMargin="43.0000" TopMargin="22.2527" BottomMargin="25.7473" ctype="SpriteObjectData">
+          <AbstractNodeData Name="main_bg_12" ActionTag="-1408563818" Tag="251" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="43.0000" RightMargin="43.0000" TopMargin="24.0000" BottomMargin="24.0000" ctype="SpriteObjectData">
             <Size X="1280.0000" Y="720.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="683.0000" Y="385.7473" />
-            <Scale ScaleX="1.5000" ScaleY="1.5000" />
+            <Position X="683.0000" Y="384.0000" />
+            <Scale ScaleX="1.5000" ScaleY="1.2000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.5023" />
+            <PrePosition X="0.5000" Y="0.5000" />
             <PreSize X="0.9370" Y="0.9375" />
-            <FileData Type="Normal" Path="General/main_bg.jpg" Plist="" />
+            <FileData Type="Normal" Path="Bg/main_bg.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Title" ActionTag="978701256" Tag="263" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="521.0000" RightMargin="521.0000" TopMargin="80.0000" BottomMargin="652.0000" FontSize="36" LabelText="请输入要输入的内容" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -65,7 +65,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Button_NO" ActionTag="-298182657" Tag="267" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="386.1000" RightMargin="795.9000" TopMargin="495.6801" BottomMargin="208.3200" TouchEnable="True" FontSize="28" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="154" Scale9Height="42" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="Button_NO" ActionTag="-298182657" Tag="267" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="386.1000" RightMargin="795.9000" TopMargin="495.6800" BottomMargin="208.3200" TouchEnable="True" FontSize="28" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="154" Scale9Height="42" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="184.0000" Y="64.0000" />
             <Children>
               <AbstractNodeData Name="Text" ActionTag="-1071871228" Tag="270" IconVisible="False" LeftMargin="78.6948" RightMargin="77.3052" TopMargin="19.1339" BottomMargin="16.8661" FontSize="28" LabelText="hh" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">

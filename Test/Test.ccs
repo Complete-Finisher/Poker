@@ -11,6 +11,7 @@
           <Image Name="general_title_1048_132.png" />
           <Image Name="generic_popup.png" />
           <Image Name="login_bgp.jpg" />
+          <Image Name="main_bg.jpg" />
           <Image Name="person_info_bg.png" />
           <Image Name="rank_window_bg.png" />
         </Folder>
@@ -61,7 +62,6 @@
           <Image Name="global_button_close.png" />
           <Image Name="img_sex_0.png" />
           <Image Name="img_sex_1.png" />
-          <Image Name="main_bg.jpg" />
           <Image Name="slider_1.png" />
           <Image Name="slider_button_plus.png" />
           <Image Name="slider_button_reduce.png" />
@@ -207,7 +207,6 @@
           <Image Name="dt-hlgcxz.png" />
           <Image Name="general_checkbox1.png" />
           <Image Name="general_checkbox2.png" />
-          <Image Name="general_main_popup_window_full.png" />
           <Image Name="general_message_box_header.png" />
           <Image Name="guest_mbig.png" />
           <Image Name="icon_info_chips.png" />

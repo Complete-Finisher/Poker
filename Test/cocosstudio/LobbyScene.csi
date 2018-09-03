@@ -81,6 +81,7 @@
       <FilePathData Path="ShopLayer/chip_red.png" />
       <FilePathData Path="LobbyScene/general_btn_lotty.png" />
       <FilePathData Path="LobbyScene/middle_yellow_bg.png" />
+      <FilePathData Path="LobbyScene/icon_play_chips.png" />
     </ImageFiles>
     <MaxSize Width="2048" Height="2048" />
   </Content>

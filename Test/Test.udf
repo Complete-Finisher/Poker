@@ -43,8 +43,9 @@
           <FilePathData Path="Csb/NewLoginLayer.csd" />
           <FilePathData Path="Csb/ShopLayer.csd" />
           <FilePathData Path="Csb/InputFormLayer.csd" />
+          <FilePathData Path="ShopLayer.csi" />
         </OpenedDocuments>
-        <ActiveDocument Path="Csb/InputFormLayer.csd" />
+        <ActiveDocument Path="Csb/ShopLayer.csd" />
       </Value>
     </Item>
   </Properties>
