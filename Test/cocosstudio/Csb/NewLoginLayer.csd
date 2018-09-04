@@ -6,10 +6,10 @@
       <ObjectData Name="Layer" Tag="23" ctype="GameLayerObjectData">
         <Size X="1366.0000" Y="768.0000" />
         <Children>
-          <AbstractNodeData Name="Bg" ActionTag="1156469188" Tag="24" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="52.4250" RightMargin="33.5750" TopMargin="22.0801" BottomMargin="25.9199" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Bg" ActionTag="1156469188" Tag="24" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="52.4254" RightMargin="33.5746" TopMargin="22.0800" BottomMargin="25.9200" ctype="SpriteObjectData">
             <Size X="1280.0000" Y="720.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="692.4250" Y="385.9199" />
+            <Position X="692.4254" Y="385.9200" />
             <Scale ScaleX="1.2923" ScaleY="1.2923" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5069" Y="0.5025" />
@@ -17,26 +17,26 @@
             <FileData Type="Normal" Path="Bg/login_bgp.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="UserName" ActionTag="1886738804" Tag="25" IconVisible="False" LeftMargin="75.5585" RightMargin="1200.4415" TopMargin="221.8938" BottomMargin="510.1062" FontSize="36" LabelText="账户:" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="90.0000" Y="36.0000" />
+          <AbstractNodeData Name="UserName" ActionTag="1886738804" Tag="25" IconVisible="False" LeftMargin="87.3029" RightMargin="1223.6970" TopMargin="228.8938" BottomMargin="517.1062" FontSize="22" LabelText="账户:" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="55.0000" Y="22.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="120.5585" Y="528.1062" />
+            <Position X="114.8029" Y="528.1062" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0883" Y="0.6876" />
-            <PreSize X="0.0659" Y="0.0469" />
+            <PrePosition X="0.0840" Y="0.6876" />
+            <PreSize X="0.0403" Y="0.0286" />
             <FontResource Type="Default" Path="" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Password" ActionTag="-881634011" Tag="26" IconVisible="False" LeftMargin="69.8029" RightMargin="1206.1971" TopMargin="326.4352" BottomMargin="405.5648" FontSize="36" LabelText="密码:" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="90.0000" Y="36.0000" />
+          <AbstractNodeData Name="Password" ActionTag="-881634011" Tag="26" IconVisible="False" LeftMargin="87.3029" RightMargin="1223.6971" TopMargin="333.4352" BottomMargin="412.5648" FontSize="22" LabelText="密码:" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="55.0000" Y="22.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="114.8029" Y="423.5648" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.0840" Y="0.5515" />
-            <PreSize X="0.0659" Y="0.0469" />
+            <PreSize X="0.0403" Y="0.0286" />
             <FontResource Type="Default" Path="" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -66,14 +66,14 @@
           <AbstractNodeData Name="Button_Logoin" ActionTag="-947179862" Tag="32" IconVisible="False" LeftMargin="227.1776" RightMargin="814.8224" TopMargin="456.8770" BottomMargin="231.1230" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="294" Scale9Height="58" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="324.0000" Y="80.0000" />
             <Children>
-              <AbstractNodeData Name="Button_Login_Text" ActionTag="-559429151" Tag="33" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="138.0000" RightMargin="138.0000" TopMargin="28.0000" BottomMargin="28.0000" FontSize="24" LabelText="登录" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="48.0000" Y="24.0000" />
+              <AbstractNodeData Name="Button_Login_Text" ActionTag="-559429151" Tag="33" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="140.0000" RightMargin="140.0000" TopMargin="29.0000" BottomMargin="29.0000" FontSize="22" LabelText="登录" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="44.0000" Y="22.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="162.0000" Y="40.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.5000" />
-                <PreSize X="0.1481" Y="0.3000" />
+                <PreSize X="0.1358" Y="0.2750" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -92,14 +92,25 @@
           <AbstractNodeData Name="Button_Register" ActionTag="1405022417" Tag="34" IconVisible="False" LeftMargin="-40.4157" RightMargin="934.4157" TopMargin="569.6583" BottomMargin="69.3417" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="442" Scale9Height="107" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="472.0000" Y="129.0000" />
             <Children>
-              <AbstractNodeData Name="Button_Register_Text" ActionTag="1025542036" Tag="35" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="212.0000" RightMargin="212.0000" TopMargin="52.5000" BottomMargin="52.5000" FontSize="24" LabelText="注册" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="48.0000" Y="24.0000" />
+              <AbstractNodeData Name="Button_Register_Flag" ActionTag="80382602" Tag="251" IconVisible="False" LeftMargin="392.0231" RightMargin="-10.0231" TopMargin="-4.3801" BottomMargin="43.3801" ctype="SpriteObjectData">
+                <Size X="90.0000" Y="90.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="437.0231" Y="88.3801" />
+                <Scale ScaleX="1.0000" ScaleY="1.2941" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.9259" Y="0.6851" />
+                <PreSize X="0.1907" Y="0.6977" />
+                <FileData Type="MarkedSubImage" Path="General/common_login_20M_flag.png" Plist="General.plist" />
+                <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Button_Register_Text" ActionTag="1025542036" Tag="35" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="216.0000" RightMargin="216.0000" TopMargin="54.5000" BottomMargin="54.5000" FontSize="20" LabelText="注册" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="40.0000" Y="20.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="236.0000" Y="64.5000" />
                 <Scale ScaleX="1.6099" ScaleY="2.1603" />
                 <CColor A="255" R="0" G="0" B="0" />
                 <PrePosition X="0.5000" Y="0.5000" />
-                <PreSize X="0.1017" Y="0.1860" />
+                <PreSize X="0.0847" Y="0.1550" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -118,14 +129,14 @@
           <AbstractNodeData Name="Button_Forget" ActionTag="-1916244734" Tag="36" IconVisible="False" LeftMargin="292.6605" RightMargin="601.3395" TopMargin="569.6583" BottomMargin="69.3417" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="442" Scale9Height="107" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="472.0000" Y="129.0000" />
             <Children>
-              <AbstractNodeData Name="Button_Forget_Text" ActionTag="-1171950037" Tag="37" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="188.0000" RightMargin="188.0000" TopMargin="52.5000" BottomMargin="52.5000" FontSize="24" LabelText="忘记密码" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="96.0000" Y="24.0000" />
+              <AbstractNodeData Name="Button_Forget_Text" ActionTag="-1171950037" Tag="37" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="192.0000" RightMargin="192.0000" TopMargin="53.5000" BottomMargin="53.5000" FontSize="22" LabelText="忘记密码" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="88.0000" Y="22.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="236.0000" Y="64.5000" />
                 <Scale ScaleX="1.6099" ScaleY="2.1603" />
                 <CColor A="255" R="0" G="0" B="0" />
                 <PrePosition X="0.5000" Y="0.5000" />
-                <PreSize X="0.2034" Y="0.1860" />
+                <PreSize X="0.1864" Y="0.1705" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -155,14 +166,14 @@
                 <FileData Type="MarkedSubImage" Path="General/common_login_20M_flag.png" Plist="General.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Button_FaceBook_Text" ActionTag="-1731180056" Tag="39" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="114.7854" RightMargin="127.2146" TopMargin="33.3240" BottomMargin="34.6760" FontSize="36" LabelText="FaceBook" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="144.0000" Y="36.0000" />
+              <AbstractNodeData Name="Button_FaceBook_Text" ActionTag="-1731180056" Tag="39" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="138.7854" RightMargin="151.2146" TopMargin="39.3240" BottomMargin="40.6760" FontSize="24" LabelText="FaceBook" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="96.0000" Y="24.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="186.7854" Y="52.6760" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
+                <CColor A="255" R="83" G="56" B="55" />
                 <PrePosition X="0.4839" Y="0.5065" />
-                <PreSize X="0.3731" Y="0.3462" />
+                <PreSize X="0.2487" Y="0.2308" />
                 <FontResource Type="Default" Path="" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
@@ -193,14 +204,14 @@
                 <FileData Type="MarkedSubImage" Path="General/common_login_20M_flag.png" Plist="General.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Button_Twitter_Text" ActionTag="-1237116395" Tag="44" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="116.2970" RightMargin="143.7030" TopMargin="38.4512" BottomMargin="29.5488" FontSize="36" LabelText="Twitter" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="126.0000" Y="36.0000" />
+              <AbstractNodeData Name="Button_Twitter_Text" ActionTag="-1237116395" Tag="44" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="137.2970" RightMargin="164.7030" TopMargin="44.4512" BottomMargin="35.5488" FontSize="24" LabelText="Twitter" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="84.0000" Y="24.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="179.2970" Y="47.5488" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
+                <CColor A="255" R="83" G="56" B="55" />
                 <PrePosition X="0.4645" Y="0.4572" />
-                <PreSize X="0.3264" Y="0.3462" />
+                <PreSize X="0.2176" Y="0.2308" />
                 <FontResource Type="Default" Path="" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
@@ -213,7 +224,7 @@
             <PrePosition X="0.7640" Y="0.6062" />
             <PreSize X="0.2826" Y="0.1354" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <NormalFileData Type="MarkedSubImage" Path="General/common_twitter_login.png" Plist="General.plist" />
+            <NormalFileData Type="MarkedSubImage" Path="General/common_twitter_login2.png" Plist="General.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -231,14 +242,14 @@
                 <FileData Type="MarkedSubImage" Path="General/common_login_20M_flag.png" Plist="General.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Button_Google_Text" ActionTag="-1779901337" Tag="47" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="125.2970" RightMargin="152.7030" TopMargin="41.6856" BottomMargin="26.3144" FontSize="36" LabelText="Google" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="108.0000" Y="36.0000" />
+              <AbstractNodeData Name="Button_Google_Text" ActionTag="-1779901337" Tag="47" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="143.2957" RightMargin="170.7043" TopMargin="37.3260" BottomMargin="42.6740" FontSize="24" LabelText="Google" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="72.0000" Y="24.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="179.2970" Y="44.3144" />
+                <Position X="179.2957" Y="54.6740" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4645" Y="0.4261" />
-                <PreSize X="0.2798" Y="0.3462" />
+                <CColor A="255" R="83" G="56" B="55" />
+                <PrePosition X="0.4645" Y="0.5257" />
+                <PreSize X="0.1865" Y="0.2308" />
                 <FontResource Type="Default" Path="" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
@@ -269,14 +280,14 @@
                 <FileData Type="MarkedSubImage" Path="General/common_login_20M_flag.png" Plist="General.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Button_WeChat_Text" ActionTag="-1168049184" Tag="50" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="123.4460" RightMargin="118.5540" TopMargin="38.4604" BottomMargin="29.5396" FontSize="36" LabelText="微信登录" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="144.0000" Y="36.0000" />
+              <AbstractNodeData Name="Button_WeChat_Text" ActionTag="-1168049184" Tag="50" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="151.7516" RightMargin="138.2484" TopMargin="45.8440" BottomMargin="34.1560" FontSize="24" LabelText="微信登录" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="96.0000" Y="24.0000" />
                 <AnchorPoint ScaleX="0.5897" ScaleY="0.3847" />
                 <Position X="208.3628" Y="43.3888" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5398" Y="0.4172" />
-                <PreSize X="0.3731" Y="0.3462" />
+                <PreSize X="0.2487" Y="0.2308" />
                 <FontResource Type="Default" Path="" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
@@ -296,14 +307,14 @@
           <AbstractNodeData Name="Button_Tourist" ActionTag="803941863" Tag="166" IconVisible="False" LeftMargin="850.6870" RightMargin="129.3130" TopMargin="564.4416" BottomMargin="99.5584" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="356" Scale9Height="82" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="386.0000" Y="104.0000" />
             <Children>
-              <AbstractNodeData Name="Button_Tourist_Text" ActionTag="442997656" Tag="168" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="127.4978" RightMargin="168.5022" TopMargin="38.4604" BottomMargin="29.5396" FontSize="36" LabelText="Guest" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="90.0000" Y="36.0000" />
-                <AnchorPoint ScaleX="0.5897" ScaleY="0.3847" />
-                <Position X="180.5708" Y="43.3888" />
+              <AbstractNodeData Name="Button_Tourist_Text" ActionTag="442997656" Tag="168" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="145.1886" RightMargin="180.8114" TopMargin="38.6064" BottomMargin="41.3936" FontSize="24" LabelText="Guest" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="60.0000" Y="24.0000" />
+                <AnchorPoint ScaleX="0.5537" ScaleY="0.5565" />
+                <Position X="178.4108" Y="54.7498" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4678" Y="0.4172" />
-                <PreSize X="0.2332" Y="0.3462" />
+                <CColor A="255" R="83" G="56" B="55" />
+                <PrePosition X="0.4622" Y="0.5264" />
+                <PreSize X="0.1554" Y="0.2308" />
                 <FontResource Type="Default" Path="" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
@@ -332,14 +343,14 @@
             <PressedBackFileData Type="MarkedSubImage" Path="General/common_check_protocal_agree.png" Plist="General.plist" />
             <NodeNormalFileData Type="MarkedSubImage" Path="General/common_check_protocal_agree.png" Plist="General.plist" />
           </AbstractNodeData>
-          <AbstractNodeData Name="CheckBox_Text" ActionTag="1920175874" Tag="174" IconVisible="False" LeftMargin="130.9251" RightMargin="1139.0750" TopMargin="402.2026" BottomMargin="341.7974" FontSize="24" LabelText="记住密码" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="96.0000" Y="24.0000" />
+          <AbstractNodeData Name="CheckBox_Text" ActionTag="1920175874" Tag="174" IconVisible="False" LeftMargin="138.9251" RightMargin="1147.0750" TopMargin="404.2026" BottomMargin="343.7974" FontSize="20" LabelText="记住密码" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="80.0000" Y="20.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="178.9251" Y="353.7974" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.1310" Y="0.4607" />
-            <PreSize X="0.0703" Y="0.0313" />
+            <PreSize X="0.0586" Y="0.0260" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -354,14 +365,14 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Protocal_Text" ActionTag="-1455555559" Tag="177" IconVisible="False" LeftMargin="1076.0121" RightMargin="37.9879" TopMargin="721.4771" BottomMargin="22.5229" FontSize="24" LabelText="我已经阅读,并同意协议" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="252.0000" Y="24.0000" />
+          <AbstractNodeData Name="Protocal_Text" ActionTag="-1455555559" Tag="177" IconVisible="False" LeftMargin="1097.0121" RightMargin="58.9879" TopMargin="723.4771" BottomMargin="24.5229" FontSize="20" LabelText="我已经阅读,并同意协议" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="210.0000" Y="20.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="1202.0121" Y="34.5229" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.8800" Y="0.0450" />
-            <PreSize X="0.1845" Y="0.0313" />
+            <PreSize X="0.1537" Y="0.0260" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>

@@ -33,6 +33,7 @@
           <TTF Name="ufonts-light.ttf" />
         </Folder>
         <Folder Name="General">
+          <Image Name="btn_close.png" />
           <Image Name="btn_tab_active.png" />
           <Image Name="btn_tab_disable.png" />
           <Image Name="button_1_dark.png" />
@@ -58,6 +59,7 @@
           <Image Name="common_login_btn_green_bg.png" />
           <Image Name="common_tourist_login.png" />
           <Image Name="common_twitter_login.png" />
+          <Image Name="common_twitter_login2.png" />
           <Image Name="common_wechat_login.png" />
           <Image Name="global_button_close.png" />
           <Image Name="img_sex_0.png" />
@@ -67,6 +69,7 @@
           <Image Name="slider_button_reduce.png" />
           <Image Name="slider_flag_bg.png" />
           <Image Name="slider_knob.png" />
+          <Image Name="standard_small_pop_bg.png" />
         </Folder>
         <Folder Name="LobbyScene">
           <Image Name="bg_buychips.png" />
@@ -210,7 +213,6 @@
           <Image Name="general_message_box_header.png" />
           <Image Name="guest_mbig.png" />
           <Image Name="icon_info_chips.png" />
-          <Image Name="im.png" />
           <Image Name="img_buy_diamond_1.png" />
           <Image Name="img_buy_diamond_2.png" />
           <Image Name="img_buy_diamond_3.png" />

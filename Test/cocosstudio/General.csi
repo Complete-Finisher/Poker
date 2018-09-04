@@ -1,6 +1,6 @@
 <PlistInfoProjectFile>
   <PropertyGroup Name="General" Type="Plist" ID="60e76dc5-c0df-47fc-b2f7-76bc111ce7ab" Version="3.10.0.0" />
-  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
     <ImageFiles>
       <FilePathData Path="General/common_btn_green_bg2.png" />
       <FilePathData Path="General/common_btn_white_bg.png" />
@@ -36,6 +36,9 @@
       <FilePathData Path="General/img_sex_0.png" />
       <FilePathData Path="General/common_btn_green_bg3.png" />
       <FilePathData Path="General/button_edit_name.png" />
+      <FilePathData Path="General/common_twitter_login2.png" />
+      <FilePathData Path="General/standard_small_pop_bg.png" />
+      <FilePathData Path="General/btn_close.png" />
     </ImageFiles>
     <MaxSize Width="1024" Height="1024" />
   </Content>

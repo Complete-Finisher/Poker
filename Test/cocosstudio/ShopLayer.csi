@@ -43,7 +43,6 @@
       <FilePathData Path="ShopLayer/verify_selected.png" />
       <FilePathData Path="ShopLayer/yellow_tag.png" />
       <FilePathData Path="ShopLayer/img_label_flag1.png" />
-      <FilePathData Path="ShopLayer/im.png" />
     </ImageFiles>
     <MaxSize Width="2048" Height="2048" />
   </Content>

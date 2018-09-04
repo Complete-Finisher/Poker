@@ -31,21 +31,9 @@
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
         <OpenedDocuments>
-          <FilePathData Path="General.csi" />
-          <FilePathData Path="LobbyScene.csi" />
-          <FilePathData Path="SettingScene.csi" />
-          <FilePathData Path="Csb/ChooseDesk.csd" />
-          <FilePathData Path="Csb/ChoseLanguage.csd" />
-          <FilePathData Path="Csb/NewMenuLayer.csd" />
-          <FilePathData Path="Csb/NewSettingLayer.csd" />
-          <FilePathData Path="Csb/PlayerInfoNew.csd" />
-          <FilePathData Path="Csb/RankLayer.csd" />
-          <FilePathData Path="Csb/NewLoginLayer.csd" />
-          <FilePathData Path="Csb/ShopLayer.csd" />
           <FilePathData Path="Csb/InputFormLayer.csd" />
-          <FilePathData Path="ShopLayer.csi" />
         </OpenedDocuments>
-        <ActiveDocument Path="Csb/ShopLayer.csd" />
+        <ActiveDocument Path="Csb/InputFormLayer.csd" />
       </Value>
     </Item>
   </Properties>
