@@ -51,26 +51,15 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="rank_window_bg_1" ActionTag="727046538" Tag="254" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="97.3535" RightMargin="80.6465" TopMargin="44.1881" BottomMargin="-106.1881" ctype="SpriteObjectData">
+          <AbstractNodeData Name="rank_window_bg_1" ActionTag="727046538" Tag="254" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="97.3326" RightMargin="80.6675" TopMargin="44.1872" BottomMargin="-106.1872" ctype="SpriteObjectData">
             <Size X="1188.0000" Y="830.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="691.3535" Y="308.8119" />
+            <Position X="691.3326" Y="308.8128" />
             <Scale ScaleX="1.1917" ScaleY="0.7979" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5061" Y="0.4021" />
             <PreSize X="0.8697" Y="1.0807" />
             <FileData Type="Normal" Path="Bg/rank_window_bg.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="general_header_title_bg_2" ActionTag="-2074024823" Tag="256" IconVisible="False" LeftMargin="257.3709" RightMargin="308.6292" TopMargin="29.1547" BottomMargin="658.8453" ctype="SpriteObjectData">
-            <Size X="800.0000" Y="80.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="657.3709" Y="698.8453" />
-            <Scale ScaleX="2.0542" ScaleY="1.5000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4812" Y="0.9100" />
-            <PreSize X="0.5857" Y="0.1042" />
-            <FileData Type="Normal" Path="Bg/general_header_title_bg.jpg" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="Button_4" ActionTag="400540371" Tag="255" IconVisible="False" LeftMargin="1252.1586" RightMargin="37.8414" TopMargin="38.6039" BottomMargin="653.3961" TouchEnable="True" FontSize="14" ButtonText="Button" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="46" Scale9Height="54" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">

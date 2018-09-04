@@ -162,14 +162,14 @@
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Title" ActionTag="959695999" Tag="12" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="611.0000" RightMargin="611.0000" TopMargin="29.3486" BottomMargin="702.6514" FontSize="36" LabelText="个人信息" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="144.0000" Y="36.0000" />
+          <AbstractNodeData Name="Title" ActionTag="959695999" Tag="12" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="635.0000" RightMargin="635.0000" TopMargin="35.3486" BottomMargin="708.6514" FontSize="24" LabelText="个人信息" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="96.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="683.0000" Y="720.6514" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.9383" />
-            <PreSize X="0.1054" Y="0.0469" />
+            <PreSize X="0.0703" Y="0.0313" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -227,10 +227,10 @@
               <AbstractNodeData Name="CheckBox_Male" ActionTag="24501433" Tag="237" IconVisible="False" LeftMargin="128.4317" RightMargin="-116.4317" TopMargin="-1.4167" BottomMargin="-6.5833" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
                 <Size X="28.0000" Y="28.0000" />
                 <Children>
-                  <AbstractNodeData Name="Icon" ActionTag="144606304" Tag="239" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="27.5299" RightMargin="-53.5299" TopMargin="-21.3876" BottomMargin="-10.6124" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Icon" ActionTag="144606304" Tag="239" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="27.5300" RightMargin="-53.5300" TopMargin="-21.3872" BottomMargin="-10.6128" ctype="SpriteObjectData">
                     <Size X="54.0000" Y="60.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="54.5299" Y="19.3876" />
+                    <Position X="54.5300" Y="19.3872" />
                     <Scale ScaleX="0.7875" ScaleY="0.7875" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="1.9475" Y="0.6924" />
@@ -254,10 +254,10 @@
               <AbstractNodeData Name="CheckBox_Female" ActionTag="-491301635" Tag="240" IconVisible="False" LeftMargin="230.1500" RightMargin="-218.1500" TopMargin="-1.2484" BottomMargin="-6.7516" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
                 <Size X="28.0000" Y="28.0000" />
                 <Children>
-                  <AbstractNodeData Name="Icon" ActionTag="75962670" Tag="241" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="30.1996" RightMargin="-56.1996" TopMargin="-13.1746" BottomMargin="-18.8254" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Icon" ActionTag="75962670" Tag="241" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="30.1984" RightMargin="-56.1984" TopMargin="-13.1748" BottomMargin="-18.8252" ctype="SpriteObjectData">
                     <Size X="54.0000" Y="60.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="57.1996" Y="11.1746" />
+                    <Position X="57.1984" Y="11.1748" />
                     <Scale ScaleX="0.7115" ScaleY="0.7465" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="2.0428" Y="0.3991" />
@@ -291,7 +291,7 @@
           <AbstractNodeData Name="NeckName" ActionTag="1838153281" Tag="226" IconVisible="False" LeftMargin="102.4530" RightMargin="1223.5470" TopMargin="433.1631" BottomMargin="314.8369" FontSize="20" LabelText="昵称" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="40.0000" Y="20.0000" />
             <Children>
-              <AbstractNodeData Name="Edit" ActionTag="604136575" Tag="228" IconVisible="False" LeftMargin="276.6118" RightMargin="-336.6118" TopMargin="-40.3547" BottomMargin="-39.6453" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="70" Scale9Height="78" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+              <AbstractNodeData Name="Edit" ActionTag="604136575" Tag="228" IconVisible="False" LeftMargin="276.6133" RightMargin="-336.6133" TopMargin="-40.3502" BottomMargin="-39.6498" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="70" Scale9Height="78" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="100.0000" Y="100.0000" />
                 <AnchorPoint ScaleX="0.5355" ScaleY="0.5245" />
                 <Position X="330.1633" Y="12.8002" />
@@ -328,7 +328,7 @@
           <AbstractNodeData Name="Email" ActionTag="2012491753" Tag="248" IconVisible="False" LeftMargin="102.4530" RightMargin="1223.5470" TopMargin="471.8554" BottomMargin="276.1446" FontSize="20" LabelText="邮箱" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="40.0000" Y="20.0000" />
             <Children>
-              <AbstractNodeData Name="Edit" ActionTag="-19246002" Tag="249" IconVisible="False" LeftMargin="276.6118" RightMargin="-336.6118" TopMargin="-40.3547" BottomMargin="-39.6453" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="70" Scale9Height="78" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+              <AbstractNodeData Name="Edit" ActionTag="-19246002" Tag="249" IconVisible="False" LeftMargin="276.6133" RightMargin="-336.6133" TopMargin="-40.3502" BottomMargin="-39.6498" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="70" Scale9Height="78" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="100.0000" Y="100.0000" />
                 <AnchorPoint ScaleX="0.5355" ScaleY="0.5245" />
                 <Position X="330.1633" Y="12.8002" />
@@ -365,7 +365,7 @@
           <AbstractNodeData Name="Tell" ActionTag="139706147" Tag="251" IconVisible="False" LeftMargin="102.4530" RightMargin="1223.5470" TopMargin="513.2128" BottomMargin="234.7872" FontSize="20" LabelText="电话" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="40.0000" Y="20.0000" />
             <Children>
-              <AbstractNodeData Name="Edit" ActionTag="1355742967" Tag="252" IconVisible="False" LeftMargin="276.6118" RightMargin="-336.6118" TopMargin="-40.3547" BottomMargin="-39.6453" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="70" Scale9Height="78" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+              <AbstractNodeData Name="Edit" ActionTag="1355742967" Tag="252" IconVisible="False" LeftMargin="276.6133" RightMargin="-336.6133" TopMargin="-40.3502" BottomMargin="-39.6498" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="70" Scale9Height="78" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="100.0000" Y="100.0000" />
                 <AnchorPoint ScaleX="0.5355" ScaleY="0.5245" />
                 <Position X="330.1633" Y="12.8002" />
@@ -399,7 +399,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Avatar" ActionTag="1433308625" Tag="254" IconVisible="False" LeftMargin="150.1297" RightMargin="1015.8702" TopMargin="137.0030" BottomMargin="430.9970" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Avatar" ActionTag="1433308625" Tag="254" IconVisible="False" LeftMargin="150.1297" RightMargin="1015.8703" TopMargin="137.0030" BottomMargin="430.9970" ctype="SpriteObjectData">
             <Size X="200.0000" Y="200.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="250.1297" Y="530.9970" />

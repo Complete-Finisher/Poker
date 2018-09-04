@@ -39,7 +39,18 @@
       <FilePathData Path="General/common_twitter_login2.png" />
       <FilePathData Path="General/standard_small_pop_bg.png" />
       <FilePathData Path="General/btn_close.png" />
+      <FilePathData Path="General/leaderboards_row_alternator.png" />
+      <FilePathData Path="General/rank_icon_1.png" />
+      <FilePathData Path="General/rank_icon_2.png" />
+      <FilePathData Path="General/rank_icon_3.png" />
+      <FilePathData Path="General/rank_item_bg_1.png" />
+      <FilePathData Path="General/rank_item_bg_2.png" />
+      <FilePathData Path="General/rank_item_divider0.png" />
+      <FilePathData Path="General/rank_item_divider1.png" />
+      <FilePathData Path="General/rank_head_bg.png" />
+      <FilePathData Path="General/icon_play_chips.png" />
+      <FilePathData Path="General/img_diamond.png" />
     </ImageFiles>
-    <MaxSize Width="1024" Height="1024" />
+    <MaxSize Width="2048" Height="2048" />
   </Content>
 </PlistInfoProjectFile>

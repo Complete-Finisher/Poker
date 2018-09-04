@@ -25,6 +25,9 @@
           <Project Name="PlayerInfoNew.csd" Type="Layer" />
           <Project Name="RankLayer.csd" Type="Layer" />
           <Project Name="ShopLayer.csd" Type="Layer" />
+          <Folder Name="Widget">
+            <Project Name="RankItem.csd" Type="Layer" />
+          </Folder>
         </Folder>
         <Folder Name="Font">
           <TTF Name="ARIAL.ttf" />
@@ -62,8 +65,19 @@
           <Image Name="common_twitter_login2.png" />
           <Image Name="common_wechat_login.png" />
           <Image Name="global_button_close.png" />
+          <Image Name="icon_play_chips.png" />
+          <Image Name="img_diamond.png" />
           <Image Name="img_sex_0.png" />
           <Image Name="img_sex_1.png" />
+          <Image Name="leaderboards_row_alternator.png" />
+          <Image Name="rank_head_bg.png" />
+          <Image Name="rank_icon_1.png" />
+          <Image Name="rank_icon_2.png" />
+          <Image Name="rank_icon_3.png" />
+          <Image Name="rank_item_bg_1.png" />
+          <Image Name="rank_item_bg_2.png" />
+          <Image Name="rank_item_divider0.png" />
+          <Image Name="rank_item_divider1.png" />
           <Image Name="slider_1.png" />
           <Image Name="slider_button_plus.png" />
           <Image Name="slider_button_reduce.png" />
