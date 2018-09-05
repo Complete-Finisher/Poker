@@ -28,15 +28,5 @@
         <LastRunType Value="Windows" />
       </Value>
     </Item>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="Csb/Widget/RankItem.csd" />
-          <FilePathData Path="General.csi" />
-          <FilePathData Path="Csb/RankLayer.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="Csb/Widget/RankItem.csd" />
-      </Value>
-    </Item>
   </Properties>
 </UserData>

@@ -137,7 +137,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.9078" Y="0.5000" />
             <PreSize X="0.0308" Y="0.4444" />
-            <FileData Type="MarkedSubImage" Path="General/icon_play_chips.png" Plist="General.plist" />
+            <FileData Type="MarkedSubImage" Path="General/icon_chips.png" Plist="General.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>

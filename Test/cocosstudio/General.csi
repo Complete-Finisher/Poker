@@ -48,7 +48,7 @@
       <FilePathData Path="General/rank_item_divider0.png" />
       <FilePathData Path="General/rank_item_divider1.png" />
       <FilePathData Path="General/rank_head_bg.png" />
-      <FilePathData Path="General/icon_play_chips.png" />
+      <FilePathData Path="General/icon_chips.png" />
       <FilePathData Path="General/img_diamond.png" />
     </ImageFiles>
     <MaxSize Width="2048" Height="2048" />

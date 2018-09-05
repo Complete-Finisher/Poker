@@ -16,6 +16,11 @@
           <Image Name="rank_window_bg.png" />
         </Folder>
         <Folder Name="Csb">
+          <Folder Name="Widget">
+            <Project Name="RankItem.csd" Type="Layer" />
+            <Project Name="ShopGoods_1.csd" Type="Layer" />
+            <Project Name="ShopGoods_2.csd" Type="Layer" />
+          </Folder>
           <Project Name="ChooseDesk.csd" Type="Layer" />
           <Project Name="ChoseLanguage.csd" Type="Layer" />
           <Project Name="InputFormLayer.csd" Type="Layer" />
@@ -25,9 +30,6 @@
           <Project Name="PlayerInfoNew.csd" Type="Layer" />
           <Project Name="RankLayer.csd" Type="Layer" />
           <Project Name="ShopLayer.csd" Type="Layer" />
-          <Folder Name="Widget">
-            <Project Name="RankItem.csd" Type="Layer" />
-          </Folder>
         </Folder>
         <Folder Name="Font">
           <TTF Name="ARIAL.ttf" />
@@ -65,7 +67,7 @@
           <Image Name="common_twitter_login2.png" />
           <Image Name="common_wechat_login.png" />
           <Image Name="global_button_close.png" />
-          <Image Name="icon_play_chips.png" />
+          <Image Name="icon_chips.png" />
           <Image Name="img_diamond.png" />
           <Image Name="img_sex_0.png" />
           <Image Name="img_sex_1.png" />
@@ -226,6 +228,7 @@
           <Image Name="general_checkbox2.png" />
           <Image Name="general_message_box_header.png" />
           <Image Name="guest_mbig.png" />
+          <Image Name="icon_chips.png" />
           <Image Name="icon_info_chips.png" />
           <Image Name="img_buy_diamond_1.png" />
           <Image Name="img_buy_diamond_2.png" />

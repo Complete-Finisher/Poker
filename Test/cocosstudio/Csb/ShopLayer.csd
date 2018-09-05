@@ -28,17 +28,30 @@
             <FileData Type="MarkedSubImage" Path="ShopLayer/general_message_box_header.png" Plist="ShopLayer.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_11" ActionTag="724302497" Tag="119" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="648.0000" RightMargin="648.0000" TopMargin="50.2366" BottomMargin="689.7634" FontSize="24" LabelText="SHOP" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="70.0000" Y="28.0000" />
+          <AbstractNodeData Name="Title" ActionTag="724302497" Tag="119" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="659.0000" RightMargin="659.0000" TopMargin="52.2366" BottomMargin="691.7634" FontSize="24" LabelText="商店" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="48.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="683.0000" Y="703.7634" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.9164" />
-            <PreSize X="0.0512" Y="0.0365" />
-            <FontResource Type="Normal" Path="Font/ARIAL.ttf" Plist="" />
+            <PreSize X="0.0351" Y="0.0313" />
+            <FontResource Type="Default" Path="" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Container" ActionTag="476352879" Tag="35" IconVisible="False" LeftMargin="301.8310" RightMargin="14.1689" TopMargin="179.3226" BottomMargin="38.6774" TouchEnable="True" ClipAble="False" BackColorAlpha="1" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="1050.0000" Y="550.0000" />
+            <AnchorPoint />
+            <Position X="301.8310" Y="38.6774" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.2210" Y="0.0504" />
+            <PreSize X="0.7687" Y="0.7161" />
+            <SingleColor A="255" R="255" G="255" B="255" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
           <AbstractNodeData Name="Back" ActionTag="462788005" Tag="120" IconVisible="False" LeftMargin="1239.9929" RightMargin="50.0071" TopMargin="12.2971" BottomMargin="679.7029" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="-15" Scale9OriginY="-11" Scale9Width="30" Scale9Height="22" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="76.0000" Y="76.0000" />
@@ -54,13 +67,13 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_5" ActionTag="-668666633" Tag="125" IconVisible="False" LeftMargin="57.2527" RightMargin="1117.7473" TopMargin="164.8160" BottomMargin="441.1840" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_5" ActionTag="-668666633" Tag="125" IconVisible="False" LeftMargin="57.2527" RightMargin="1117.7473" TopMargin="149.5591" BottomMargin="456.4409" ctype="SpriteObjectData">
             <Size X="191.0000" Y="162.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="152.7527" Y="522.1840" />
+            <Position X="152.7527" Y="537.4409" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.1118" Y="0.6799" />
+            <PrePosition X="0.1118" Y="0.6998" />
             <PreSize X="0.1398" Y="0.2109" />
             <FileData Type="MarkedSubImage" Path="ShopLayer/store-sclogo.png" Plist="ShopLayer.plist" />
             <BlendFunc Src="1" Dst="771" />
