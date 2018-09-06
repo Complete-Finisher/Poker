@@ -167,6 +167,7 @@
           <Image Name="scr_main_lobby_button_leaderboards.png" />
           <Image Name="scr_main_lobby_button_menu.png" />
           <Image Name="star1.png" />
+          <Image Name="scr_main_lobby_button_buy_chips2.png" />
         </Folder>
         <Folder Name="SettingScene">
           <Image Name="China.png" />

@@ -6,10 +6,10 @@
       <ObjectData Name="Layer" Tag="36" ctype="GameLayerObjectData">
         <Size X="1366.0000" Y="768.0000" />
         <Children>
-          <AbstractNodeData Name="bg" ActionTag="-123525496" Tag="37" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="43.0050" RightMargin="42.9950" TopMargin="-59.0828" BottomMargin="-132.9172" ctype="SpriteObjectData">
+          <AbstractNodeData Name="bg" ActionTag="-123525496" Tag="37" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="43.0000" RightMargin="43.0000" TopMargin="-59.0828" BottomMargin="-132.9172" ctype="SpriteObjectData">
             <Size X="1280.0000" Y="960.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="683.0050" Y="347.0828" />
+            <Position X="683.0000" Y="347.0828" />
             <Scale ScaleX="1.3796" ScaleY="1.3143" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.4519" />
@@ -17,10 +17,10 @@
             <FileData Type="Normal" Path="Bg/bg.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="bg_middle" ActionTag="-846211720" Tag="38" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="42.5483" RightMargin="43.4517" TopMargin="26.7122" BottomMargin="153.2878" ctype="SpriteObjectData">
+          <AbstractNodeData Name="bg_middle" ActionTag="-846211720" Tag="38" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="42.5902" RightMargin="43.4098" TopMargin="26.7264" BottomMargin="153.2736" ctype="SpriteObjectData">
             <Size X="1280.0000" Y="588.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-            <Position X="682.5483" Y="741.2878" />
+            <Position X="682.5902" Y="741.2736" />
             <Scale ScaleX="1.0608" ScaleY="1.0608" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4997" Y="0.9652" />
@@ -159,16 +159,16 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Shop" ActionTag="470582431" Tag="46" IconVisible="False" LeftMargin="449.1418" RightMargin="416.8582" TopMargin="613.3920" BottomMargin="-17.3920" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="470" Scale9Height="150" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="500.0000" Y="172.0000" />
+          <AbstractNodeData Name="Shop" ActionTag="470582431" Tag="46" IconVisible="False" LeftMargin="643.1418" RightMargin="610.8582" TopMargin="643.3920" BottomMargin="12.6080" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="82" Scale9Height="90" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+            <Size X="112.0000" Y="112.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="699.1418" Y="68.6080" />
-            <Scale ScaleX="0.7222" ScaleY="0.5806" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5118" Y="0.0893" />
-            <PreSize X="0.3660" Y="0.2240" />
+            <PreSize X="0.0820" Y="0.1458" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <NormalFileData Type="MarkedSubImage" Path="LobbyScene/scr_main_lobby_button_buy_chips.png" Plist="LobbyScene.plist" />
+            <NormalFileData Type="MarkedSubImage" Path="LobbyScene/scr_main_lobby_button_buy_chips2.png" Plist="LobbyScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
