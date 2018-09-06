@@ -17,7 +17,7 @@
             <FileData Type="MarkedSubImage" Path="LobbyScene/h_0001.png" Plist="LobbyScene.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Selected_Boreder" ActionTag="633733309" Tag="73" IconVisible="False" LeftMargin="73.8737" RightMargin="80.1263" TopMargin="52.6234" BottomMargin="151.3766" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Selected_Boreder" ActionTag="633733309" VisibleForFrame="False" Tag="73" IconVisible="False" LeftMargin="73.8737" RightMargin="80.1263" TopMargin="52.6234" BottomMargin="151.3766" ctype="SpriteObjectData">
             <Size X="146.0000" Y="146.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="146.8737" Y="224.3766" />
@@ -28,7 +28,7 @@
             <FileData Type="MarkedSubImage" Path="ShopLayer/verify_selected.png" Plist="ShopLayer.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="CheckBox" ActionTag="-298337904" Tag="74" IconVisible="False" LeftMargin="191.1168" RightMargin="44.8832" TopMargin="13.8986" BottomMargin="272.1014" TouchEnable="True" ctype="CheckBoxObjectData">
+          <AbstractNodeData Name="CheckBox" ActionTag="-298337904" Tag="74" IconVisible="False" LeftMargin="191.1168" RightMargin="44.8832" TopMargin="13.8986" BottomMargin="272.1014" TouchEnable="True" DisplayState="False" ctype="CheckBoxObjectData">
             <Size X="64.0000" Y="64.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="223.1168" Y="304.1014" />
@@ -38,14 +38,14 @@
             <PreSize X="0.2133" Y="0.1829" />
             <NormalBackFileData Type="MarkedSubImage" Path="ShopLayer/general_checkbox2.png" Plist="ShopLayer.plist" />
             <PressedBackFileData Type="MarkedSubImage" Path="ShopLayer/general_checkbox2.png" Plist="ShopLayer.plist" />
-            <DisableBackFileData Type="MarkedSubImage" Path="ShopLayer/general_checkbox1.png" Plist="ShopLayer.plist" />
+            <DisableBackFileData Type="MarkedSubImage" Path="ShopLayer/general_checkbox2.png" Plist="ShopLayer.plist" />
             <NodeNormalFileData Type="MarkedSubImage" Path="ShopLayer/general_checkbox1.png" Plist="ShopLayer.plist" />
             <NodeDisableFileData Type="Default" Path="Default/CheckBoxNode_Disable.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Button" ActionTag="-908160907" Tag="75" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="32.6412" RightMargin="29.3588" TopMargin="249.3469" BottomMargin="-0.3469" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="208" Scale9Height="79" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="Button" ActionTag="-908160907" Tag="75" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="32.6500" RightMargin="29.3500" TopMargin="249.3469" BottomMargin="-0.3469" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="208" Scale9Height="79" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="238.0000" Y="101.0000" />
             <Children>
-              <AbstractNodeData Name="Button_Icon" ActionTag="-470971900" Tag="76" IconVisible="False" LeftMargin="46.2114" RightMargin="142.7886" TopMargin="31.5441" BottomMargin="34.4559" ctype="SpriteObjectData">
+              <AbstractNodeData Name="Button_Icon" ActionTag="-470971900" Tag="76" IconVisible="False" LeftMargin="46.2123" RightMargin="142.7877" TopMargin="31.5453" BottomMargin="34.4547" ctype="SpriteObjectData">
                 <Size X="49.0000" Y="35.0000" />
                 <AnchorPoint ScaleX="0.4620" ScaleY="0.4401" />
                 <Position X="68.8503" Y="49.8582" />
@@ -56,10 +56,10 @@
                 <FileData Type="MarkedSubImage" Path="ShopLayer/img_diamond.png" Plist="ShopLayer.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Button_Text" ActionTag="-472504806" Tag="77" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="134.5228" RightMargin="70.4772" TopMargin="36.6546" BottomMargin="42.3454" FontSize="22" LabelText="999" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="Button_Text" ActionTag="-472504806" Tag="77" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="134.5224" RightMargin="70.4776" TopMargin="36.6521" BottomMargin="42.3479" FontSize="22" LabelText="999" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="33.0000" Y="22.0000" />
                 <AnchorPoint ScaleX="0.4382" ScaleY="0.4968" />
-                <Position X="148.9830" Y="53.2754" />
+                <Position X="148.9830" Y="53.2775" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.6260" Y="0.5275" />
@@ -69,7 +69,7 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="151.6412" Y="50.1531" />
+            <Position X="151.6500" Y="50.1531" />
             <Scale ScaleX="0.7500" ScaleY="0.7500" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5055" Y="0.1433" />

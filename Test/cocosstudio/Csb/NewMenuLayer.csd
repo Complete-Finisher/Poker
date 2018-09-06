@@ -226,13 +226,24 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Avatar" ActionTag="-625337348" Tag="53" IconVisible="False" LeftMargin="12.0991" RightMargin="1153.9009" TopMargin="-30.4932" BottomMargin="598.4932" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="170" Scale9Height="178" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="Avatar_Bg" ActionTag="-1284571937" Tag="38" IconVisible="False" LeftMargin="56.0000" RightMargin="1232.0000" TopMargin="28.7710" BottomMargin="659.2290" ctype="SpriteObjectData">
+            <Size X="78.0000" Y="80.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="95.0000" Y="699.2290" />
+            <Scale ScaleX="1.4719" ScaleY="1.4601" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.0695" Y="0.9105" />
+            <PreSize X="0.0571" Y="0.1042" />
+            <FileData Type="MarkedSubImage" Path="General/rank_head_bg.png" Plist="General.plist" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Avatar" ActionTag="-625337348" Tag="53" IconVisible="False" LeftMargin="-5.0000" RightMargin="1171.0000" TopMargin="-33.3252" BottomMargin="601.3252" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="170" Scale9Height="178" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="200.0000" Y="200.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="112.0991" Y="698.4932" />
+            <Position X="95.0000" Y="701.3252" />
             <Scale ScaleX="0.5000" ScaleY="0.5000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0821" Y="0.9095" />
+            <PrePosition X="0.0695" Y="0.9132" />
             <PreSize X="0.1464" Y="0.2604" />
             <TextColor A="255" R="65" G="65" B="70" />
             <NormalFileData Type="MarkedSubImage" Path="LobbyScene/h_0008.png" Plist="LobbyScene.plist" />
@@ -434,17 +445,6 @@
             <NormalFileData Type="MarkedSubImage" Path="LobbyScene/middle_yellow_bg.png" Plist="LobbyScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="common_border_1_1" ActionTag="-2126094865" Tag="137" IconVisible="False" LeftMargin="49.3710" RightMargin="1196.6290" TopMargin="12.7224" BottomMargin="635.2776" ctype="SpriteObjectData">
-            <Size X="120.0000" Y="120.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="109.3710" Y="695.2776" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0801" Y="0.9053" />
-            <PreSize X="0.0878" Y="0.1563" />
-            <FileData Type="MarkedSubImage" Path="General/common_border_1.png" Plist="General.plist" />
-            <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
