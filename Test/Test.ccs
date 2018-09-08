@@ -20,6 +20,7 @@
             <Project Name="RankItem.csd" Type="Layer" />
             <Project Name="ShopGoods_1.csd" Type="Layer" />
             <Project Name="ShopGoods_2.csd" Type="Layer" />
+            <Project Name="PlayerState.csd" Type="Layer" />
           </Folder>
           <Project Name="ChooseDesk.csd" Type="Layer" />
           <Project Name="ChoseLanguage.csd" Type="Layer" />
@@ -30,6 +31,7 @@
           <Project Name="PlayerInfoNew.csd" Type="Layer" />
           <Project Name="RankLayer.csd" Type="Layer" />
           <Project Name="ShopLayer.csd" Type="Layer" />
+          <Project Name="TakeInChip.csd" Type="Layer" />
         </Folder>
         <Folder Name="Font">
           <TTF Name="ARIAL.ttf" />
@@ -39,6 +41,7 @@
         </Folder>
         <Folder Name="General">
           <Image Name="btn_close.png" />
+          <Image Name="btn_myprofile_edit.png" />
           <Image Name="btn_tab_active.png" />
           <Image Name="btn_tab_disable.png" />
           <Image Name="button_1_dark.png" />
@@ -164,10 +167,10 @@
           <Image Name="profile_experience_points_curve.png" />
           <Image Name="scr_inbox_button_cta_small.png" />
           <Image Name="scr_main_lobby_button_buy_chips.png" />
+          <Image Name="scr_main_lobby_button_buy_chips2.png" />
           <Image Name="scr_main_lobby_button_leaderboards.png" />
           <Image Name="scr_main_lobby_button_menu.png" />
           <Image Name="star1.png" />
-          <Image Name="scr_main_lobby_button_buy_chips2.png" />
         </Folder>
         <Folder Name="SettingScene">
           <Image Name="China.png" />

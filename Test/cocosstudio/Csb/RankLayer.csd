@@ -62,7 +62,7 @@
             <FileData Type="Normal" Path="Bg/rank_window_bg.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Button_4" ActionTag="400540371" Tag="255" IconVisible="False" LeftMargin="1252.1586" RightMargin="37.8414" TopMargin="38.6039" BottomMargin="653.3961" TouchEnable="True" FontSize="14" ButtonText="Button" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="46" Scale9Height="54" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="Button_4" ActionTag="400540371" Tag="255" IconVisible="False" LeftMargin="1252.1586" RightMargin="37.8414" TopMargin="38.6039" BottomMargin="653.3961" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="46" Scale9Height="54" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="76.0000" Y="76.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="1290.1586" Y="691.3961" />
