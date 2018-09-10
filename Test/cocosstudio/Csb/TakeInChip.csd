@@ -17,10 +17,10 @@
             <FileData Type="Normal" Path="Bg/general_main_popup_window_full.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="general_header_title_bg_2" ActionTag="1452268289" Tag="298" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="156.8499" RightMargin="161.1501" TopMargin="-12.9003" BottomMargin="648.9003" ctype="SpriteObjectData">
+          <AbstractNodeData Name="general_header_title_bg_2" ActionTag="1452268289" Tag="298" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="156.8144" RightMargin="161.1855" TopMargin="-12.9025" BottomMargin="648.9025" ctype="SpriteObjectData">
             <Size X="1048.0000" Y="132.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-            <Position X="680.8499" Y="780.9003" />
+            <Position X="680.8144" Y="780.9025" />
             <Scale ScaleX="2.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4984" Y="1.0168" />
@@ -55,7 +55,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Reduce" ActionTag="-1085795911" Tag="301" IconVisible="False" LeftMargin="171.5639" RightMargin="1126.4362" TopMargin="360.1252" BottomMargin="339.8748" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="38" Scale9Height="46" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="Reduce" ActionTag="-1085795911" Tag="301" IconVisible="False" LeftMargin="171.5637" RightMargin="1126.4363" TopMargin="360.1278" BottomMargin="339.8722" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="38" Scale9Height="46" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="68.0000" Y="68.0000" />
             <AnchorPoint ScaleX="0.5553" ScaleY="0.5768" />
             <Position X="209.3241" Y="379.0946" />
@@ -103,10 +103,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Max" ActionTag="-653310744" Tag="305" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="1001.3344" RightMargin="320.6655" TopMargin="238.0370" BottomMargin="507.9630" FontSize="22" LabelText="200K" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Max" ActionTag="-653310744" Tag="305" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="1001.3252" RightMargin="320.6748" TopMargin="238.0366" BottomMargin="507.9634" FontSize="22" LabelText="200K" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="44.0000" Y="22.0000" />
             <AnchorPoint ScaleX="0.4584" ScaleY="0.3997" />
-            <Position X="1021.5027" Y="516.7568" />
+            <Position X="1021.4948" Y="516.7568" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.7478" Y="0.6729" />
@@ -125,7 +125,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Start" ActionTag="2033164852" Tag="309" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="566.1489" RightMargin="561.8511" TopMargin="720.2394" BottomMargin="-53.2394" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="208" Scale9Height="79" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="Start" ActionTag="2033164852" Tag="309" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="565.7121" RightMargin="562.2879" TopMargin="627.0048" BottomMargin="39.9952" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="208" Scale9Height="79" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="238.0000" Y="101.0000" />
             <Children>
               <AbstractNodeData Name="Start_Text" ActionTag="-1897925243" Tag="308" IconVisible="False" LeftMargin="54.6533" RightMargin="73.3467" TopMargin="38.8262" BottomMargin="40.1738" FontSize="22" LabelText="Text Label" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -141,10 +141,10 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="685.1489" Y="-2.7394" />
+            <Position X="684.7121" Y="90.4952" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5016" Y="-0.0036" />
+            <PrePosition X="0.5013" Y="0.1178" />
             <PreSize X="0.1742" Y="0.1315" />
             <TextColor A="255" R="65" G="65" B="70" />
             <PressedFileData Type="MarkedSubImage" Path="General/button_1_dark.png" Plist="General.plist" />
@@ -152,13 +152,13 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Resume" ActionTag="1098345097" Tag="310" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="573.0000" RightMargin="573.0000" TopMargin="577.8113" BottomMargin="168.1887" FontSize="22" LabelText="您的账户余额:  6,000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Resume" ActionTag="1098345097" Tag="310" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="580.6251" RightMargin="565.3749" TopMargin="534.6021" BottomMargin="211.3979" FontSize="22" LabelText="您的账户余额:  6,000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="220.0000" Y="22.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="683.0000" Y="179.1887" />
+            <Position X="690.6251" Y="222.3979" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.2333" />
+            <PrePosition X="0.5056" Y="0.2896" />
             <PreSize X="0.1611" Y="0.0286" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />

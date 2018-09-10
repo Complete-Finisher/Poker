@@ -6,10 +6,10 @@
       <ObjectData Name="Layer" Tag="69" ctype="GameLayerObjectData">
         <Size X="1366.0000" Y="768.0000" />
         <Children>
-          <AbstractNodeData Name="general_main_popup_window_full_1" ActionTag="86775866" Tag="73" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="170.9996" RightMargin="171.0004" TopMargin="-128.0000" BottomMargin="-128.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="general_main_popup_window_full_1" ActionTag="86775866" Tag="73" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="171.0000" RightMargin="171.0000" TopMargin="-128.0000" BottomMargin="-128.0000" ctype="SpriteObjectData">
             <Size X="1024.0000" Y="1024.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="682.9996" Y="384.0000" />
+            <Position X="683.0000" Y="384.0000" />
             <Scale ScaleX="1.5729" ScaleY="1.5129" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.5000" />
@@ -17,10 +17,10 @@
             <FileData Type="Normal" Path="Bg/general_main_popup_window_full.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="general_message_box_header_2" ActionTag="994375331" Tag="72" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="283.0002" RightMargin="282.9998" TopMargin="-23.0404" BottomMargin="711.0404" ctype="SpriteObjectData">
+          <AbstractNodeData Name="general_message_box_header_2" ActionTag="994375331" Tag="72" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="283.0000" RightMargin="283.0000" TopMargin="-23.0400" BottomMargin="711.0400" ctype="SpriteObjectData">
             <Size X="800.0000" Y="80.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-            <Position X="683.0002" Y="791.0404" />
+            <Position X="683.0000" Y="791.0400" />
             <Scale ScaleX="2.1316" ScaleY="1.7142" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="1.0300" />
@@ -40,22 +40,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Back" ActionTag="-62533265" Tag="71" IconVisible="False" LeftMargin="1261.1842" RightMargin="28.8158" TopMargin="23.3265" BottomMargin="668.6735" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="46" Scale9Height="54" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-            <Size X="76.0000" Y="76.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="1299.1842" Y="706.6735" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.9511" Y="0.9201" />
-            <PreSize X="0.0556" Y="0.0990" />
-            <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
-            <NormalFileData Type="MarkedSubImage" Path="SettingScene/global_button_close.png" Plist="SettingScene.plist" />
-            <OutlineColor A="255" R="255" G="0" B="0" />
-            <ShadowColor A="255" R="110" G="110" B="110" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Node_1" ActionTag="256159329" Tag="121" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="285.0842" RightMargin="1080.9158" TopMargin="202.9824" BottomMargin="565.0176" ctype="SingleNodeObjectData">
+          <AbstractNodeData Name="GuangQuan" ActionTag="256159329" Tag="121" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="285.0842" RightMargin="1080.9158" TopMargin="202.9824" BottomMargin="565.0176" ctype="SingleNodeObjectData">
             <Size X="0.0000" Y="0.0000" />
             <Children>
               <AbstractNodeData Name="Sprite_19" ActionTag="1602284513" Tag="120" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-152.5000" RightMargin="-152.5000" TopMargin="-54.5000" BottomMargin="-54.5000" ctype="SpriteObjectData">
@@ -122,8 +107,6 @@
             <PrePosition X="0.2121" Y="0.7385" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -162,8 +145,6 @@
             <PrePosition X="0.4879" Y="0.7489" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -202,8 +183,6 @@
             <PrePosition X="0.7585" Y="0.7541" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -242,8 +221,6 @@
             <PrePosition X="0.2121" Y="0.5785" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -282,8 +259,6 @@
             <PrePosition X="0.4879" Y="0.5846" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -322,8 +297,6 @@
             <PrePosition X="0.7585" Y="0.5928" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -362,8 +335,6 @@
             <PrePosition X="0.2121" Y="0.4184" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -402,8 +373,6 @@
             <PrePosition X="0.4879" Y="0.4202" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -442,8 +411,6 @@
             <PrePosition X="0.7585" Y="0.4341" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -482,8 +449,6 @@
             <PrePosition X="0.2121" Y="0.2583" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -522,8 +487,6 @@
             <PrePosition X="0.4879" Y="0.2559" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -562,8 +525,6 @@
             <PrePosition X="0.7585" Y="0.2597" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -602,8 +563,6 @@
             <PrePosition X="0.2121" Y="0.0983" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -642,8 +601,6 @@
             <PrePosition X="0.4879" Y="0.0915" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -682,8 +639,6 @@
             <PrePosition X="0.7585" Y="0.0949" />
             <PreSize X="0.1786" Y="0.0729" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
             <NormalFileData Type="MarkedSubImage" Path="SettingScene/scr_settings_general_button.png" Plist="SettingScene.plist" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />

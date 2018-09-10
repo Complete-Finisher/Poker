@@ -17,11 +17,12 @@
         </Folder>
         <Folder Name="Csb">
           <Folder Name="Widget">
+            <Project Name="PlayerState.csd" Type="Layer" />
             <Project Name="RankItem.csd" Type="Layer" />
             <Project Name="ShopGoods_1.csd" Type="Layer" />
             <Project Name="ShopGoods_2.csd" Type="Layer" />
-            <Project Name="PlayerState.csd" Type="Layer" />
           </Folder>
+          <Project Name="ChangePassword.csd" Type="Layer" />
           <Project Name="ChooseDesk.csd" Type="Layer" />
           <Project Name="ChoseLanguage.csd" Type="Layer" />
           <Project Name="InputFormLayer.csd" Type="Layer" />
