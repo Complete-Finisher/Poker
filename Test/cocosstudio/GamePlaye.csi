@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="GamePlaye" Type="Plist" ID="7d1c6cc9-690f-43eb-b72f-63cecc81b76e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="GamePlay/addChips01.png" />
+      <FilePathData Path="GamePlay/allinAnimateBG.png" />
+      <FilePathData Path="GamePlay/button_card_type.png" />
+      <FilePathData Path="GamePlay/card_type_help_bg.png" />
+      <FilePathData Path="GamePlay/card_type_info.png" />
+      <FilePathData Path="GamePlay/game_all_in_font.png" />
+      <FilePathData Path="GamePlay/hot_progress_bar.png" />
+      <FilePathData Path="GamePlay/image_message_bg.png" />
+      <FilePathData Path="GamePlay/image_raise_bg.png" />
+      <FilePathData Path="GamePlay/image_raise_thumb.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

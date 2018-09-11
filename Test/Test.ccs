@@ -25,6 +25,7 @@
           <Project Name="ChangePassword.csd" Type="Layer" />
           <Project Name="ChooseDesk.csd" Type="Layer" />
           <Project Name="ChoseLanguage.csd" Type="Layer" />
+          <Project Name="game_play.csd" Type="Layer" />
           <Project Name="InputFormLayer.csd" Type="Layer" />
           <Project Name="NewLoginLayer.csd" Type="Layer" />
           <Project Name="NewMenuLayer.csd" Type="Layer" />
@@ -33,12 +34,25 @@
           <Project Name="RankLayer.csd" Type="Layer" />
           <Project Name="ShopLayer.csd" Type="Layer" />
           <Project Name="TakeInChip.csd" Type="Layer" />
+          <Project Name="addChips.csd" Type="Layer" />
         </Folder>
         <Folder Name="Font">
           <TTF Name="ARIAL.ttf" />
           <File Name="BebasNeue.otf" />
           <TTF Name="ufonts-bold.ttf" />
           <TTF Name="ufonts-light.ttf" />
+        </Folder>
+        <Folder Name="GamePlay">
+          <Image Name="card_type_help_bg.png" />
+          <Image Name="card_type_info.png" />
+          <Image Name="hot_progress_bar.png" />
+          <Image Name="button_card_type.png" />
+          <Image Name="addChips01.png" />
+          <Image Name="allinAnimateBG.png" />
+          <Image Name="game_all_in_font.png" />
+          <Image Name="image_message_bg.png" />
+          <Image Name="image_raise_bg.png" />
+          <Image Name="image_raise_thumb.png" />
         </Folder>
         <Folder Name="General">
           <Image Name="btn_close.png" />
@@ -263,6 +277,7 @@
         <PlistInfo Name="LobbyScene.csi" Type="Plist" />
         <PlistInfo Name="SettingScene.csi" Type="Plist" />
         <PlistInfo Name="ShopLayer.csi" Type="Plist" />
+        <PlistInfo Name="GamePlaye.csi" Type="Plist" />
       </RootFolder>
     </Group>
   </SolutionFolder>
