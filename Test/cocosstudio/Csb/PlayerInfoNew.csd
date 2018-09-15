@@ -6,24 +6,24 @@
       <ObjectData Name="Layer" ctype="GameLayerObjectData">
         <Size X="1366.0000" Y="768.0000" />
         <Children>
-          <AbstractNodeData Name="general_main_popup_window_full_1" ActionTag="1766636485" Tag="2" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="153.5800" RightMargin="188.4199" TopMargin="-130.6877" BottomMargin="-125.3123" ctype="SpriteObjectData">
+          <AbstractNodeData Name="general_main_popup_window_full_1" ActionTag="1766636485" Tag="2" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="151.6769" RightMargin="190.3231" TopMargin="-128.8496" BottomMargin="-127.1504" ctype="SpriteObjectData">
             <Size X="1024.0000" Y="1024.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="665.5800" Y="386.6877" />
+            <Position X="663.6769" Y="384.8496" />
             <Scale ScaleX="1.8771" ScaleY="1.7414" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4872" Y="0.5035" />
+            <PrePosition X="0.4859" Y="0.5011" />
             <PreSize X="0.7496" Y="1.3333" />
             <FileData Type="Normal" Path="Bg/general_main_popup_window_full.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="general_header_title_bg_2" ActionTag="-1145461553" Tag="3" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="273.8478" RightMargin="292.1522" BottomMargin="688.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="general_header_title_bg_2" ActionTag="-1145461553" Tag="3" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="273.8478" RightMargin="292.1522" BottomMargin="688.0000" ctype="SpriteObjectData">
             <Size X="800.0000" Y="80.0000" />
-            <AnchorPoint ScaleX="0.5000" />
-            <Position X="673.8478" Y="688.0000" />
-            <Scale ScaleX="2.0000" ScaleY="1.2000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
+            <Position X="673.8478" Y="768.0000" />
+            <Scale ScaleX="2.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4933" Y="0.8958" />
+            <PrePosition X="0.4933" Y="1.0000" />
             <PreSize X="0.5857" Y="0.1042" />
             <FileData Type="Normal" Path="Bg/general_header_title_bg.jpg" Plist="" />
             <BlendFunc Src="1" Dst="771" />
@@ -162,13 +162,13 @@
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Title" ActionTag="959695999" Tag="12" IconVisible="False" LeftMargin="635.0000" RightMargin="635.0000" TopMargin="35.3486" BottomMargin="708.6514" FontSize="24" LabelText="个人信息" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Title" ActionTag="959695999" Tag="12" IconVisible="False" LeftMargin="618.4535" RightMargin="651.5465" TopMargin="26.1594" BottomMargin="717.8406" FontSize="24" LabelText="个人信息" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="96.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="683.0000" Y="720.6514" />
+            <Position X="666.4535" Y="729.8406" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.9383" />
+            <PrePosition X="0.4879" Y="0.9503" />
             <PreSize X="0.0703" Y="0.0313" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -325,7 +325,7 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Email" ActionTag="2012491753" Tag="248" IconVisible="False" LeftMargin="59.4066" RightMargin="1266.5935" TopMargin="438.0000" BottomMargin="310.0000" FontSize="20" LabelText="邮箱" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Email" ActionTag="2012491753" Tag="248" IconVisible="False" LeftMargin="59.4066" RightMargin="1266.5934" TopMargin="438.0000" BottomMargin="310.0000" FontSize="20" LabelText="邮箱" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="40.0000" Y="20.0000" />
             <Children>
               <AbstractNodeData Name="Edit" ActionTag="-19246002" Tag="249" IconVisible="False" LeftMargin="310.8853" RightMargin="-306.8853" TopMargin="-9.9182" BottomMargin="-6.0818" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="6" Scale9Height="14" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
@@ -421,7 +421,7 @@
             <FileData Type="MarkedSubImage" Path="LobbyScene/h_0008.png" Plist="LobbyScene.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ResetPassWord" ActionTag="1308768945" Tag="256" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="64.2443" RightMargin="977.7557" TopMargin="540.2607" BottomMargin="147.7393" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="294" Scale9Height="58" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="ResetPassWord" ActionTag="1308768945" Tag="256" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="64.2096" RightMargin="977.7904" TopMargin="540.2607" BottomMargin="147.7393" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="294" Scale9Height="58" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="324.0000" Y="80.0000" />
             <Children>
               <AbstractNodeData Name="ResetPassWord_Text" ActionTag="-262226765" Tag="258" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="114.0000" RightMargin="114.0000" TopMargin="28.0000" BottomMargin="28.0000" FontSize="24" LabelText="修改密码" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -437,7 +437,7 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="226.2443" Y="187.7393" />
+            <Position X="226.2096" Y="187.7393" />
             <Scale ScaleX="0.7000" ScaleY="0.7403" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.1656" Y="0.2445" />

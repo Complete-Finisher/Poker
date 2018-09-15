@@ -17,25 +17,25 @@
             <FileData Type="Normal" Path="Bg/general_main_popup_window_full.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="general_message_box_header_2" ActionTag="994375331" Tag="72" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="283.0000" RightMargin="283.0000" TopMargin="-23.0400" BottomMargin="711.0400" ctype="SpriteObjectData">
+          <AbstractNodeData Name="general_message_box_header_2" ActionTag="994375331" Tag="72" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="283.0000" RightMargin="283.0000" BottomMargin="688.0000" ctype="SpriteObjectData">
             <Size X="800.0000" Y="80.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-            <Position X="683.0000" Y="791.0400" />
-            <Scale ScaleX="2.1316" ScaleY="1.7142" />
+            <Position X="683.0000" Y="768.0000" />
+            <Scale ScaleX="2.1316" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="1.0300" />
+            <PrePosition X="0.5000" Y="1.0000" />
             <PreSize X="0.5857" Y="0.1042" />
-            <FileData Type="MarkedSubImage" Path="SettingScene/general_message_box_header.png" Plist="SettingScene.plist" />
+            <FileData Type="Normal" Path="Bg/general_header_title_bg.jpg" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_11" ActionTag="-866299836" Tag="70" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="587.0000" RightMargin="587.0000" TopMargin="40.2366" BottomMargin="679.7634" FontSize="48" LabelText="设置语言" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="192.0000" Y="48.0000" />
+          <AbstractNodeData Name="Text_11" ActionTag="-866299836" Tag="70" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="634.0211" RightMargin="635.9789" TopMargin="29.7198" BottomMargin="714.2802" FontSize="24" LabelText="设置语言" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="96.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="683.0000" Y="703.7634" />
+            <Position X="682.0211" Y="726.2802" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.9164" />
-            <PreSize X="0.1406" Y="0.0625" />
+            <PrePosition X="0.4993" Y="0.9457" />
+            <PreSize X="0.0703" Y="0.0313" />
             <FontResource Type="Default" Path="" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />

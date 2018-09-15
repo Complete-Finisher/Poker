@@ -17,37 +17,37 @@
             <FileData Type="Normal" Path="Bg/general_main_popup_window_full.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="general_message_box_header_2" ActionTag="309846534" Tag="121" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="274.6674" RightMargin="291.3325" TopMargin="-22.1952" BottomMargin="710.1952" ctype="SpriteObjectData">
+          <AbstractNodeData Name="general_message_box_header_2" ActionTag="309846534" Tag="121" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="274.6674" RightMargin="291.3325" BottomMargin="688.0000" ctype="SpriteObjectData">
             <Size X="800.0000" Y="80.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-            <Position X="674.6674" Y="790.1952" />
-            <Scale ScaleX="1.8737" ScaleY="1.7142" />
+            <Position X="674.6674" Y="768.0000" />
+            <Scale ScaleX="1.8737" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4939" Y="1.0289" />
+            <PrePosition X="0.4939" Y="1.0000" />
             <PreSize X="0.5857" Y="0.1042" />
-            <FileData Type="MarkedSubImage" Path="ShopLayer/general_message_box_header.png" Plist="ShopLayer.plist" />
+            <FileData Type="Normal" Path="Bg/general_header_title_bg.jpg" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Title" ActionTag="724302497" Tag="119" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="659.0000" RightMargin="659.0000" TopMargin="52.2366" BottomMargin="691.7634" FontSize="24" LabelText="商店" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Title" ActionTag="724302497" Tag="119" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="661.5954" RightMargin="656.4046" TopMargin="36.6907" BottomMargin="707.3093" FontSize="24" LabelText="商店" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="48.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="683.0000" Y="703.7634" />
+            <Position X="685.5954" Y="719.3093" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.9164" />
+            <PrePosition X="0.5019" Y="0.9366" />
             <PreSize X="0.0351" Y="0.0313" />
             <FontResource Type="Default" Path="" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Container" ActionTag="476352879" Tag="35" IconVisible="False" LeftMargin="301.8310" RightMargin="14.1689" TopMargin="179.3226" BottomMargin="38.6774" TouchEnable="True" ClipAble="False" BackColorAlpha="1" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
-            <Size X="1050.0000" Y="550.0000" />
+          <AbstractNodeData Name="Container" ActionTag="476352879" Tag="35" IconVisible="False" LeftMargin="301.8310" RightMargin="14.1689" TopMargin="109.3226" BottomMargin="38.6774" TouchEnable="True" ClipAble="False" BackColorAlpha="1" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="1050.0000" Y="620.0000" />
             <AnchorPoint />
             <Position X="301.8310" Y="38.6774" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.2210" Y="0.0504" />
-            <PreSize X="0.7687" Y="0.7161" />
+            <PreSize X="0.7687" Y="0.8073" />
             <SingleColor A="255" R="255" G="255" B="255" />
             <FirstColor A="255" R="150" G="200" B="255" />
             <EndColor A="255" R="255" G="255" B="255" />

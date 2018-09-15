@@ -17,25 +17,25 @@
             <FileData Type="Normal" Path="Bg/general_main_popup_window_full.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="general_message_box_header_2" ActionTag="-1971797435" Tag="63" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="282.8634" RightMargin="283.1366" TopMargin="-30.7200" BottomMargin="718.7200" ctype="SpriteObjectData">
+          <AbstractNodeData Name="general_message_box_header_2" ActionTag="-1971797435" Tag="63" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="282.8634" RightMargin="283.1366" BottomMargin="688.0000" ctype="SpriteObjectData">
             <Size X="800.0000" Y="80.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-            <Position X="682.8634" Y="798.7200" />
-            <Scale ScaleX="2.0636" ScaleY="1.7142" />
+            <Position X="682.8634" Y="768.0000" />
+            <Scale ScaleX="2.0636" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4999" Y="1.0400" />
+            <PrePosition X="0.4999" Y="1.0000" />
             <PreSize X="0.5857" Y="0.1042" />
             <FileData Type="MarkedSubImage" Path="SettingScene/general_message_box_header.png" Plist="SettingScene.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Title" ActionTag="-1858235603" Tag="68" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="627.5000" RightMargin="627.5000" TopMargin="35.0210" BottomMargin="691.9790" FontSize="36" LabelText="Setting" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="111.0000" Y="41.0000" />
+          <AbstractNodeData Name="Title" ActionTag="-1858235603" Tag="68" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="640.8230" RightMargin="648.1770" TopMargin="32.3293" BottomMargin="707.6707" FontSize="24" LabelText="Setting" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="77.0000" Y="28.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="683.0000" Y="712.4790" />
+            <Position X="679.3230" Y="721.6707" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.9277" />
-            <PreSize X="0.0813" Y="0.0534" />
+            <PrePosition X="0.4973" Y="0.9397" />
+            <PreSize X="0.0564" Y="0.0365" />
             <FontResource Type="Normal" Path="Font/ARIAL.ttf" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />

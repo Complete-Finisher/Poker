@@ -6,10 +6,10 @@
       <ObjectData Name="Layer" ctype="GameLayerObjectData">
         <Size X="1366.0000" Y="768.0000" />
         <Children>
-          <AbstractNodeData Name="general_main_popup_window_full_1" ActionTag="-574659689" Tag="2" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="170.0436" RightMargin="171.9564" TopMargin="-153.0239" BottomMargin="-102.9761" ctype="SpriteObjectData">
+          <AbstractNodeData Name="general_main_popup_window_full_1" ActionTag="-574659689" Tag="2" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="170.0438" RightMargin="171.9562" TopMargin="-153.0368" BottomMargin="-102.9632" ctype="SpriteObjectData">
             <Size X="1024.0000" Y="1024.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="682.0436" Y="409.0239" />
+            <Position X="682.0438" Y="409.0368" />
             <Scale ScaleX="1.6000" ScaleY="1.6000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4993" Y="0.5326" />
@@ -17,24 +17,24 @@
             <FileData Type="Normal" Path="Bg/general_main_popup_window_full.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="general_title_1048_132_2" ActionTag="1549469610" Tag="3" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="150.2576" RightMargin="167.7424" TopMargin="-20.5056" BottomMargin="656.5056" ctype="SpriteObjectData">
-            <Size X="1048.0000" Y="132.0000" />
+          <AbstractNodeData Name="general_title_1048_132_2" ActionTag="1549469610" Tag="3" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="274.2576" RightMargin="291.7424" BottomMargin="688.0000" ctype="SpriteObjectData">
+            <Size X="800.0000" Y="80.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-            <Position X="674.2576" Y="788.5056" />
+            <Position X="674.2576" Y="768.0000" />
             <Scale ScaleX="1.5000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4936" Y="1.0267" />
-            <PreSize X="0.7672" Y="0.1719" />
-            <FileData Type="Normal" Path="Bg/general_title_1048_132.png" Plist="" />
+            <PrePosition X="0.4936" Y="1.0000" />
+            <PreSize X="0.5857" Y="0.1042" />
+            <FileData Type="Normal" Path="Bg/general_header_title_bg.jpg" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_1" ActionTag="1331092443" Tag="97" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="611.0000" RightMargin="611.0000" TopMargin="45.5039" BottomMargin="698.4961" FontSize="24" LabelText="德州扑克牌桌" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Text_1" ActionTag="1331092443" Tag="97" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="611.0001" RightMargin="610.9999" TopMargin="32.4356" BottomMargin="711.5644" FontSize="24" LabelText="德州扑克牌桌" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="144.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="683.0000" Y="710.4961" />
+            <Position X="683.0001" Y="723.5644" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.9251" />
+            <PrePosition X="0.5000" Y="0.9421" />
             <PreSize X="0.1054" Y="0.0313" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -112,10 +112,10 @@
             <FileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Slider_2" ActionTag="-1816442189" Tag="8" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="136.3093" RightMargin="829.6907" TopMargin="492.3626" BottomMargin="243.6374" TouchEnable="True" PercentInfo="51" ctype="SliderObjectData">
+          <AbstractNodeData Name="Slider_2" ActionTag="-1816442189" Tag="8" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="136.3092" RightMargin="829.6908" TopMargin="492.3626" BottomMargin="243.6374" TouchEnable="True" PercentInfo="51" ctype="SliderObjectData">
             <Size X="400.0000" Y="32.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="336.3093" Y="259.6374" />
+            <Position X="336.3092" Y="259.6374" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.2462" Y="0.3381" />
@@ -126,7 +126,7 @@
             <BallPressedData Type="MarkedSubImage" Path="General/slider_knob.png" Plist="General.plist" />
             <BallDisabledData Type="MarkedSubImage" Path="General/slider_knob.png" Plist="General.plist" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Button_Reduce_2" ActionTag="-355897238" Tag="9" IconVisible="False" LeftMargin="38.7951" RightMargin="1259.2048" TopMargin="477.9830" BottomMargin="222.0170" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="38" Scale9Height="46" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="Button_Reduce_2" ActionTag="-355897238" Tag="9" IconVisible="False" LeftMargin="38.7951" RightMargin="1259.2050" TopMargin="477.9830" BottomMargin="222.0170" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="38" Scale9Height="46" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="68.0000" Y="68.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="72.7951" Y="256.0170" />

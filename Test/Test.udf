@@ -28,16 +28,5 @@
         <LastRunType Value="Windows" />
       </Value>
     </Item>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="Csb/addChips.csd" />
-          <FilePathData Path="GamePlaye.csi" />
-          <FilePathData Path="Csb/TakeInChip.csd" />
-          <FilePathData Path="Csb/game_play.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="Csb/game_play.csd" />
-      </Value>
-    </Item>
   </Properties>
 </UserData>

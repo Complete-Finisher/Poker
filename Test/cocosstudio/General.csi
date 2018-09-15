@@ -8,7 +8,6 @@
       <FilePathData Path="General/common_check_protocal_disagree.png" />
       <FilePathData Path="General/common_facebook_login.png" />
       <FilePathData Path="General/common_google_login.png" />
-      <FilePathData Path="General/common_input_bg.png" />
       <FilePathData Path="General/common_login_20M_flag.png" />
       <FilePathData Path="General/common_login_btn_background.png" />
       <FilePathData Path="General/common_login_btn_green_bg.png" />
@@ -51,6 +50,7 @@
       <FilePathData Path="General/icon_chips.png" />
       <FilePathData Path="General/img_diamond.png" />
       <FilePathData Path="General/btn_myprofile_edit.png" />
+      <FilePathData Path="General/common_input_bg.png" />
     </ImageFiles>
     <MaxSize Width="2048" Height="2048" />
   </Content>

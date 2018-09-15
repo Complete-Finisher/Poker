@@ -6,18 +6,18 @@
       <ObjectData Name="Layer" Tag="23" ctype="GameLayerObjectData">
         <Size X="1366.0000" Y="768.0000" />
         <Children>
-          <AbstractNodeData Name="Bg" ActionTag="1156469188" Tag="24" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="52.4254" RightMargin="33.5746" TopMargin="22.0800" BottomMargin="25.9200" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Bg" ActionTag="1156469188" Tag="24" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="50.8008" RightMargin="35.1992" TopMargin="22.0801" BottomMargin="25.9199" ctype="SpriteObjectData">
             <Size X="1280.0000" Y="720.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="692.4254" Y="385.9200" />
+            <Position X="690.8008" Y="385.9199" />
             <Scale ScaleX="1.2923" ScaleY="1.2923" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5069" Y="0.5025" />
+            <PrePosition X="0.5057" Y="0.5025" />
             <PreSize X="0.9370" Y="0.9375" />
             <FileData Type="Normal" Path="Bg/login_bgp.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="UserName" ActionTag="1886738804" Tag="25" IconVisible="False" LeftMargin="87.3029" RightMargin="1223.6970" TopMargin="228.8938" BottomMargin="517.1062" FontSize="22" LabelText="账户:" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="UserName" ActionTag="1886738804" Tag="25" IconVisible="False" LeftMargin="87.3029" RightMargin="1223.6971" TopMargin="228.8938" BottomMargin="517.1062" FontSize="22" LabelText="账户:" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="55.0000" Y="22.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="114.8029" Y="528.1062" />
@@ -42,7 +42,7 @@
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
           <AbstractNodeData Name="InputName" ActionTag="-1392446296" Tag="28" IconVisible="False" LeftMargin="252.6277" RightMargin="850.3723" TopMargin="214.8518" BottomMargin="501.1482" ctype="SpriteObjectData">
-            <Size X="263.0000" Y="52.0000" />
+            <Size X="284.0000" Y="44.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="384.1277" Y="527.1482" />
             <Scale ScaleX="1.4236" ScaleY="1.2571" />
@@ -53,7 +53,7 @@
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
           <AbstractNodeData Name="InputPassWord" ActionTag="1813298157" Tag="30" IconVisible="False" LeftMargin="252.6277" RightMargin="850.3723" TopMargin="322.8808" BottomMargin="393.1192" ctype="SpriteObjectData">
-            <Size X="263.0000" Y="52.0000" />
+            <Size X="284.0000" Y="44.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="384.1277" Y="419.1192" />
             <Scale ScaleX="1.4236" ScaleY="1.2571" />
@@ -242,10 +242,10 @@
                 <FileData Type="MarkedSubImage" Path="General/common_login_20M_flag.png" Plist="General.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Button_Google_Text" ActionTag="-1779901337" Tag="47" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="143.2957" RightMargin="170.7043" TopMargin="37.3260" BottomMargin="42.6740" FontSize="24" LabelText="Google" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="Button_Google_Text" ActionTag="-1779901337" Tag="47" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="143.2970" RightMargin="170.7030" TopMargin="37.3272" BottomMargin="42.6728" FontSize="24" LabelText="Google" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="72.0000" Y="24.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="179.2957" Y="54.6740" />
+                <Position X="179.2970" Y="54.6728" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="83" G="56" B="55" />
                 <PrePosition X="0.4645" Y="0.5257" />
@@ -307,10 +307,10 @@
           <AbstractNodeData Name="Button_Tourist" ActionTag="803941863" Tag="166" IconVisible="False" LeftMargin="850.6870" RightMargin="129.3130" TopMargin="564.4416" BottomMargin="99.5584" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="356" Scale9Height="82" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="386.0000" Y="104.0000" />
             <Children>
-              <AbstractNodeData Name="Button_Tourist_Text" ActionTag="442997656" Tag="168" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="145.1886" RightMargin="180.8114" TopMargin="38.6064" BottomMargin="41.3936" FontSize="24" LabelText="Guest" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="Button_Tourist_Text" ActionTag="442997656" Tag="168" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="145.1872" RightMargin="180.8128" TopMargin="38.6104" BottomMargin="41.3896" FontSize="24" LabelText="Guest" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="60.0000" Y="24.0000" />
                 <AnchorPoint ScaleX="0.5537" ScaleY="0.5565" />
-                <Position X="178.4108" Y="54.7498" />
+                <Position X="178.4092" Y="54.7456" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="83" G="56" B="55" />
                 <PrePosition X="0.4622" Y="0.5264" />
