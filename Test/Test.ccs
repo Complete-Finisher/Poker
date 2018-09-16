@@ -10,6 +10,8 @@
           <Image Name="general_main_popup_window_full.png" />
           <Image Name="general_title_1048_132.png" />
           <Image Name="generic_popup.png" />
+          <Image Name="image_background.png" />
+          <Image Name="image_desk.png" />
           <Image Name="login_bgp.jpg" />
           <Image Name="main_bg.jpg" />
           <Image Name="person_info_bg.png" />
@@ -26,16 +28,18 @@
           <Project Name="ChangePassword.csd" Type="Layer" />
           <Project Name="ChooseDesk.csd" Type="Layer" />
           <Project Name="ChoseLanguage.csd" Type="Layer" />
+          <Project Name="desktop.csd" Type="Layer" />
           <Project Name="game_play.csd" Type="Layer" />
           <Project Name="InputFormLayer.csd" Type="Layer" />
           <Project Name="NewLoginLayer.csd" Type="Layer" />
           <Project Name="NewMenuLayer.csd" Type="Layer" />
           <Project Name="NewSettingLayer.csd" Type="Layer" />
+          <Project Name="player_status.csd" Type="Node" />
           <Project Name="PlayerInfoNew.csd" Type="Layer" />
           <Project Name="RankLayer.csd" Type="Layer" />
+          <Project Name="Register.csd" Type="Layer" />
           <Project Name="ShopLayer.csd" Type="Layer" />
           <Project Name="TakeInChip.csd" Type="Layer" />
-          <Project Name="Register.csd" Type="Layer" />
         </Folder>
         <Folder Name="Font">
           <TTF Name="ARIAL.ttf" />
@@ -46,14 +50,108 @@
         <Folder Name="GamePlay">
           <Image Name="addChips01.png" />
           <Image Name="allinAnimateBG.png" />
+          <Image Name="blackclubs0.png" />
+          <Image Name="blackclubs1.png" />
+          <Image Name="blackclubs10.png" />
+          <Image Name="blackclubs11.png" />
+          <Image Name="blackclubs12.png" />
+          <Image Name="blackclubs2.png" />
+          <Image Name="blackclubs3.png" />
+          <Image Name="blackclubs4.png" />
+          <Image Name="blackclubs5.png" />
+          <Image Name="blackclubs6.png" />
+          <Image Name="blackclubs7.png" />
+          <Image Name="blackclubs8.png" />
+          <Image Name="blackclubs9.png" />
+          <Image Name="blackspades0.png" />
+          <Image Name="blackspades1.png" />
+          <Image Name="blackspades10.png" />
+          <Image Name="blackspades11.png" />
+          <Image Name="blackspades12.png" />
+          <Image Name="blackspades2.png" />
+          <Image Name="blackspades3.png" />
+          <Image Name="blackspades4.png" />
+          <Image Name="blackspades5.png" />
+          <Image Name="blackspades6.png" />
+          <Image Name="blackspades7.png" />
+          <Image Name="blackspades8.png" />
+          <Image Name="blackspades9.png" />
+          <Image Name="bottom_poolBack.png" />
+          <Image Name="button_action_all_in.png" />
+          <Image Name="button_action_call_2.png" />
+          <Image Name="button_action_check_2.png" />
+          <Image Name="button_action_fold.png" />
+          <Image Name="button_action_raise.png" />
           <Image Name="button_card_type.png" />
+          <Image Name="button_preaction_call_any.png" />
+          <Image Name="button_preaction_call_any_select.png" />
+          <Image Name="button_preaction_check.png" />
+          <Image Name="button_preaction_check_fold.png" />
+          <Image Name="button_preaction_check_fold_select.png" />
+          <Image Name="button_preaction_check_select.png" />
+          <Image Name="button_preaction_fold.png" />
+          <Image Name="button_preaction_fold_select.png" />
+          <Image Name="card_spot.png" />
           <Image Name="card_type_help_bg.png" />
           <Image Name="card_type_info.png" />
+          <Image Name="chips_st.png" />
+          <Image Name="chipsBack.png" />
+          <Image Name="counters0001.png" />
+          <Image Name="counters00010.png" />
+          <Image Name="counters0002.png" />
+          <Image Name="counters0003.png" />
+          <Image Name="counters0004.png" />
+          <Image Name="counters0005.png" />
+          <Image Name="counters0006.png" />
+          <Image Name="counters0007.png" />
+          <Image Name="counters0008.png" />
+          <Image Name="counters0009.png" />
+          <Image Name="counters0011.png" />
+          <Image Name="counters0012.png" />
+          <Image Name="counters0013.png" />
+          <Image Name="counters0014.png" />
+          <Image Name="counters0015.png" />
           <Image Name="game_all_in_font.png" />
           <Image Name="hot_progress_bar.png" />
+          <Image Name="image_dealer.png" />
+          <Image Name="image_hand_poker.png" />
           <Image Name="image_message_bg.png" />
+          <Image Name="image_player.png" />
+          <Image Name="image_poker_back.png" />
           <Image Name="image_raise_bg.png" />
           <Image Name="image_raise_thumb.png" />
+          <Image Name="reddiamonds0.png" />
+          <Image Name="reddiamonds1.png" />
+          <Image Name="reddiamonds10.png" />
+          <Image Name="reddiamonds11.png" />
+          <Image Name="reddiamonds12.png" />
+          <Image Name="reddiamonds2.png" />
+          <Image Name="reddiamonds3.png" />
+          <Image Name="reddiamonds4.png" />
+          <Image Name="reddiamonds5.png" />
+          <Image Name="reddiamonds6.png" />
+          <Image Name="reddiamonds7.png" />
+          <Image Name="reddiamonds8.png" />
+          <Image Name="reddiamonds9.png" />
+          <Image Name="redhearts0.png" />
+          <Image Name="redhearts1.png" />
+          <Image Name="redhearts10.png" />
+          <Image Name="redhearts11.png" />
+          <Image Name="redhearts12.png" />
+          <Image Name="redhearts2.png" />
+          <Image Name="redhearts3.png" />
+          <Image Name="redhearts4.png" />
+          <Image Name="redhearts5.png" />
+          <Image Name="redhearts6.png" />
+          <Image Name="redhearts7.png" />
+          <Image Name="redhearts8.png" />
+          <Image Name="redhearts9.png" />
+          <Image Name="sit_mask.png" />
+          <Image Name="sit_shine.png" />
+          <Image Name="sit_shine_in.png" />
+          <Image Name="takeIn_Tip.png" />
+          <Image Name="waitNextTipBack.png" />
+          <Image Name="WIN0001.png" />
         </Folder>
         <Folder Name="General">
           <Image Name="btn_close.png" />
@@ -164,6 +262,7 @@
           <Image Name="header_button_menu_press.png" />
           <Image Name="icon_info_chips.png" />
           <Image Name="icon_play_chips.png" />
+          <Image Name="img_diamond.png" />
           <Image Name="LobbyCard1.png" />
           <Image Name="LobbyCard2.png" />
           <Image Name="LobbyCard3.png" />

@@ -28,10 +28,10 @@
             <FileData Type="Normal" Path="Bg/general_header_title_bg.jpg" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_1" ActionTag="1331092443" Tag="97" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="611.0001" RightMargin="610.9999" TopMargin="32.4356" BottomMargin="711.5644" FontSize="24" LabelText="德州扑克牌桌" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Text_1" ActionTag="1331092443" Tag="97" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="611.0000" RightMargin="611.0000" TopMargin="32.4356" BottomMargin="711.5644" FontSize="24" LabelText="德州扑克牌桌" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="144.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="683.0001" Y="723.5644" />
+            <Position X="683.0000" Y="723.5644" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.9421" />
@@ -355,7 +355,7 @@
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="119.0000" Y="50.5000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="0" G="0" B="0" />
+                <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.5000" />
                 <PreSize X="0.4034" Y="0.2376" />
                 <OutlineColor A="255" R="255" G="0" B="0" />

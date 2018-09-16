@@ -35,26 +35,134 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_alwaysCheckButton" ActionTag="1524410074" VisibleForFrame="False" Tag="20" IconVisible="False" LeftMargin="1133.3177" RightMargin="148.6823" TopMargin="670.0890" BottomMargin="21.9110" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
-                <Size X="84.0000" Y="76.0000" />
+              <AbstractNodeData Name="m_alwaysCheckButton" ActionTag="1524410074" Tag="20" IconVisible="False" LeftMargin="1193.5128" RightMargin="96.4872" TopMargin="683.8820" BottomMargin="1.1180" TouchEnable="True" ctype="CheckBoxObjectData">
+                <Size X="76.0000" Y="83.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_alwaysCheckText" ActionTag="-904386532" Tag="15" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="22.0000" RightMargin="22.0000" TopMargin="-50.4000" BottomMargin="86.4000" FontSize="20" LabelText="自动&#xA;让拍" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="40.0000" Y="40.0000" />
+                  <AbstractNodeData Name="m_alwaysCheckText" ActionTag="-904386532" Tag="15" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="41.6024" RightMargin="34.3976" TopMargin="1.3944" BottomMargin="81.6056" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="42.0000" Y="106.4000" />
+                    <Position X="41.6024" Y="81.6056" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5000" Y="1.4000" />
-                    <PreSize X="0.4762" Y="0.5263" />
+                    <PrePosition X="0.5474" Y="0.9832" />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="1175.3177" Y="59.9110" />
+                <Position X="1231.5128" Y="42.6180" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.8604" Y="0.0780" />
+                <PrePosition X="0.9015" Y="0.0555" />
+                <PreSize X="0.0556" Y="0.1081" />
+                <NormalBackFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_check.png" Plist="GamePlaye.plist" />
+                <PressedBackFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_check.png" Plist="GamePlaye.plist" />
+                <DisableBackFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_check.png" Plist="GamePlaye.plist" />
+                <NodeNormalFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_check_select.png" Plist="GamePlaye.plist" />
+                <NodeDisableFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_check_select.png" Plist="GamePlaye.plist" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="m_alwaysCallButton" ActionTag="135435276" Tag="21" IconVisible="False" LeftMargin="1280.4371" RightMargin="15.5629" TopMargin="669.2291" BottomMargin="2.7709" TouchEnable="True" ctype="CheckBoxObjectData">
+                <Size X="70.0000" Y="96.0000" />
+                <Children>
+                  <AbstractNodeData Name="m_alwaysCallText" ActionTag="1988587732" Tag="19" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="36.3090" RightMargin="33.6910" TopMargin="17.5488" BottomMargin="78.4512" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="0.0000" Y="0.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="36.3090" Y="78.4512" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5187" Y="0.8172" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="1315.4371" Y="50.7709" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.9630" Y="0.0661" />
+                <PreSize X="0.0512" Y="0.1250" />
+                <NormalBackFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_call_any.png" Plist="GamePlaye.plist" />
+                <PressedBackFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_call_any.png" Plist="GamePlaye.plist" />
+                <DisableBackFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_call_any.png" Plist="GamePlaye.plist" />
+                <NodeNormalFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_call_any_select.png" Plist="GamePlaye.plist" />
+                <NodeDisableFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_call_any_select.png" Plist="GamePlaye.plist" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="m_alwaysFoldOrCheckButton" ActionTag="-948380681" Tag="149" IconVisible="False" LeftMargin="1120.2166" RightMargin="169.7834" TopMargin="671.6274" BottomMargin="0.3726" TouchEnable="True" ctype="CheckBoxObjectData">
+                <Size X="76.0000" Y="96.0000" />
+                <Children>
+                  <AbstractNodeData Name="m_alwaysFoldText" ActionTag="1205597127" Tag="150" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="36.6700" RightMargin="39.3300" TopMargin="16.6848" BottomMargin="79.3152" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="0.0000" Y="0.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="36.6700" Y="79.3152" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.4825" Y="0.8262" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="1158.2166" Y="48.3726" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.8479" Y="0.0630" />
+                <PreSize X="0.0556" Y="0.1250" />
+                <NormalBackFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_check_fold.png" Plist="GamePlaye.plist" />
+                <PressedBackFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_check_fold.png" Plist="GamePlaye.plist" />
+                <DisableBackFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_check_fold.png" Plist="GamePlaye.plist" />
+                <NodeNormalFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_check_fold_select.png" Plist="GamePlaye.plist" />
+                <NodeDisableFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_check_fold_select.png" Plist="GamePlaye.plist" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="m_alwaysFoldButton" ActionTag="-849237711" Tag="23" IconVisible="False" LeftMargin="1034.5132" RightMargin="261.4868" TopMargin="684.5561" BottomMargin="0.4439" TouchEnable="True" ctype="CheckBoxObjectData">
+                <Size X="70.0000" Y="83.0000" />
+                <Children>
+                  <AbstractNodeData Name="m_alwaysFoldText" ActionTag="-372614023" Tag="17" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="34.5590" RightMargin="35.4410" TopMargin="-2.4236" BottomMargin="85.4236" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="0.0000" Y="0.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="34.5590" Y="85.4236" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.4937" Y="1.0292" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="1069.5132" Y="41.9439" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.7830" Y="0.0546" />
+                <PreSize X="0.0512" Y="0.1081" />
+                <NormalBackFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_fold.png" Plist="GamePlaye.plist" />
+                <PressedBackFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_fold.png" Plist="GamePlaye.plist" />
+                <DisableBackFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_fold.png" Plist="GamePlaye.plist" />
+                <NodeNormalFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_fold_select.png" Plist="GamePlaye.plist" />
+                <NodeDisableFileData Type="MarkedSubImage" Path="GamePlay/button_preaction_fold_select.png" Plist="GamePlaye.plist" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="m_callCurrentButton" ActionTag="966731963" Tag="25" IconVisible="False" LeftMargin="913.4032" RightMargin="368.5968" TopMargin="686.1963" BottomMargin="5.8037" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
+                <Size X="84.0000" Y="76.0000" />
+                <Children>
+                  <AbstractNodeData Name="m_alwaysCurrentText" ActionTag="1165301189" Tag="26" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="22.0000" RightMargin="22.0000" TopMargin="-32.6176" BottomMargin="88.6176" FontSize="20" LabelText="跟注" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="40.0000" Y="20.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="42.0000" Y="98.6176" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5000" Y="1.2976" />
+                    <PreSize X="0.4762" Y="0.2632" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="955.4032" Y="43.8037" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.6994" Y="0.0570" />
                 <PreSize X="0.0615" Y="0.0990" />
                 <NormalBackFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
                 <PressedBackFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
@@ -62,88 +170,7 @@
                 <NodeNormalFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
                 <NodeDisableFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_alwaysCallButton" ActionTag="135435276" VisibleForFrame="False" Tag="21" IconVisible="False" LeftMargin="1249.4626" RightMargin="32.5374" TopMargin="670.7702" BottomMargin="21.2298" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
-                <Size X="84.0000" Y="76.0000" />
-                <Children>
-                  <AbstractNodeData Name="m_alwaysCallText" ActionTag="1988587732" Tag="19" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="22.0000" RightMargin="22.0000" TopMargin="-50.4000" BottomMargin="86.4000" FontSize="20" LabelText="跟任&#xA;何注" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="40.0000" Y="40.0000" />
-                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="42.0000" Y="106.4000" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                    <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5000" Y="1.4000" />
-                    <PreSize X="0.4762" Y="0.5263" />
-                    <OutlineColor A="255" R="255" G="0" B="0" />
-                    <ShadowColor A="255" R="110" G="110" B="110" />
-                  </AbstractNodeData>
-                </Children>
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="1291.4626" Y="59.2298" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.9454" Y="0.0771" />
-                <PreSize X="0.0615" Y="0.0990" />
-                <NormalBackFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-                <PressedBackFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-                <DisableBackFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-                <NodeNormalFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-                <NodeDisableFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="m_alwaysFoldButton" ActionTag="-849237711" VisibleForFrame="False" Tag="23" IconVisible="False" LeftMargin="1024.9409" RightMargin="257.0591" TopMargin="669.8982" BottomMargin="22.1018" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
-                <Size X="84.0000" Y="76.0000" />
-                <Children>
-                  <AbstractNodeData Name="m_alwaysFoldText" ActionTag="-372614023" Tag="17" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="22.0000" RightMargin="22.0000" TopMargin="-50.4000" BottomMargin="86.4000" FontSize="20" LabelText="让牌&#xA;弃牌" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="40.0000" Y="40.0000" />
-                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="42.0000" Y="106.4000" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                    <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5000" Y="1.4000" />
-                    <PreSize X="0.4762" Y="0.5263" />
-                    <OutlineColor A="255" R="255" G="0" B="0" />
-                    <ShadowColor A="255" R="110" G="110" B="110" />
-                  </AbstractNodeData>
-                </Children>
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="1066.9409" Y="60.1018" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.7811" Y="0.0783" />
-                <PreSize X="0.0615" Y="0.0990" />
-                <NormalBackFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-                <PressedBackFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-                <DisableBackFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-                <NodeNormalFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-                <NodeDisableFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="m_callCurrentButton" ActionTag="966731963" VisibleForFrame="False" Tag="25" IconVisible="False" LeftMargin="920.0056" RightMargin="361.9944" TopMargin="669.0265" BottomMargin="22.9735" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
-                <Size X="84.0000" Y="76.0000" />
-                <Children>
-                  <AbstractNodeData Name="m_alwaysCurrentText" ActionTag="1165301189" Tag="26" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="22.0000" RightMargin="22.0000" TopMargin="-50.4000" BottomMargin="86.4000" FontSize="20" LabelText="让牌&#xA;弃牌" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="40.0000" Y="40.0000" />
-                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="42.0000" Y="106.4000" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                    <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5000" Y="1.4000" />
-                    <PreSize X="0.4762" Y="0.5263" />
-                    <OutlineColor A="255" R="255" G="0" B="0" />
-                    <ShadowColor A="255" R="110" G="110" B="110" />
-                  </AbstractNodeData>
-                </Children>
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="962.0056" Y="60.9735" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.7043" Y="0.0794" />
-                <PreSize X="0.0615" Y="0.0990" />
-                <NormalBackFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-                <PressedBackFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-                <DisableBackFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-                <NodeNormalFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-                <NodeDisableFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="m_alwaysAllInButton" ActionTag="1373876652" VisibleForFrame="False" Tag="27" IconVisible="False" LeftMargin="921.9319" RightMargin="360.0681" TopMargin="670.9547" BottomMargin="21.0453" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
+              <AbstractNodeData Name="m_alwaysAllInButton" ActionTag="1373876652" Tag="27" IconVisible="False" LeftMargin="914.3369" RightMargin="367.6631" TopMargin="683.9735" BottomMargin="8.0265" TouchEnable="True" CheckedState="True" ctype="CheckBoxObjectData">
                 <Size X="84.0000" Y="76.0000" />
                 <Children>
                   <AbstractNodeData Name="m_alwaysAllInText" ActionTag="-2092588032" Tag="28" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="22.0000" RightMargin="22.0000" TopMargin="-50.4000" BottomMargin="86.4000" FontSize="20" LabelText="让牌&#xA;弃牌" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -159,10 +186,10 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="963.9319" Y="59.0453" />
+                <Position X="956.3369" Y="46.0265" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.7057" Y="0.0769" />
+                <PrePosition X="0.7001" Y="0.0599" />
                 <PreSize X="0.0615" Y="0.0990" />
                 <NormalBackFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
                 <PressedBackFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
@@ -183,146 +210,144 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_raiseButton" ActionTag="-1140617087" Tag="30" IconVisible="False" LeftMargin="1197.9055" RightMargin="84.0945" TopMargin="672.0376" BottomMargin="19.9624" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="54" Scale9Height="54" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-                <Size X="84.0000" Y="76.0000" />
+              <AbstractNodeData Name="m_raiseButton" ActionTag="-1140617087" Tag="30" IconVisible="False" LeftMargin="1281.4908" RightMargin="16.5092" TopMargin="688.8891" BottomMargin="-0.8891" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="38" Scale9Height="58" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                <Size X="68.0000" Y="80.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_checkText_0" ActionTag="1551357268" Tag="35" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="18.6276" RightMargin="5.3724" TopMargin="31.2680" BottomMargin="24.7320" FontSize="20" LabelText="加注至" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="60.0000" Y="20.0000" />
+                  <AbstractNodeData Name="m_checkText_0" ActionTag="1551357268" Tag="35" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="37.3320" RightMargin="30.6680" TopMargin="12.9360" BottomMargin="67.0640" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="48.6276" Y="34.7320" />
+                    <Position X="37.3320" Y="67.0640" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5789" Y="0.4570" />
-                    <PreSize X="0.7143" Y="0.2632" />
+                    <PrePosition X="0.5490" Y="0.8383" />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="1239.9055" Y="57.9624" />
+                <Position X="1315.4908" Y="39.1109" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.9077" Y="0.0755" />
-                <PreSize X="0.0615" Y="0.0990" />
+                <PrePosition X="0.9630" Y="0.0509" />
+                <PreSize X="0.0498" Y="0.1042" />
                 <TextColor A="255" R="65" G="65" B="70" />
-                <PressedFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-                <NormalFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="GamePlay/button_action_raise.png" Plist="GamePlaye.plist" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_checkButton" ActionTag="1510357981" Tag="31" IconVisible="False" LeftMargin="1061.0740" RightMargin="220.9260" TopMargin="671.9496" BottomMargin="20.0504" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="54" Scale9Height="54" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-                <Size X="84.0000" Y="76.0000" />
+              <AbstractNodeData Name="m_checkButton" ActionTag="1510357981" Tag="31" IconVisible="False" LeftMargin="1196.7120" RightMargin="93.2880" TopMargin="679.6219" BottomMargin="-7.6219" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="46" Scale9Height="74" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                <Size X="76.0000" Y="96.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_checkText" ActionTag="-1851574182" Tag="32" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="22.0000" RightMargin="22.0000" TopMargin="28.0000" BottomMargin="28.0000" FontSize="20" LabelText="让牌" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="40.0000" Y="20.0000" />
+                  <AbstractNodeData Name="m_checkText" ActionTag="-1851574182" Tag="32" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="38.0000" RightMargin="38.0000" TopMargin="19.5360" BottomMargin="76.4640" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="42.0000" Y="38.0000" />
+                    <Position X="38.0000" Y="76.4640" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5000" Y="0.5000" />
-                    <PreSize X="0.4762" Y="0.2632" />
+                    <PrePosition X="0.5000" Y="0.7965" />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="1103.0740" Y="58.0504" />
+                <Position X="1234.7120" Y="40.3781" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.8075" Y="0.0756" />
-                <PreSize X="0.0615" Y="0.0990" />
+                <PrePosition X="0.9039" Y="0.0526" />
+                <PreSize X="0.0556" Y="0.1250" />
                 <TextColor A="255" R="65" G="65" B="70" />
-                <NormalFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="GamePlay/button_action_check_2.png" Plist="GamePlaye.plist" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_foldButton" ActionTag="-1645601529" Tag="33" IconVisible="False" LeftMargin="943.9373" RightMargin="338.0627" TopMargin="671.8599" BottomMargin="20.1401" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="54" Scale9Height="54" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-                <Size X="84.0000" Y="76.0000" />
+              <AbstractNodeData Name="m_foldButton" ActionTag="-1645601529" Tag="33" IconVisible="False" LeftMargin="1125.0129" RightMargin="172.9871" TopMargin="687.9394" BottomMargin="0.0606" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="38" Scale9Height="58" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                <Size X="68.0000" Y="80.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_foldText" ActionTag="-957393058" Tag="34" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="22.0000" RightMargin="22.0000" TopMargin="28.0000" BottomMargin="28.0000" FontSize="20" LabelText="弃牌" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="40.0000" Y="20.0000" />
+                  <AbstractNodeData Name="m_foldText" ActionTag="-957393058" Tag="34" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="33.2248" RightMargin="34.7752" TopMargin="9.8240" BottomMargin="70.1760" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="42.0000" Y="38.0000" />
+                    <Position X="33.2248" Y="70.1760" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5000" Y="0.5000" />
-                    <PreSize X="0.4762" Y="0.2632" />
+                    <PrePosition X="0.4886" Y="0.8772" />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="985.9373" Y="58.1401" />
+                <Position X="1159.0129" Y="40.0606" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.7218" Y="0.0757" />
-                <PreSize X="0.0615" Y="0.0990" />
+                <PrePosition X="0.8485" Y="0.0522" />
+                <PreSize X="0.0498" Y="0.1042" />
                 <TextColor A="255" R="65" G="65" B="70" />
-                <NormalFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="GamePlay/button_action_fold.png" Plist="GamePlaye.plist" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_allInButton" ActionTag="-1666462874" Tag="36" IconVisible="False" LeftMargin="1197.0333" RightMargin="84.9667" TopMargin="672.7189" BottomMargin="19.2811" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="54" Scale9Height="54" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-                <Size X="84.0000" Y="76.0000" />
+              <AbstractNodeData Name="m_allInButton" ActionTag="-1666462874" Tag="36" IconVisible="False" LeftMargin="1279.5878" RightMargin="14.4122" TopMargin="686.7955" BottomMargin="1.2045" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="42" Scale9Height="58" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                <Size X="72.0000" Y="80.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_allInText" ActionTag="-2022180959" Tag="37" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="28.6276" RightMargin="15.3724" TopMargin="31.2680" BottomMargin="24.7320" FontSize="20" LabelText="全下" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="40.0000" Y="20.0000" />
+                  <AbstractNodeData Name="m_allInText" ActionTag="-2022180959" Tag="37" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="37.6128" RightMargin="34.3872" TopMargin="15.9840" BottomMargin="64.0160" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="48.6276" Y="34.7320" />
+                    <Position X="37.6128" Y="64.0160" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5789" Y="0.4570" />
-                    <PreSize X="0.4762" Y="0.2632" />
+                    <PrePosition X="0.5224" Y="0.8002" />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="1239.0333" Y="57.2811" />
+                <Position X="1315.5878" Y="41.2045" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.9071" Y="0.0746" />
-                <PreSize X="0.0615" Y="0.0990" />
+                <PrePosition X="0.9631" Y="0.0537" />
+                <PreSize X="0.0527" Y="0.1042" />
                 <TextColor A="255" R="65" G="65" B="70" />
-                <PressedFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
-                <NormalFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="GamePlay/button_action_all_in.png" Plist="GamePlaye.plist" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_callButton" ActionTag="1103849038" Tag="38" IconVisible="False" LeftMargin="1071.0735" RightMargin="210.9265" TopMargin="671.0777" BottomMargin="20.9223" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="54" Scale9Height="54" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-                <Size X="84.0000" Y="76.0000" />
+              <AbstractNodeData Name="m_callButton" ActionTag="1103849038" Tag="38" IconVisible="False" LeftMargin="1198.0012" RightMargin="91.9988" TopMargin="678.3174" BottomMargin="-5.3174" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="46" Scale9Height="73" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                <Size X="76.0000" Y="95.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_callText" ActionTag="-1436964446" Tag="39" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="22.8064" RightMargin="21.1936" TopMargin="15.8780" BottomMargin="40.1220" FontSize="20" LabelText="跟注" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="40.0000" Y="20.0000" />
+                  <AbstractNodeData Name="m_callText" ActionTag="-1436964446" Tag="39" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="39.7556" RightMargin="36.2444" TopMargin="-4.2560" BottomMargin="99.2560" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="42.8064" Y="50.1220" />
+                    <Position X="39.7556" Y="99.2560" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5096" Y="0.6595" />
-                    <PreSize X="0.4762" Y="0.2632" />
+                    <PrePosition X="0.5231" Y="1.0448" />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="m_callPrice" ActionTag="256885189" Tag="40" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="18.1088" RightMargin="15.8912" TopMargin="40.4260" BottomMargin="15.5740" FontSize="20" LabelText="10000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="50.0000" Y="20.0000" />
+                  <AbstractNodeData Name="m_callPrice" ActionTag="256885189" Tag="40" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="37.9924" RightMargin="38.0076" TopMargin="23.3795" BottomMargin="71.6205" FontSize="20" LabelText="" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="43.1088" Y="25.5740" />
+                    <Position X="37.9924" Y="71.6205" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5132" Y="0.3365" />
-                    <PreSize X="0.5952" Y="0.2632" />
+                    <PrePosition X="0.4999" Y="0.7539" />
+                    <PreSize X="0.0000" Y="0.0000" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="1113.0735" Y="58.9223" />
+                <Position X="1236.0012" Y="42.1826" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.8148" Y="0.0767" />
-                <PreSize X="0.0615" Y="0.0990" />
+                <PrePosition X="0.9048" Y="0.0549" />
+                <PreSize X="0.0556" Y="0.1237" />
                 <TextColor A="255" R="65" G="65" B="70" />
-                <NormalFileData Type="MarkedSubImage" Path="General/slider_flag_bg.png" Plist="General.plist" />
+                <NormalFileData Type="MarkedSubImage" Path="GamePlay/button_action_call_2.png" Plist="GamePlaye.plist" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>

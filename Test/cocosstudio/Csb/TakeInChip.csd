@@ -68,10 +68,10 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Title" ActionTag="934701696" Tag="302" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="628.2589" RightMargin="641.7411" TopMargin="25.7703" BottomMargin="718.2297" FontSize="24" LabelText="选择买入" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Title" ActionTag="934701696" Tag="302" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="628.3066" RightMargin="641.6934" TopMargin="25.7703" BottomMargin="718.2297" FontSize="24" LabelText="选择买入" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="96.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="676.2589" Y="730.2297" />
+            <Position X="676.3066" Y="730.2297" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4951" Y="0.9508" />
@@ -114,14 +114,14 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Current" ActionTag="-767482879" Tag="306" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="623.0000" RightMargin="623.0000" TopMargin="230.4844" BottomMargin="513.5156" FontSize="24" LabelText="Text Label" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="120.0000" Y="24.0000" />
+          <AbstractNodeData Name="Current" ActionTag="-767482879" Tag="306" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="628.0000" RightMargin="628.0000" TopMargin="231.4844" BottomMargin="514.5156" FontSize="22" LabelText="Text Label" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="110.0000" Y="22.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="683.0000" Y="525.5156" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.6843" />
-            <PreSize X="0.0878" Y="0.0313" />
+            <PreSize X="0.0805" Y="0.0286" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -160,6 +160,17 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5056" Y="0.2896" />
             <PreSize X="0.1611" Y="0.0286" />
+            <OutlineColor A="255" R="255" G="0" B="0" />
+            <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Tip" ActionTag="151018406" Tag="638" IconVisible="False" LeftMargin="626.2329" RightMargin="639.7671" TopMargin="828.3468" BottomMargin="-80.3468" FontSize="20" LabelText="Text Label" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+            <Size X="100.0000" Y="20.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="676.2329" Y="-70.3468" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4950" Y="-0.0916" />
+            <PreSize X="0.0732" Y="0.0260" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>

@@ -40,14 +40,14 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Container" ActionTag="476352879" Tag="35" IconVisible="False" LeftMargin="301.8310" RightMargin="14.1689" TopMargin="109.3226" BottomMargin="38.6774" TouchEnable="True" ClipAble="False" BackColorAlpha="1" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
-            <Size X="1050.0000" Y="620.0000" />
+          <AbstractNodeData Name="Container" ActionTag="476352879" Tag="35" IconVisible="False" LeftMargin="305.1537" RightMargin="10.8462" TopMargin="88.0000" BottomMargin="10.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="1" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="1050.0000" Y="670.0000" />
             <AnchorPoint />
-            <Position X="301.8310" Y="38.6774" />
+            <Position X="305.1537" Y="10.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.2210" Y="0.0504" />
-            <PreSize X="0.7687" Y="0.8073" />
+            <PrePosition X="0.2234" Y="0.0130" />
+            <PreSize X="0.7687" Y="0.8724" />
             <SingleColor A="255" R="255" G="255" B="255" />
             <FirstColor A="255" R="150" G="200" B="255" />
             <EndColor A="255" R="255" G="255" B="255" />
@@ -67,13 +67,13 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Sprite_5" ActionTag="-668666633" Tag="125" IconVisible="False" LeftMargin="57.2527" RightMargin="1117.7473" TopMargin="149.5591" BottomMargin="456.4409" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Sprite_5" ActionTag="-668666633" Tag="125" IconVisible="False" LeftMargin="57.2530" RightMargin="1117.7471" TopMargin="125.8389" BottomMargin="480.1611" ctype="SpriteObjectData">
             <Size X="191.0000" Y="162.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="152.7527" Y="537.4409" />
+            <Position X="152.7530" Y="561.1611" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.1118" Y="0.6998" />
+            <PrePosition X="0.1118" Y="0.7307" />
             <PreSize X="0.1398" Y="0.2109" />
             <FileData Type="MarkedSubImage" Path="ShopLayer/store-sclogo.png" Plist="ShopLayer.plist" />
             <BlendFunc Src="1" Dst="771" />
