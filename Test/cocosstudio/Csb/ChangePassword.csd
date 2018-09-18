@@ -7,17 +7,17 @@
         <Size X="1366.0000" Y="768.0000" />
         <Children>
           <AbstractNodeData Name="general_main_popup_window_full_1" ActionTag="-610364084" Tag="142" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="171.0000" RightMargin="171.0000" TopMargin="-128.0000" BottomMargin="-128.0000" ctype="SpriteObjectData">
-            <Size X="1024.0000" Y="1024.0000" />
+            <Size X="1280.0000" Y="720.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="683.0000" Y="384.0000" />
             <Scale ScaleX="1.6000" ScaleY="2.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5000" Y="0.5000" />
             <PreSize X="0.7496" Y="1.3333" />
-            <FileData Type="Normal" Path="Bg/general_main_popup_window_full.png" Plist="" />
-            <BlendFunc Src="1" Dst="771" />
+            <FileData Type="Normal" Path="Bg/main_bg.jpg" Plist="" />
+            <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="general_title_1048_132_3" ActionTag="-689539295" Tag="147" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="283.0000" RightMargin="283.0000" BottomMargin="688.0000" ctype="SpriteObjectData">
+          <AbstractNodeData Name="general_title_1048_132_3" ActionTag="-689539295" VisibleForFrame="False" Tag="147" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="283.0000" RightMargin="283.0000" BottomMargin="688.0000" ctype="SpriteObjectData">
             <Size X="800.0000" Y="80.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
             <Position X="683.0000" Y="768.0000" />
@@ -28,46 +28,46 @@
             <FileData Type="Normal" Path="Bg/general_header_title_bg.jpg" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Title" ActionTag="-545407128" Tag="148" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="632.5412" RightMargin="637.4588" TopMargin="37.3928" BottomMargin="706.6072" FontSize="24" LabelText="修改密码" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Title" ActionTag="-545407128" Tag="148" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="617.6401" RightMargin="652.3599" TopMargin="32.4302" BottomMargin="711.5698" FontSize="24" LabelText="修改密码" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="96.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="680.5412" Y="718.6072" />
+            <Position X="665.6401" Y="723.5698" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4982" Y="0.9357" />
+            <PrePosition X="0.4873" Y="0.9421" />
             <PreSize X="0.0703" Y="0.0313" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Input1" ActionTag="-1712947132" Tag="149" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="536.6886" RightMargin="545.3114" TopMargin="341.0480" BottomMargin="382.9520" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Input1" ActionTag="-1712947132" Tag="149" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="538.2830" RightMargin="543.7170" TopMargin="192.0392" BottomMargin="531.9608" ctype="SpriteObjectData">
             <Size X="284.0000" Y="44.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="678.6886" Y="404.9520" />
+            <Position X="680.2830" Y="553.9608" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4968" Y="0.5273" />
+            <PrePosition X="0.4980" Y="0.7213" />
             <PreSize X="0.2079" Y="0.0573" />
             <FileData Type="MarkedSubImage" Path="General/common_input_bg.png" Plist="General.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Input2" ActionTag="-1775009536" Tag="150" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="539.2242" RightMargin="542.7758" TopMargin="415.0951" BottomMargin="308.9049" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Input2" ActionTag="-1775009536" Tag="150" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="537.5674" RightMargin="544.4326" TopMargin="305.8222" BottomMargin="418.1778" ctype="SpriteObjectData">
             <Size X="284.0000" Y="44.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="681.2242" Y="330.9049" />
+            <Position X="679.5674" Y="440.1778" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4987" Y="0.4309" />
+            <PrePosition X="0.4975" Y="0.5731" />
             <PreSize X="0.2079" Y="0.0573" />
             <FileData Type="MarkedSubImage" Path="General/common_input_bg.png" Plist="General.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Input3" ActionTag="1995076065" Tag="151" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="541.0000" RightMargin="541.0000" TopMargin="480.1507" BottomMargin="243.8493" ctype="SpriteObjectData">
+          <AbstractNodeData Name="Input3" ActionTag="1995076065" Tag="151" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="537.6885" RightMargin="544.3115" TopMargin="417.2361" BottomMargin="306.7639" ctype="SpriteObjectData">
             <Size X="284.0000" Y="44.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="683.0000" Y="265.8493" />
+            <Position X="679.6885" Y="328.7639" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.3462" />
+            <PrePosition X="0.4976" Y="0.4281" />
             <PreSize X="0.2079" Y="0.0573" />
             <FileData Type="MarkedSubImage" Path="General/common_input_bg.png" Plist="General.plist" />
             <BlendFunc Src="1" Dst="771" />
@@ -83,7 +83,7 @@
             <FileData Type="MarkedSubImage" Path="General/common_input_bg.png" Plist="General.plist" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Submit" ActionTag="1461337443" Tag="152" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="521.0000" RightMargin="521.0000" TopMargin="607.6838" BottomMargin="80.3162" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="294" Scale9Height="58" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="Submit" ActionTag="1461337443" Tag="152" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="522.6544" RightMargin="519.3456" TopMargin="558.0142" BottomMargin="129.9858" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="294" Scale9Height="58" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="324.0000" Y="80.0000" />
             <Children>
               <AbstractNodeData Name="Text" ActionTag="-1354752271" Tag="153" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="140.0000" RightMargin="140.0000" TopMargin="29.0000" BottomMargin="29.0000" FontSize="22" LabelText="提交" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -99,10 +99,10 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="683.0000" Y="120.3162" />
+            <Position X="684.6544" Y="169.9858" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.1567" />
+            <PrePosition X="0.5012" Y="0.2213" />
             <PreSize X="0.2372" Y="0.1042" />
             <TextColor A="255" R="65" G="65" B="70" />
             <NormalFileData Type="MarkedSubImage" Path="General/common_login_btn_green_bg.png" Plist="General.plist" />
