@@ -28,10 +28,10 @@
             <FileData Type="Normal" Path="Bg/general_header_title_bg.jpg" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Text_11" ActionTag="-866299836" Tag="70" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="634.0211" RightMargin="635.9789" TopMargin="29.7198" BottomMargin="714.2802" FontSize="24" LabelText="设置语言" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+          <AbstractNodeData Name="Text_11" ActionTag="-866299836" Tag="70" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="634.0438" RightMargin="635.9562" TopMargin="29.7024" BottomMargin="714.2976" FontSize="24" LabelText="设置语言" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
             <Size X="96.0000" Y="24.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="682.0211" Y="726.2802" />
+            <Position X="682.0438" Y="726.2976" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.4993" Y="0.9457" />
@@ -134,7 +134,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1890" Y="0.5306" />
                 <PreSize X="0.8197" Y="3.5714" />
-                <FileData Type="MarkedSubImage" Path="SettingScene/China.png" Plist="SettingScene.plist" />
+                <FileData Type="MarkedSubImage" Path="SettingScene/France.png" Plist="SettingScene.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -172,7 +172,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1890" Y="0.5306" />
                 <PreSize X="0.8197" Y="3.5714" />
-                <FileData Type="MarkedSubImage" Path="SettingScene/China.png" Plist="SettingScene.plist" />
+                <FileData Type="MarkedSubImage" Path="SettingScene/Germany.png" Plist="SettingScene.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -202,15 +202,15 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Icon" ActionTag="216857258" Tag="85" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-53.8840" RightMargin="97.8840" TopMargin="-73.7136" BottomMargin="-70.2864" ctype="SpriteObjectData">
+              <AbstractNodeData Name="Icon" ActionTag="216857258" Tag="85" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-53.5070" RightMargin="97.5070" TopMargin="-111.7977" BottomMargin="-32.2023" ctype="SpriteObjectData">
                 <Size X="200.0000" Y="200.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="46.1160" Y="29.7136" />
+                <AnchorPoint ScaleX="0.4975" ScaleY="0.2670" />
+                <Position X="45.9903" Y="21.1945" />
                 <Scale ScaleX="0.2500" ScaleY="0.1828" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.1890" Y="0.5306" />
+                <PrePosition X="0.1885" Y="0.3785" />
                 <PreSize X="0.8197" Y="3.5714" />
-                <FileData Type="MarkedSubImage" Path="SettingScene/China.png" Plist="SettingScene.plist" />
+                <FileData Type="MarkedSubImage" Path="SettingScene/Italy.png" Plist="SettingScene.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -248,7 +248,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1890" Y="0.5306" />
                 <PreSize X="0.8197" Y="3.5714" />
-                <FileData Type="MarkedSubImage" Path="SettingScene/China.png" Plist="SettingScene.plist" />
+                <FileData Type="MarkedSubImage" Path="SettingScene/Japan.png" Plist="SettingScene.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -286,7 +286,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1890" Y="0.5306" />
                 <PreSize X="0.8197" Y="3.5714" />
-                <FileData Type="MarkedSubImage" Path="SettingScene/China.png" Plist="SettingScene.plist" />
+                <FileData Type="MarkedSubImage" Path="SettingScene/Malaysia.png" Plist="SettingScene.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -324,7 +324,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1890" Y="0.5306" />
                 <PreSize X="0.8197" Y="3.5714" />
-                <FileData Type="MarkedSubImage" Path="SettingScene/China.png" Plist="SettingScene.plist" />
+                <FileData Type="MarkedSubImage" Path="SettingScene/Malaysia.png" Plist="SettingScene.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -362,7 +362,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1890" Y="0.5306" />
                 <PreSize X="0.8197" Y="3.5714" />
-                <FileData Type="MarkedSubImage" Path="SettingScene/China.png" Plist="SettingScene.plist" />
+                <FileData Type="MarkedSubImage" Path="SettingScene/Netherlands.png" Plist="SettingScene.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -400,7 +400,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1890" Y="0.5306" />
                 <PreSize X="0.8197" Y="3.5714" />
-                <FileData Type="MarkedSubImage" Path="SettingScene/China.png" Plist="SettingScene.plist" />
+                <FileData Type="MarkedSubImage" Path="SettingScene/Portugal.png" Plist="SettingScene.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -438,7 +438,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1890" Y="0.5306" />
                 <PreSize X="0.8197" Y="3.5714" />
-                <FileData Type="MarkedSubImage" Path="SettingScene/China.png" Plist="SettingScene.plist" />
+                <FileData Type="MarkedSubImage" Path="SettingScene/Russia.png" Plist="SettingScene.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -476,7 +476,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1890" Y="0.5306" />
                 <PreSize X="0.8197" Y="3.5714" />
-                <FileData Type="MarkedSubImage" Path="SettingScene/China.png" Plist="SettingScene.plist" />
+                <FileData Type="MarkedSubImage" Path="SettingScene/Spain.png" Plist="SettingScene.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -514,7 +514,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1890" Y="0.5306" />
                 <PreSize X="0.8197" Y="3.5714" />
-                <FileData Type="MarkedSubImage" Path="SettingScene/China.png" Plist="SettingScene.plist" />
+                <FileData Type="MarkedSubImage" Path="SettingScene/Thailand.png" Plist="SettingScene.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -552,7 +552,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1890" Y="0.5306" />
                 <PreSize X="0.8197" Y="3.5714" />
-                <FileData Type="MarkedSubImage" Path="SettingScene/China.png" Plist="SettingScene.plist" />
+                <FileData Type="MarkedSubImage" Path="SettingScene/Turkey.png" Plist="SettingScene.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -590,7 +590,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1890" Y="0.5306" />
                 <PreSize X="0.8197" Y="3.5714" />
-                <FileData Type="MarkedSubImage" Path="SettingScene/China.png" Plist="SettingScene.plist" />
+                <FileData Type="MarkedSubImage" Path="SettingScene/UnitedStates.png" Plist="SettingScene.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>
@@ -628,7 +628,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1890" Y="0.5306" />
                 <PreSize X="0.8197" Y="3.5714" />
-                <FileData Type="MarkedSubImage" Path="SettingScene/China.png" Plist="SettingScene.plist" />
+                <FileData Type="MarkedSubImage" Path="SettingScene/Vietnam.png" Plist="SettingScene.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
             </Children>

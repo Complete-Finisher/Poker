@@ -31,6 +31,7 @@
           <Project Name="desktop.csd" Type="Layer" />
           <Project Name="game_play.csd" Type="Layer" />
           <Project Name="InputFormLayer.csd" Type="Layer" />
+          <Project Name="navigation.csd" Type="Layer" />
           <Project Name="NewLoginLayer.csd" Type="Layer" />
           <Project Name="NewMenuLayer.csd" Type="Layer" />
           <Project Name="NewSettingLayer.csd" Type="Layer" />
@@ -40,6 +41,7 @@
           <Project Name="Register.csd" Type="Layer" />
           <Project Name="ShopLayer.csd" Type="Layer" />
           <Project Name="TakeInChip.csd" Type="Layer" />
+          <Project Name="HelpLayer.csd" Type="Layer" />
         </Folder>
         <Folder Name="Font">
           <TTF Name="ARIAL.ttf" />
@@ -48,6 +50,8 @@
           <TTF Name="ufonts-light.ttf" />
         </Folder>
         <Folder Name="GamePlay">
+          <Image Name="3g.png" />
+          <Image Name="4g.png" />
           <Image Name="addChips01.png" />
           <Image Name="allinAnimateBG.png" />
           <Image Name="blackclubs0.png" />
@@ -82,6 +86,7 @@
           <Image Name="button_action_check_2.png" />
           <Image Name="button_action_fold.png" />
           <Image Name="button_action_raise.png" />
+          <Image Name="button_big.png" />
           <Image Name="button_card_type.png" />
           <Image Name="button_preaction_call_any.png" />
           <Image Name="button_preaction_call_any_select.png" />
@@ -111,8 +116,11 @@
           <Image Name="counters0013.png" />
           <Image Name="counters0014.png" />
           <Image Name="counters0015.png" />
+          <Image Name="dianchi.png" />
+          <Image Name="dianliang.png" />
           <Image Name="game_all_in_font.png" />
           <Image Name="hot_progress_bar.png" />
+          <Image Name="image_chat_bg.png" />
           <Image Name="image_dealer.png" />
           <Image Name="image_hand_poker.png" />
           <Image Name="image_message_bg.png" />
@@ -120,6 +128,11 @@
           <Image Name="image_poker_back.png" />
           <Image Name="image_raise_bg.png" />
           <Image Name="image_raise_thumb.png" />
+          <Image Name="img_diamond.png" />
+          <Image Name="net_level_wifi_0.png" />
+          <Image Name="net_level_wifi_1.png" />
+          <Image Name="net_level_wifi_2.png" />
+          <Image Name="net_level_wifi_3.png" />
           <Image Name="reddiamonds0.png" />
           <Image Name="reddiamonds1.png" />
           <Image Name="reddiamonds10.png" />
@@ -146,11 +159,17 @@
           <Image Name="redhearts7.png" />
           <Image Name="redhearts8.png" />
           <Image Name="redhearts9.png" />
+          <Image Name="shop_back.png" />
+          <Image Name="shop_phone.png" />
           <Image Name="sit_mask.png" />
           <Image Name="sit_shine.png" />
           <Image Name="sit_shine_in.png" />
           <Image Name="takeIn_Tip.png" />
           <Image Name="waitNextTipBack.png" />
+          <Image Name="wifi_1.png" />
+          <Image Name="wifi_2.png" />
+          <Image Name="wifi_3.png" />
+          <Image Name="wifi_bg.png" />
           <Image Name="WIN0001.png" />
         </Folder>
         <Folder Name="General">

@@ -106,6 +106,23 @@
       <FilePathData Path="GamePlay/button_action_call_2.png" />
       <FilePathData Path="GamePlay/button_action_fold.png" />
       <FilePathData Path="GamePlay/button_action_raise.png" />
+      <FilePathData Path="GamePlay/shop_back.png" />
+      <FilePathData Path="GamePlay/shop_phone.png" />
+      <FilePathData Path="GamePlay/img_diamond.png" />
+      <FilePathData Path="GamePlay/dianchi.png" />
+      <FilePathData Path="GamePlay/dianliang.png" />
+      <FilePathData Path="GamePlay/image_chat_bg.png" />
+      <FilePathData Path="GamePlay/3g.png" />
+      <FilePathData Path="GamePlay/4g.png" />
+      <FilePathData Path="GamePlay/net_level_wifi_0.png" />
+      <FilePathData Path="GamePlay/net_level_wifi_1.png" />
+      <FilePathData Path="GamePlay/net_level_wifi_2.png" />
+      <FilePathData Path="GamePlay/net_level_wifi_3.png" />
+      <FilePathData Path="GamePlay/wifi_1.png" />
+      <FilePathData Path="GamePlay/wifi_2.png" />
+      <FilePathData Path="GamePlay/wifi_3.png" />
+      <FilePathData Path="GamePlay/wifi_bg.png" />
+      <FilePathData Path="GamePlay/button_big.png" />
     </ImageFiles>
     <MaxSize Width="2048" Height="2048" />
   </Content>

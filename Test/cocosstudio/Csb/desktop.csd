@@ -16,7 +16,7 @@
             <PreSize X="0.9370" Y="0.9375" />
             <FileData Type="Normal" Path="Bg/image_background.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="bgdesk" ActionTag="-195839952" Tag="103" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="116.3833" RightMargin="49.6167" TopMargin="29.7327" BottomMargin="138.2673" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="bgdesk" ActionTag="-195839952" Tag="103" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="129.1553" RightMargin="36.8447" TopMargin="29.7327" BottomMargin="138.2673" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="1200.0000" Y="600.0000" />
             <Children>
               <AbstractNodeData Name="deskbg" ActionTag="-33313910" Tag="104" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="4.0000" RightMargin="600.0000" TopMargin="31.0000" BottomMargin="31.0000" ctype="SpriteObjectData">
@@ -43,13 +43,13 @@
                 <FileData Type="Normal" Path="Bg/image_desk.png" Plist="" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_playerStatus1" ActionTag="130398207" Tag="104" IconVisible="True" LeftMargin="597.5403" RightMargin="602.4597" TopMargin="549.4854" BottomMargin="50.5146" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="m_playerStatus1" ActionTag="130398207" Tag="104" IconVisible="True" LeftMargin="573.4070" RightMargin="626.5930" TopMargin="558.5516" BottomMargin="41.4483" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
-                <Position X="597.5403" Y="50.5146" />
+                <Position X="573.4070" Y="41.4483" />
                 <Scale ScaleX="1.4359" ScaleY="1.1384" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4980" Y="0.0842" />
+                <PrePosition X="0.4778" Y="0.0691" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
               <AbstractNodeData Name="m_playerStatus2" ActionTag="905956487" Tag="105" IconVisible="True" LeftMargin="267.1763" RightMargin="932.8237" TopMargin="538.8731" BottomMargin="61.1269" ctype="SingleNodeObjectData">
@@ -70,7 +70,7 @@
                 <PrePosition X="0.0139" Y="0.3946" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_playerStatus4" ActionTag="976163450" Tag="107" IconVisible="True" LeftMargin="32.4361" RightMargin="1167.5640" TopMargin="163.8195" BottomMargin="436.1805" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="m_playerStatus4" ActionTag="976163450" Tag="107" IconVisible="True" LeftMargin="32.4361" RightMargin="1167.5638" TopMargin="163.8195" BottomMargin="436.1805" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
                 <Position X="32.4361" Y="436.1805" />
@@ -79,31 +79,31 @@
                 <PrePosition X="0.0270" Y="0.7270" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_playerStatus5" ActionTag="-978318154" Tag="108" IconVisible="True" LeftMargin="322.5368" RightMargin="877.4633" TopMargin="47.9232" BottomMargin="552.0768" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="m_playerStatus5" ActionTag="-978318154" Tag="108" IconVisible="True" LeftMargin="317.0338" RightMargin="882.9662" TopMargin="56.7037" BottomMargin="543.2963" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
-                <Position X="322.5368" Y="552.0768" />
+                <Position X="317.0338" Y="543.2963" />
                 <Scale ScaleX="1.4359" ScaleY="1.1384" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.2688" Y="0.9201" />
+                <PrePosition X="0.2642" Y="0.9055" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_playerStatus6" ActionTag="-31577585" Tag="109" IconVisible="True" LeftMargin="883.0668" RightMargin="316.9332" TopMargin="58.2581" BottomMargin="541.7419" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="m_playerStatus6" ActionTag="-31577585" Tag="109" IconVisible="True" LeftMargin="874.8193" RightMargin="325.1807" TopMargin="48.2398" BottomMargin="551.7602" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
-                <Position X="883.0668" Y="541.7419" />
+                <Position X="874.8193" Y="551.7602" />
                 <Scale ScaleX="1.4359" ScaleY="1.1384" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.7359" Y="0.9029" />
+                <PrePosition X="0.7290" Y="0.9196" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_playerStatus7" ActionTag="-2128108197" Tag="110" IconVisible="True" LeftMargin="1172.9091" RightMargin="27.0909" TopMargin="104.5995" BottomMargin="495.4005" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="m_playerStatus7" ActionTag="-2128108197" Tag="110" IconVisible="True" LeftMargin="1145.3971" RightMargin="54.6029" TopMargin="136.5143" BottomMargin="463.4857" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
-                <Position X="1172.9091" Y="495.4005" />
+                <Position X="1145.3971" Y="463.4857" />
                 <Scale ScaleX="1.4359" ScaleY="1.1384" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.9774" Y="0.8257" />
+                <PrePosition X="0.9545" Y="0.7725" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
               <AbstractNodeData Name="m_playerStatus8" ActionTag="-717181428" Tag="111" IconVisible="True" LeftMargin="1155.4954" RightMargin="44.5046" TopMargin="332.6120" BottomMargin="267.3880" ctype="SingleNodeObjectData">
@@ -115,13 +115,13 @@
                 <PrePosition X="0.9629" Y="0.4456" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_playerStatus9" ActionTag="1045974319" Tag="112" IconVisible="True" LeftMargin="909.5696" RightMargin="290.4304" TopMargin="548.5912" BottomMargin="51.4087" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="m_playerStatus9" ActionTag="1045974319" Tag="112" IconVisible="True" LeftMargin="902.0278" RightMargin="297.9722" TopMargin="548.5915" BottomMargin="51.4085" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
-                <Position X="909.5696" Y="51.4087" />
+                <Position X="902.0278" Y="51.4085" />
                 <Scale ScaleX="1.4359" ScaleY="1.1384" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.7580" Y="0.0857" />
+                <PrePosition X="0.7517" Y="0.0857" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
               <AbstractNodeData Name="m_selfPoker0" ActionTag="578343935" Tag="113" IconVisible="False" LeftMargin="639.8936" RightMargin="466.1064" TopMargin="458.2424" BottomMargin="22.7576" LeftEage="21" RightEage="21" TopEage="28" BottomEage="28" Scale9OriginX="21" Scale9OriginY="28" Scale9Width="52" Scale9Height="63" ctype="ImageViewObjectData">
@@ -293,17 +293,17 @@
                 <PrePosition X="0.5072" Y="0.7426" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_dealerButton1" ActionTag="1505857155" Tag="131" IconVisible="False" LeftMargin="510.6777" RightMargin="657.3223" TopMargin="465.9823" BottomMargin="102.0177" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="m_dealerButton1" ActionTag="1505857155" Tag="131" IconVisible="False" LeftMargin="488.3546" RightMargin="679.6454" TopMargin="465.9827" BottomMargin="102.0173" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
                 <Size X="32.0000" Y="32.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="526.6777" Y="118.0177" />
+                <Position X="504.3546" Y="118.0173" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4389" Y="0.1967" />
+                <PrePosition X="0.4203" Y="0.1967" />
                 <PreSize X="0.0267" Y="0.0533" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/image_dealer.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_dealerButton2" ActionTag="-952401931" Tag="132" IconVisible="False" LeftMargin="312.7826" RightMargin="855.2174" TopMargin="466.9821" BottomMargin="101.0179" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="m_dealerButton2" ActionTag="-952401931" Tag="132" IconVisible="False" LeftMargin="312.7820" RightMargin="855.2180" TopMargin="466.9826" BottomMargin="101.0174" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
                 <Size X="32.0000" Y="32.0000" />
                 <AnchorPoint ScaleX="0.3721" ScaleY="0.4003" />
                 <Position X="324.6892" Y="113.8270" />
@@ -313,7 +313,7 @@
                 <PreSize X="0.0267" Y="0.0533" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/image_dealer.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_dealerButton3" ActionTag="-894536220" Tag="133" IconVisible="False" LeftMargin="71.5171" RightMargin="1096.4829" TopMargin="414.9500" BottomMargin="153.0500" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="m_dealerButton3" ActionTag="-894536220" Tag="133" IconVisible="False" LeftMargin="71.5181" RightMargin="1096.4819" TopMargin="414.9494" BottomMargin="153.0506" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
                 <Size X="32.0000" Y="32.0000" />
                 <AnchorPoint ScaleX="0.4875" ScaleY="0.4752" />
                 <Position X="87.1181" Y="168.2570" />
@@ -343,7 +343,7 @@
                 <PreSize X="0.0267" Y="0.0533" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/image_dealer.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_dealerButton6" ActionTag="-337225923" Tag="136" IconVisible="False" LeftMargin="760.9773" RightMargin="407.0227" TopMargin="44.7090" BottomMargin="523.2910" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="m_dealerButton6" ActionTag="-337225923" Tag="136" IconVisible="False" LeftMargin="760.9774" RightMargin="407.0226" TopMargin="44.7099" BottomMargin="523.2901" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
                 <Size X="32.0000" Y="32.0000" />
                 <AnchorPoint ScaleX="0.4765" ScaleY="0.4288" />
                 <Position X="776.2254" Y="537.0117" />
@@ -353,13 +353,13 @@
                 <PreSize X="0.0267" Y="0.0533" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/image_dealer.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_dealerButton7" ActionTag="-716536394" Tag="137" IconVisible="False" LeftMargin="1079.2568" RightMargin="88.7432" TopMargin="163.7321" BottomMargin="404.2679" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="m_dealerButton7" ActionTag="-716536394" Tag="137" IconVisible="False" LeftMargin="1069.0573" RightMargin="98.9427" TopMargin="199.7354" BottomMargin="368.2646" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
                 <Size X="32.0000" Y="32.0000" />
                 <AnchorPoint ScaleX="0.3299" ScaleY="0.5662" />
-                <Position X="1089.8142" Y="422.3868" />
+                <Position X="1079.6140" Y="386.3831" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.9082" Y="0.7040" />
+                <PrePosition X="0.8997" Y="0.6440" />
                 <PreSize X="0.0267" Y="0.0533" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/image_dealer.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
@@ -369,11 +369,11 @@
                 <Position X="1100.9088" Y="185.2500" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.9174" Y="0.3087" />
+                <PrePosition X="0.9174" Y="0.3088" />
                 <PreSize X="0.0267" Y="0.0533" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/image_dealer.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_dealerButton9" ActionTag="-45506358" Tag="139" IconVisible="False" LeftMargin="958.9510" RightMargin="209.0490" TopMargin="465.0200" BottomMargin="102.9801" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="m_dealerButton9" ActionTag="-45506358" Tag="139" IconVisible="False" LeftMargin="958.9510" RightMargin="209.0490" TopMargin="465.0199" BottomMargin="102.9801" LeftEage="8" RightEage="8" TopEage="8" BottomEage="8" Scale9OriginX="8" Scale9OriginY="8" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
                 <Size X="32.0000" Y="32.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="974.9510" Y="118.9801" />
@@ -473,7 +473,7 @@
                 <PreSize X="0.0167" Y="0.0333" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/counters0007.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="waitNext" ActionTag="807166814" Tag="149" IconVisible="False" PositionPercentXEnabled="True" VerticalEdge="BottomEdge" LeftMargin="499.6000" RightMargin="480.4000" TopMargin="627.9949" BottomMargin="-69.9949" LeftEage="73" RightEage="73" TopEage="6" BottomEage="6" Scale9OriginX="73" Scale9OriginY="6" Scale9Width="74" Scale9Height="30" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="waitNext" ActionTag="807166814" Tag="149" IconVisible="False" PositionPercentXEnabled="True" VerticalEdge="BottomEdge" LeftMargin="496.4901" RightMargin="483.5099" TopMargin="671.6051" BottomMargin="-113.6051" LeftEage="73" RightEage="73" TopEage="6" BottomEage="6" Scale9OriginX="73" Scale9OriginY="6" Scale9Width="74" Scale9Height="30" ctype="ImageViewObjectData">
                 <Size X="220.0000" Y="42.0000" />
                 <Children>
                   <AbstractNodeData Name="waitNextLable" ActionTag="-2043191494" Tag="150" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="60.0000" RightMargin="60.0000" TopMargin="11.0000" BottomMargin="11.0000" FontSize="20" LabelText="Text Label" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -489,24 +489,24 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="609.6000" Y="-48.9949" />
+                <Position X="606.4901" Y="-92.6051" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5080" Y="-0.0817" />
+                <PrePosition X="0.5054" Y="-0.1543" />
                 <PreSize X="0.1833" Y="0.0700" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/waitNextTipBack.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_chipCount1Back" ActionTag="-1907557707" Tag="151" IconVisible="False" LeftMargin="483.6119" RightMargin="596.3881" TopMargin="427.1122" BottomMargin="152.8878" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
-                <Size X="120.0000" Y="20.0000" />
+              <AbstractNodeData Name="m_chipCount1Back" ActionTag="-1907557707" Tag="151" IconVisible="False" LeftMargin="503.6119" RightMargin="616.3881" TopMargin="424.6122" BottomMargin="150.3878" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
+                <Size X="80.0000" Y="25.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_chipCount1" ActionTag="217967923" Tag="152" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.0000" RightMargin="44.0000" TopMargin="2.0000" BottomMargin="2.0000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="m_chipCount1" ActionTag="217967923" Tag="152" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.0000" RightMargin="24.0000" TopMargin="4.5000" BottomMargin="4.5000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                     <Size X="32.0000" Y="16.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="60.0000" Y="10.0000" />
+                    <Position X="40.0000" Y="12.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5000" />
-                    <PreSize X="0.2667" Y="0.8000" />
+                    <PreSize X="0.4000" Y="0.6400" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -516,20 +516,20 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.4530" Y="0.2715" />
-                <PreSize X="0.1000" Y="0.0333" />
+                <PreSize X="0.0667" Y="0.0417" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/chipsBack.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_chipCount2Back" ActionTag="-1023968115" Tag="153" IconVisible="False" LeftMargin="345.1670" RightMargin="734.8330" TopMargin="423.8990" BottomMargin="156.1010" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
-                <Size X="120.0000" Y="20.0000" />
+              <AbstractNodeData Name="m_chipCount2Back" ActionTag="-1023968115" Tag="153" IconVisible="False" LeftMargin="365.1670" RightMargin="754.8330" TopMargin="421.3990" BottomMargin="153.6010" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
+                <Size X="80.0000" Y="25.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_chipCount2" ActionTag="33758453" Tag="154" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.0000" RightMargin="44.0000" TopMargin="2.0000" BottomMargin="2.0000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="m_chipCount2" ActionTag="33758453" Tag="154" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.0000" RightMargin="24.0000" TopMargin="4.5000" BottomMargin="4.5000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                     <Size X="32.0000" Y="16.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="60.0000" Y="10.0000" />
+                    <Position X="40.0000" Y="12.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5000" />
-                    <PreSize X="0.2667" Y="0.8000" />
+                    <PreSize X="0.4000" Y="0.6400" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -539,20 +539,20 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.3376" Y="0.2768" />
-                <PreSize X="0.1000" Y="0.0333" />
+                <PreSize X="0.0667" Y="0.0417" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/chipsBack.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_chipCount3Back" ActionTag="-1943930064" Tag="155" IconVisible="False" LeftMargin="194.1446" RightMargin="885.8554" TopMargin="352.3768" BottomMargin="227.6232" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
-                <Size X="120.0000" Y="20.0000" />
+              <AbstractNodeData Name="m_chipCount3Back" ActionTag="-1943930064" Tag="155" IconVisible="False" LeftMargin="214.1446" RightMargin="905.8554" TopMargin="349.8768" BottomMargin="225.1232" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
+                <Size X="80.0000" Y="25.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_chipCount3" ActionTag="-1769709287" Tag="156" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.0000" RightMargin="44.0000" TopMargin="2.0000" BottomMargin="2.0000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="m_chipCount3" ActionTag="-1769709287" Tag="156" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.0000" RightMargin="24.0000" TopMargin="4.5000" BottomMargin="4.5000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                     <Size X="32.0000" Y="16.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="60.0000" Y="10.0000" />
+                    <Position X="40.0000" Y="12.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5000" />
-                    <PreSize X="0.2667" Y="0.8000" />
+                    <PreSize X="0.4000" Y="0.6400" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -562,148 +562,148 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.2118" Y="0.3960" />
-                <PreSize X="0.1000" Y="0.0333" />
+                <PreSize X="0.0667" Y="0.0417" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/chipsBack.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_chipCount4Back" ActionTag="1810209927" Tag="157" IconVisible="False" LeftMargin="198.4283" RightMargin="881.5717" TopMargin="230.2933" BottomMargin="349.7067" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
-                <Size X="120.0000" Y="20.0000" />
+              <AbstractNodeData Name="m_chipCount4Back" ActionTag="1810209927" Tag="157" IconVisible="False" LeftMargin="209.3780" RightMargin="910.6220" TopMargin="227.7939" BottomMargin="347.2061" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
+                <Size X="80.0000" Y="25.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_chipCount4" ActionTag="-346143781" Tag="158" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.0000" RightMargin="44.0000" TopMargin="2.0000" BottomMargin="2.0000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="m_chipCount4" ActionTag="-346143781" Tag="158" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.0000" RightMargin="24.0000" TopMargin="4.5000" BottomMargin="4.5000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                     <Size X="32.0000" Y="16.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="60.0000" Y="10.0000" />
+                    <Position X="40.0000" Y="12.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5000" />
-                    <PreSize X="0.2667" Y="0.8000" />
+                    <PreSize X="0.4000" Y="0.6400" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="258.4283" Y="359.7067" />
+                <Position X="249.3780" Y="359.7061" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.2154" Y="0.5995" />
-                <PreSize X="0.1000" Y="0.0333" />
+                <PrePosition X="0.2078" Y="0.5995" />
+                <PreSize X="0.0667" Y="0.0417" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/chipsBack.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_chipCount5Back" ActionTag="-810906831" Tag="159" IconVisible="False" LeftMargin="361.3528" RightMargin="718.6472" TopMargin="173.1334" BottomMargin="406.8666" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
-                <Size X="120.0000" Y="20.0000" />
+              <AbstractNodeData Name="m_chipCount5Back" ActionTag="-810906831" Tag="159" IconVisible="False" LeftMargin="375.3192" RightMargin="744.6808" TopMargin="170.6335" BottomMargin="404.3665" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
+                <Size X="80.0000" Y="25.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_chipCount5" ActionTag="-1716656403" Tag="160" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.0000" RightMargin="44.0000" TopMargin="2.0000" BottomMargin="2.0000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="m_chipCount5" ActionTag="-1716656403" Tag="160" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.0000" RightMargin="24.0000" TopMargin="4.5000" BottomMargin="4.5000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                     <Size X="32.0000" Y="16.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="60.0000" Y="10.0000" />
+                    <Position X="40.0000" Y="12.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5000" />
-                    <PreSize X="0.2667" Y="0.8000" />
+                    <PreSize X="0.4000" Y="0.6400" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="421.3528" Y="416.8666" />
+                <Position X="415.3192" Y="416.8665" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.3511" Y="0.6948" />
-                <PreSize X="0.1000" Y="0.0333" />
+                <PrePosition X="0.3461" Y="0.6948" />
+                <PreSize X="0.0667" Y="0.0417" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/chipsBack.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_chipCount6Back" ActionTag="1549961722" Tag="161" IconVisible="False" LeftMargin="707.7095" RightMargin="372.2905" TopMargin="172.3555" BottomMargin="407.6445" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
-                <Size X="120.0000" Y="20.0000" />
+              <AbstractNodeData Name="m_chipCount6Back" ActionTag="1549961722" Tag="161" IconVisible="False" LeftMargin="724.6933" RightMargin="395.3067" TopMargin="171.3669" BottomMargin="403.6331" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
+                <Size X="80.0000" Y="25.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_chipCount6" ActionTag="443138083" Tag="162" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.0000" RightMargin="44.0000" TopMargin="2.0000" BottomMargin="2.0000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="m_chipCount6" ActionTag="443138083" Tag="162" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.0000" RightMargin="24.0000" TopMargin="4.5000" BottomMargin="4.5000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                     <Size X="32.0000" Y="16.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="60.0000" Y="10.0000" />
+                    <Position X="40.0000" Y="12.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5000" />
-                    <PreSize X="0.2667" Y="0.8000" />
+                    <PreSize X="0.4000" Y="0.6400" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="767.7095" Y="417.6445" />
+                <Position X="764.6933" Y="416.1331" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.6398" Y="0.6961" />
-                <PreSize X="0.1000" Y="0.0333" />
+                <PrePosition X="0.6372" Y="0.6936" />
+                <PreSize X="0.0667" Y="0.0417" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/chipsBack.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_chipCount7Back" ActionTag="-419355638" Tag="163" IconVisible="False" LeftMargin="871.3631" RightMargin="208.6369" TopMargin="205.5380" BottomMargin="374.4620" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
-                <Size X="120.0000" Y="20.0000" />
+              <AbstractNodeData Name="m_chipCount7Back" ActionTag="-419355638" Tag="163" IconVisible="False" LeftMargin="892.8719" RightMargin="227.1281" TopMargin="204.5490" BottomMargin="370.4510" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
+                <Size X="80.0000" Y="25.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_chipCount7" ActionTag="118441626" Tag="164" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.0000" RightMargin="44.0000" TopMargin="2.0000" BottomMargin="2.0000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="m_chipCount7" ActionTag="118441626" Tag="164" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.0000" RightMargin="24.0000" TopMargin="4.5000" BottomMargin="4.5000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                     <Size X="32.0000" Y="16.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="60.0000" Y="10.0000" />
+                    <Position X="40.0000" Y="12.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5000" />
-                    <PreSize X="0.2667" Y="0.8000" />
+                    <PreSize X="0.4000" Y="0.6400" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="931.3631" Y="384.4620" />
+                <Position X="932.8719" Y="382.9510" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.7761" Y="0.6408" />
-                <PreSize X="0.1000" Y="0.0333" />
+                <PrePosition X="0.7774" Y="0.6383" />
+                <PreSize X="0.0667" Y="0.0417" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/chipsBack.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_chipCount8Back" ActionTag="2062197023" Tag="165" IconVisible="False" LeftMargin="905.1997" RightMargin="174.8003" TopMargin="352.9571" BottomMargin="227.0429" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
-                <Size X="120.0000" Y="20.0000" />
+              <AbstractNodeData Name="m_chipCount8Back" ActionTag="2062197023" Tag="165" IconVisible="False" LeftMargin="928.2166" RightMargin="191.7834" TopMargin="350.4572" BottomMargin="224.5428" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
+                <Size X="80.0000" Y="25.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_chipCount8" ActionTag="-223085122" Tag="166" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.0000" RightMargin="44.0000" TopMargin="2.0000" BottomMargin="2.0000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="m_chipCount8" ActionTag="-223085122" Tag="166" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.0000" RightMargin="24.0000" TopMargin="4.5000" BottomMargin="4.5000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                     <Size X="32.0000" Y="16.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="60.0000" Y="10.0000" />
+                    <Position X="40.0000" Y="12.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5000" />
-                    <PreSize X="0.2667" Y="0.8000" />
+                    <PreSize X="0.4000" Y="0.6400" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="965.1997" Y="237.0429" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <Position X="968.2166" Y="237.0428" />
+                <Scale ScaleX="1.0377" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.8043" Y="0.3951" />
-                <PreSize X="0.1000" Y="0.0333" />
+                <PrePosition X="0.8068" Y="0.3951" />
+                <PreSize X="0.0667" Y="0.0417" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/chipsBack.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_chipCount9Back" ActionTag="-86802064" Tag="167" IconVisible="False" LeftMargin="738.9812" RightMargin="341.0188" TopMargin="421.2166" BottomMargin="158.7834" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
-                <Size X="120.0000" Y="20.0000" />
+              <AbstractNodeData Name="m_chipCount9Back" ActionTag="-86802064" Tag="167" IconVisible="False" LeftMargin="761.9973" RightMargin="358.0027" TopMargin="420.2275" BottomMargin="154.7725" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="72" Scale9Height="32" ctype="ImageViewObjectData">
+                <Size X="80.0000" Y="25.0000" />
                 <Children>
-                  <AbstractNodeData Name="m_chipCount9" ActionTag="307969625" Tag="168" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.0000" RightMargin="44.0000" TopMargin="2.0000" BottomMargin="2.0000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="m_chipCount9" ActionTag="307969625" Tag="168" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.0000" RightMargin="24.0000" TopMargin="4.5000" BottomMargin="4.5000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                     <Size X="32.0000" Y="16.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="60.0000" Y="10.0000" />
+                    <Position X="40.0000" Y="12.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5000" />
-                    <PreSize X="0.2667" Y="0.8000" />
+                    <PreSize X="0.4000" Y="0.6400" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="798.9812" Y="168.7834" />
+                <Position X="801.9973" Y="167.2725" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.6658" Y="0.2813" />
-                <PreSize X="0.1000" Y="0.0333" />
+                <PrePosition X="0.6683" Y="0.2788" />
+                <PreSize X="0.0667" Y="0.0417" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/chipsBack.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_poolCount1Back" ActionTag="1620951337" Tag="70" IconVisible="False" LeftMargin="507.3777" RightMargin="512.6223" TopMargin="115.8733" BottomMargin="454.1267" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="172" Scale9Height="34" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="m_poolCount1Back" ActionTag="1620951337" Tag="70" IconVisible="False" LeftMargin="509.0237" RightMargin="510.9763" TopMargin="130.2945" BottomMargin="439.7055" LeftEage="24" RightEage="24" TopEage="4" BottomEage="4" Scale9OriginX="24" Scale9OriginY="4" Scale9Width="172" Scale9Height="34" ctype="ImageViewObjectData">
                 <Size X="180.0000" Y="30.0000" />
                 <Children>
                   <AbstractNodeData Name="m_poolCount1" ActionTag="-1754335749" Tag="71" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="74.0000" RightMargin="74.0000" TopMargin="7.0000" BottomMargin="7.0000" FontSize="16" LabelText="1000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -719,10 +719,10 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="597.3777" Y="469.1267" />
+                <Position X="599.0237" Y="454.7055" />
                 <Scale ScaleX="1.1782" ScaleY="1.4794" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4978" Y="0.7819" />
+                <PrePosition X="0.4992" Y="0.7578" />
                 <PreSize X="0.1500" Y="0.0500" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/bottom_poolBack.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
@@ -795,13 +795,13 @@
                 <PreSize X="0.1500" Y="0.0500" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/bottom_poolBack.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="m_poolChip1" ActionTag="-1603285719" Tag="78" IconVisible="False" LeftMargin="511.9575" RightMargin="668.0425" TopMargin="117.8652" BottomMargin="462.1348" LeftEage="7" RightEage="7" TopEage="7" BottomEage="7" Scale9OriginX="7" Scale9OriginY="7" Scale9Width="22" Scale9Height="24" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="m_poolChip1" ActionTag="-1603285719" Tag="78" IconVisible="False" LeftMargin="510.5696" RightMargin="669.4304" TopMargin="132.4635" BottomMargin="447.5365" LeftEage="7" RightEage="7" TopEage="7" BottomEage="7" Scale9OriginX="7" Scale9OriginY="7" Scale9Width="22" Scale9Height="24" ctype="ImageViewObjectData">
                 <Size X="20.0000" Y="20.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="521.9575" Y="472.1348" />
+                <Position X="520.5696" Y="457.5365" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.4350" Y="0.7869" />
+                <PrePosition X="0.4338" Y="0.7626" />
                 <PreSize X="0.0167" Y="0.0333" />
                 <FileData Type="MarkedSubImage" Path="GamePlay/counters0001.png" Plist="GamePlaye.plist" />
               </AbstractNodeData>
@@ -950,10 +950,10 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint />
-            <Position X="116.3833" Y="138.2673" />
+            <Position X="129.1553" Y="138.2673" />
             <Scale ScaleX="0.9408" ScaleY="0.9392" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.0852" Y="0.1800" />
+            <PrePosition X="0.0945" Y="0.1800" />
             <PreSize X="0.8785" Y="0.7813" />
             <SingleColor A="255" R="150" G="200" B="255" />
             <FirstColor A="255" R="150" G="200" B="255" />
