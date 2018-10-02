@@ -73,7 +73,7 @@
       <FilePathData Path="GamePlay/waitNextTipBack.png" />
       <FilePathData Path="GamePlay/chipsBack.png" />
       <FilePathData Path="GamePlay/counters0001.png" />
-      <FilePathData Path="GamePlay/counters00010.png" />
+      <FilePathData Path="GamePlay/counters0010.png" />
       <FilePathData Path="GamePlay/counters0002.png" />
       <FilePathData Path="GamePlay/counters0003.png" />
       <FilePathData Path="GamePlay/counters0004.png" />
@@ -123,6 +123,7 @@
       <FilePathData Path="GamePlay/wifi_3.png" />
       <FilePathData Path="GamePlay/wifi_bg.png" />
       <FilePathData Path="GamePlay/button_big.png" />
+      <FilePathData Path="GamePlay/chipsBack2.png" />
     </ImageFiles>
     <MaxSize Width="2048" Height="2048" />
   </Content>

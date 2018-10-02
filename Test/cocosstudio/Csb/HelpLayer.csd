@@ -40,19 +40,20 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Panel_1" ActionTag="-1698290607" Tag="538" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="55.5000" RightMargin="55.5000" TopMargin="118.0000" BottomMargin="50.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Enable="True" LeftEage="116" RightEage="116" TopEage="95" BottomEage="95" Scale9OriginX="116" Scale9OriginY="95" Scale9Width="120" Scale9Height="98" ctype="PanelObjectData">
-            <Size X="1255.0000" Y="600.0000" />
-            <AnchorPoint ScaleX="0.5000" />
-            <Position X="683.0000" Y="50.0000" />
+          <AbstractNodeData Name="ScrollView" ActionTag="655228583" Tag="114" IconVisible="False" LeftMargin="64.2460" RightMargin="101.7539" TopMargin="115.0193" BottomMargin="52.9807" TouchEnable="True" ClipAble="True" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Enable="True" LeftEage="116" RightEage="116" TopEage="95" BottomEage="95" Scale9OriginX="116" Scale9OriginY="95" Scale9Width="120" Scale9Height="98" IsBounceEnabled="True" ScrollDirectionType="Vertical" ctype="ScrollViewObjectData">
+            <Size X="1200.0000" Y="600.0000" />
+            <AnchorPoint />
+            <Position X="64.2460" Y="52.9807" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.0651" />
-            <PreSize X="0.9187" Y="0.7813" />
+            <PrePosition X="0.0470" Y="0.0690" />
+            <PreSize X="0.8785" Y="0.7813" />
             <FileData Type="MarkedSubImage" Path="SettingScene/scr_settings_privacy_bk.png" Plist="SettingScene.plist" />
-            <SingleColor A="255" R="150" G="200" B="255" />
-            <FirstColor A="255" R="150" G="200" B="255" />
+            <SingleColor A="255" R="255" G="150" B="100" />
+            <FirstColor A="255" R="255" G="150" B="100" />
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
+            <InnerNodeSize Width="1200" Height="600" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

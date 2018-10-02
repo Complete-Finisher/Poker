@@ -10,6 +10,8 @@
           <Image Name="general_main_popup_window_full.png" />
           <Image Name="general_title_1048_132.png" />
           <Image Name="generic_popup.png" />
+          <Image Name="guide1.png" />
+          <Image Name="guide2.png" />
           <Image Name="image_background.png" />
           <Image Name="image_desk.png" />
           <Image Name="login_bgp.jpg" />
@@ -30,6 +32,8 @@
           <Project Name="ChoseLanguage.csd" Type="Layer" />
           <Project Name="desktop.csd" Type="Layer" />
           <Project Name="game_play.csd" Type="Layer" />
+          <Project Name="GuideLayer.csd" Type="Layer" />
+          <Project Name="HelpLayer.csd" Type="Layer" />
           <Project Name="InputFormLayer.csd" Type="Layer" />
           <Project Name="navigation.csd" Type="Layer" />
           <Project Name="NewLoginLayer.csd" Type="Layer" />
@@ -41,7 +45,6 @@
           <Project Name="Register.csd" Type="Layer" />
           <Project Name="ShopLayer.csd" Type="Layer" />
           <Project Name="TakeInChip.csd" Type="Layer" />
-          <Project Name="HelpLayer.csd" Type="Layer" />
         </Folder>
         <Folder Name="Font">
           <TTF Name="ARIAL.ttf" />
@@ -102,7 +105,7 @@
           <Image Name="chips_st.png" />
           <Image Name="chipsBack.png" />
           <Image Name="counters0001.png" />
-          <Image Name="counters00010.png" />
+          <Image Name="counters0010.png" />
           <Image Name="counters0002.png" />
           <Image Name="counters0003.png" />
           <Image Name="counters0004.png" />
@@ -171,6 +174,7 @@
           <Image Name="wifi_3.png" />
           <Image Name="wifi_bg.png" />
           <Image Name="WIN0001.png" />
+          <Image Name="chipsBack2.png" />
         </Folder>
         <Folder Name="General">
           <Image Name="btn_close.png" />

@@ -33,22 +33,15 @@
         <OpenedDocuments>
           <FilePathData Path="Csb/game_play.csd" />
           <FilePathData Path="Csb/desktop.csd" />
-          <FilePathData Path="Csb/NewSettingLayer.csd" />
-          <FilePathData Path="Csb/ChangePassword.csd" />
+          <FilePathData Path="GamePlaye.csi" />
           <FilePathData Path="Csb/ChooseDesk.csd" />
+          <FilePathData Path="Csb/GuideLayer.csd" />
           <FilePathData Path="Csb/ChoseLanguage.csd" />
-          <FilePathData Path="Csb/HelpLayer.csd" />
-          <FilePathData Path="Csb/addChips.csd" />
-          <FilePathData Path="Csb/TakeInChip.csd" />
-          <FilePathData Path="Csb/ShopLayer.csd" />
-          <FilePathData Path="Csb/Register.csd" />
-          <FilePathData Path="Csb/RankLayer.csd" />
-          <FilePathData Path="Csb/PlayerInfoNew.csd" />
-          <FilePathData Path="Csb/NewMenuLayer.csd" />
-          <FilePathData Path="Csb/NewLoginLayer.csd" />
           <FilePathData Path="Csb/navigation.csd" />
+          <FilePathData Path="Csb/ChangePassword.csd" />
+          <FilePathData Path="Csb/addChips.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="Csb/HelpLayer.csd" />
+        <ActiveDocument Path="Csb/game_play.csd" />
       </Value>
     </Item>
   </Properties>
